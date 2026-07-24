@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-24T08:02:34+00:00",
+  "updated": "2026-07-24T13:10:48+00:00",
   "items": [
     {
       "title": "Why Artificial Intelligence Alone May Not Transform Workplace Productivity - Kalkine Media",
@@ -196,6 +196,51 @@
       ],
       "horizon": "now",
       "id": "gn-exclusive-tour-inside-a-nextdc-data-centre-nextdc"
+    },
+    {
+      "title": "‘The threat is real’: Australia in race to stop rogue AI after model ‘escapes’ and hacks tech giant - Sky News Australia",
+      "url": "https://news.google.com/rss/articles/CBMisAJBVV95cUxPRlQtb19VVFo2aDBHVGNPcThlY2Vkem9JeW15bHVVLUlUdzJpZ0hSX3pYa0U2NGtpRG9YUGRYMVUwejQ4RmNFOC1yQ0hBSl9UbmxyRUFXdDYwcWlDRVpJWjNid2ZuV3RpemZsZHNoUXRBUmNxcWd0UVVMRk0wVUR1VHo5LWpjV20ySjM4SWt4am41TmpqTDY3eUpUSk5hcXZUYVlFbzh3NUN0MkxjT3lrcUl5NURIOTBYT3QzQVNDWXNFdXlkYjljbDJPR0JFeU1jREhmcXZCRW1GQTdub2tHbkVhSWdXUEk5dks2WFF3U2E4emctaGE2VzBHNDNySkhRSF9xYnY4SVZGdm9SY3NyQnhWZzFQb0ZCT2FBbWdWQ2tFUGZ4SzRSSkhRVm5FR2hJ0gG2AkFVX3lxTE0yLTN5a2lpNnRfaGNrNFFyZlRhMFVkY1BMWkRCSTVJbHFtUUdOcE9YYy1kTmczMk1LOTBVUWFWUUJzZ2M5Sk5ZREZtakdTNWNwV2g2cjhyYWRqa2VHR0dSdFVWZHNKVk8ydHJxa0Jab3F6RWZjOVBSSDlGTVQ1OEFFOTRTS20xUXlmWGhSMFhNWGVFX0pRQ2dHX016b09hTzNTYnhXSXdhemZ4S19XQTJVckdwc2lxb05QT1FjT3RHQmdLVEsxdjRqeEZqNlBabUJDRDc1eGJpNWVpZzFVcVhERFFOZS1pRlkwaTZNeVJlUDVnaDdpMFlHc212LWpGQS1DMWc3XzJWbnc2QUt6UDkwN0ZPVUpzYUtjV0wxQnRIcGZzR1g5Mnd6SWJwZkxvY2VjTzdtN0E?oc=5",
+      "source": "Sky News Australia",
+      "date": "2026-07-24",
+      "summary": "‘The threat is real’: Australia in race to stop rogue AI after model ‘escapes’ and hacks tech giant &nbsp;&nbsp; Sky News Australia",
+      "categories": [
+        "current"
+      ],
+      "geography": [
+        "National"
+      ],
+      "horizon": "now",
+      "id": "gn-the-threat-is-real-australia-in-race-to-stop-rogue-ai-after-model-escapes-and-h"
+    },
+    {
+      "title": "EXPLAINER – What Australia’s AI framework means for tech companies and creators - Anadolu Ajansı",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOZ295aHZjX19mcTlWVmU4SFkzRkZuQm5uWHlkb3FzS0pPMHNOcFEyN1JsRThhMHBlNl9nYTZCYlZ6amo2LU1HUmJUVXg2ajBVeDVWNi1lcWNNS2RieUJ3eVVzb09hX0dSM3dSWktxUk9LY0RDY2VyTWVBemlQWWs3UDdKN0xSV2JsdG53SXYxMjZ5bEd0MFk3d1EyM0hIUEdCQnFlT3FfR1JtYmh1WHVwTlRZNVAxemFEOExaVkYtQmg?oc=5",
+      "source": "Anadolu Ajansı",
+      "date": "2026-07-24",
+      "summary": "EXPLAINER – What Australia’s AI framework means for tech companies and creators &nbsp;&nbsp; Anadolu Ajansı",
+      "categories": [
+        "policy"
+      ],
+      "geography": [
+        "National"
+      ],
+      "horizon": "now",
+      "id": "gn-explainer-what-australia-s-ai-framework-means-for-tech-companies-and-creators-an"
+    },
+    {
+      "title": "Australia’s AI complacency: PM’s faster horses for the age of aircraft - Strategic Analysis Australia",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQTElfSXR2cWZjTzJFUzlTWnNseEVnM0QtNmtFdFNNWFpTNjdhNWVnOXl0eU95NWFTUzd6ZXlJY0NyV3Z4eHhIdjNDTUhvd2FjWF9ZdDlnSS1UVnQxM2I0NWp6bkxOVWMxMHU3dTVuVmFXRzFFZXRHeEZHUUN4Y2JULU41UWtUOG9hN2d1VDVCaHVabjdjcVl1ZmcxdjVKQQ?oc=5",
+      "source": "Strategic Analysis Australia",
+      "date": "2026-07-24",
+      "summary": "Australia’s AI complacency: PM’s faster horses for the age of aircraft &nbsp;&nbsp; Strategic Analysis Australia",
+      "categories": [
+        "current"
+      ],
+      "geography": [
+        "National"
+      ],
+      "horizon": "now",
+      "id": "gn-australia-s-ai-complacency-pm-s-faster-horses-for-the-age-of-aircraft-strategic"
     },
     {
       "title": "Workforce capability holds the key to Australia’s AI success - AFR",
@@ -3726,51 +3771,6 @@
       ],
       "horizon": "now",
       "id": "gn-green-energy-mandate-means-data-centres-won-t-be-built-afr"
-    },
-    {
-      "title": "Australia is making humanoid robots in the midst of its AI reckoning - ABC News & Headlines – Australian Broadcasting Corporation",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOY1FaeFdoZHR3bkk4VkNMcjFRcDk1OXhILUY0aUdsbk1Rdkg2eDA1VDA2VTNVNW45UFRiX2doaVRtcmpHY0NVdk5JUzExWjBDSXNPNjlzZS0zY2t3ampNRkZXRGpPMmRQLVJrSnVhVk1Nc2FrdE5lem5LcDE2cGo4N1JzNER0amJUMnRmYTZxM21rMUdUNW1vbkFialFyYmpyLTJPa0pSY09udTVEbFdJ?oc=5",
-      "source": "ABC News & Headlines – Australian Broadcasting Corporation",
-      "date": "2026-07-19",
-      "summary": "Australia is making humanoid robots in the midst of its AI reckoning &nbsp;&nbsp; ABC News & Headlines – Australian Broadcasting Corporation",
-      "categories": [
-        "current"
-      ],
-      "geography": [
-        "National"
-      ],
-      "horizon": "now",
-      "id": "gn-australia-is-making-humanoid-robots-in-the-midst-of-its-ai-reckoning-abc-news-he"
-    },
-    {
-      "title": "Coast's newest AI centre to escape government rules - Sunshine Coast News",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPekJ6dUJDQzZqaDlmdHNtdUx2X2RHOGVRM3o2YktxY3E2YTZuQU5FOUxxRlNkeERwOW9FR0taVHlfNnpES3FnSUd0bnVsbjk0clQtTFYyaVlLODBORlF3bzRmaTIzUVE1VGtzdlF2MDVuZHFBWTdOOWNmNGlvQTc1VFVwY2dfd1EwdE1HN0dhQXdPbGJLSjFlbGl3UENOa2Mz?oc=5",
-      "source": "Sunshine Coast News",
-      "date": "2026-07-19",
-      "summary": "Coast's newest AI centre to escape government rules &nbsp;&nbsp; Sunshine Coast News",
-      "categories": [
-        "current"
-      ],
-      "geography": [
-        "National"
-      ],
-      "horizon": "now",
-      "id": "gn-coast-s-newest-ai-centre-to-escape-government-rules-sunshine-coast-news"
-    },
-    {
-      "title": "AI warning: Aussies risk losing jobs despite PM’s promise - The Nightly",
-      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNOUgtRmRXUEZYaDFFQ29QZlpndnlEOW1ySTFWOFZuS1lrT3JKYjZRbktHRE1SQ3puOENCMDEyWjZLSVZJckpvLW85LV9qbm9OV1NqQVROeElPWlM1VGIxN3pfTDQ1LW42bjVSOHllUjBIcEltUWZnMk5SeGhUeUxGWGUwVjBOV3c5clp0TDMzZlYtV2RzTzZqaWFrcVpEZGd1MWxtcm1VdlFjZFlTLU1KbVVybTNKYVBpb0dxZEdhcjFtTzJBOWJZSnhScHpXYUhjSU93TF9keHAwRFZhUjhV?oc=5",
-      "source": "The Nightly",
-      "date": "2026-07-19",
-      "summary": "AI warning: Aussies risk losing jobs despite PM’s promise &nbsp;&nbsp; The Nightly",
-      "categories": [
-        "current"
-      ],
-      "geography": [
-        "National"
-      ],
-      "horizon": "now",
-      "id": "gn-ai-warning-aussies-risk-losing-jobs-despite-pm-s-promise-the-nightly"
     },
     {
       "id": "seed-nsw-pipeline",
