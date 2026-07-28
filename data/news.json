@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-28T13:24:08+00:00",
+  "updated": "2026-07-28T19:01:06+00:00",
   "items": [
     {
       "title": "A rogue AI just gave us a warning. Australia isn't prepared - ABC News & Headlines – Australian Broadcasting Corporation",
@@ -256,6 +256,36 @@
       ],
       "horizon": "now",
       "id": "gn-bowen-blow-as-queensland-nt-oppose-green-data-centre-demand-the-australian"
+    },
+    {
+      "title": "Tech Talk: Luckey discusses Ghost Shark, artificial intelligence and facial recognition in defence - defenceconnect.com.au",
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNZzM1WGJYbjFFZUVmNmd2Sm8wZWtlNHJUM1pHR00yRXRORUdlak9wdGlEdVFMWHM3RVFkMXdHcWdQWnZ4T3ZOc0lDdGQtd1F0aE55U1F4aXA3VGFvREFmelJrdTJQQU1OblZIelk4OThhUW9jYWtmVWppdEctc0VfZGI0dFFiNzI5cGY4QVBTQkNfLW1xVzBUejAyTTJIRE1VOElaT2ZQaUVBRUxMX1ZBZkRRYWNxbFYzc09GR1NzMkxvLUp0TFlSSjZVWEVrSkZNOGhyYVk4Z0piS1owekE?oc=5",
+      "source": "defenceconnect.com.au",
+      "date": "2026-07-28",
+      "summary": "Tech Talk: Luckey discusses Ghost Shark, artificial intelligence and facial recognition in defence &nbsp;&nbsp; defenceconnect.com.au",
+      "categories": [
+        "current"
+      ],
+      "geography": [
+        "National"
+      ],
+      "horizon": "now",
+      "id": "gn-tech-talk-luckey-discusses-ghost-shark-artificial-intelligence-and-facial-recogn"
+    },
+    {
+      "title": "South Australia energy precinct bets on staged AI data centre deployment - W.Media",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNeGZJRXdlYlBQQVM3Z21RUUlNbnVZZmdmNjVmc0hzU0ZlbFMzUHI3MHpBYmUwbEI3YVljOGFYSG02cGpBRmpLN2NFYzE0eWlyQ0l6Zks0UzlDYkxlOTdpcEJjWWt5b1pLdFNhNW5qOTZjMTNuNmFlQzF1VUNaSm5Ub0trX1pEeGw0NG9nZzhkaU1TYVU?oc=5",
+      "source": "W.Media",
+      "date": "2026-07-28",
+      "summary": "South Australia energy precinct bets on staged AI data centre deployment &nbsp;&nbsp; W.Media",
+      "categories": [
+        "buildouts"
+      ],
+      "geography": [
+        "SA"
+      ],
+      "horizon": "now",
+      "id": "gn-south-australia-energy-precinct-bets-on-staged-ai-data-centre-deployment-w-media"
     },
     {
       "title": "Complex negotiations ahead as AI and Media Companies explore future deals - radioinfo",
@@ -3739,36 +3769,6 @@
       ],
       "horizon": "now",
       "id": "gn-what-to-expect-from-alphabet-s-q2-earnings-ai-gemini-and-cloud-in-focus-invezz"
-    },
-    {
-      "title": "Australia’s Data Centre Boom Risks a 26% Power Bill [2026] - tech-insider.org",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE03MURtdHZXdk9UWE5zTWxaZGdtQnpLYWk0QnJtRGdZRDk4cldYR2REdmdLZS1xWW5NVFJCTzZXcF9nUkNlM0xnaTFjdHRaNFkzSFdoYWQwUWRDTkJBdGoyZm1qQVp1d1o5WE9lMjhmZWhXaTNWbzNIcUVxMA?oc=5",
-      "source": "tech-insider.org",
-      "date": "2026-07-21",
-      "summary": "Australia’s Data Centre Boom Risks a 26% Power Bill [2026] &nbsp;&nbsp; tech-insider.org",
-      "categories": [
-        "buildouts"
-      ],
-      "geography": [
-        "National"
-      ],
-      "horizon": "now",
-      "id": "gn-australia-s-data-centre-boom-risks-a-26-power-bill-2026-tech-insider-org"
-    },
-    {
-      "title": "Data centres will drive up energy, water and construction costs - MacroBusiness",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQcm5GSjlWN0UwVVNlTGNBcmNGLUp1VEZwbzQyN2ZtY0xEbHBHeTF3V1VOZnZCUFNnZWhYVEs3dHlIVUtGZ0t6dUxfZFQ4Ny1ILUdac1h0a3BoZFV3UnFZU0d4X21CckpZQnVqSGVqTzZRdDMzR2NlelMxTlFJbkFXRHhkRWU2cmhKZTZuWmtIM0lWc1dEVDQ0NFpzeG55SHoyU3RQZ1JfOA?oc=5",
-      "source": "MacroBusiness",
-      "date": "2026-07-21",
-      "summary": "Data centres will drive up energy, water and construction costs &nbsp;&nbsp; MacroBusiness",
-      "categories": [
-        "buildouts"
-      ],
-      "geography": [
-        "National"
-      ],
-      "horizon": "future",
-      "id": "gn-data-centres-will-drive-up-energy-water-and-construction-costs-macrobusiness"
     },
     {
       "id": "seed-nsw-pipeline",
