@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-29T13:30:07+00:00",
+  "updated": "2026-07-29T18:47:19+00:00",
   "items": [
     {
       "title": "CBA axes contractor call centre jobs after AI rollout - hcamag.com",
@@ -695,6 +695,82 @@
       ],
       "horizon": "now",
       "id": "gn-australian-firms-race-to-appoint-chief-ai-officers-it-brief-australia"
+    },
+    {
+      "title": "A rogue AI just gave us a warning. Australia isn't prepared - abc.net.au",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNbHJzSkpYUWNFbWlyQVl1LWMxUW53c3Q4V08xQkJYYnBPb0N6X1pZcHFpTnNvRHR3OHI3UXdOUHpkY2hseDduVFJkSUtCcEJWbmY2cmphZERuY1kzOFFheGtERnhkMGJDVW1ORWNFTzNSeXk3Qk9xcllsRF95bUowbzNMaXZ6SWRTNDdUQy1GNlg1bDZqV0tNWU11eFBlZm5KMnBaVlZHYTZHR3NYdXhR?oc=5",
+      "source": "abc.net.au",
+      "date": "2026-07-28",
+      "summary": "A rogue AI just gave us a warning. Australia isn't prepared &nbsp;&nbsp; abc.net.au",
+      "categories": [
+        "current"
+      ],
+      "geography": [
+        "National"
+      ],
+      "horizon": "now",
+      "id": "gn-a-rogue-ai-just-gave-us-a-warning-australia-isn-t-prepared-abc-net-au"
+    },
+    {
+      "title": "Australian firms race to appoint chief AI officers - itbrief.com.au",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNSkJsVy16bDY5SUlFUTBuZEFSU2NmczBib2RfU0FDMnVaaEFKTUpFbkxtRGJ3Y2tOSTNuTXJJXzNuNHZHYTd6Y2NOU18ycXhMNXA5NnNoSHV5OEZCUWktZWk2c1F1MDltSk9KeV9nWWIwMEtKVTVWa1RWM1BTSTFPQXluRzFvQQ?oc=5",
+      "source": "itbrief.com.au",
+      "date": "2026-07-28",
+      "summary": "Australian firms race to appoint chief AI officers &nbsp;&nbsp; itbrief.com.au",
+      "categories": [
+        "current"
+      ],
+      "geography": [
+        "National"
+      ],
+      "horizon": "now",
+      "id": "gn-australian-firms-race-to-appoint-chief-ai-officers-itbrief-com-au"
+    },
+    {
+      "title": "Supply chain pressures threaten Australia's AI data centres - itbrief.com.au",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOZlhDVlkzSmlLQU5rMkJGYng4eDc2OHBLQlFkQnhzVUs1U2I0ZzBfWGp2LXZqYS1WcEp1X2p2Z0dBQ01iN3MyWWhteVZ6Y3huVmllRDVrdFFHeHBHLTNzdTBpNDlsWENRbEhkemUzX2JlOVFYaFVKMXRuaFgxc1RCbG51SFJzVUdHc1R4S3B5RDF5UQ?oc=5",
+      "source": "itbrief.com.au",
+      "date": "2026-07-28",
+      "summary": "Supply chain pressures threaten Australia's AI data centres &nbsp;&nbsp; itbrief.com.au",
+      "categories": [
+        "buildouts"
+      ],
+      "geography": [
+        "National"
+      ],
+      "horizon": "now",
+      "id": "gn-supply-chain-pressures-threaten-australia-s-ai-data-centres-itbrief-com-au"
+    },
+    {
+      "title": "‘So inaccurate, it’s ridiculous’: New way GPs are putting your privacy at risk - NT News",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPNjhaTnMwbXdOcTlXOTl3NHlDTklDQmxJZ3FtWVh2THZYZ2hIdHlUemo5SkdBVkJIZTVBN0NQMlRpR0hlajZtOXBSQUZVbUNnVW4tQ0ozLWdKLVpvY2JwbmtIaGx3Y3Z6ZlBPQlVsdkduZ0pwaDg0aUNlQlFDVDJJWHhYVG9CanhTTmhnRENxX3FXY0djenctYXljZ055WGR6a2xFVmJVd2g2VEExS1NTV2tva2lpUDIyU0lweXVoWGlRSFNydThEb0g0UmVLSjFjQ0YySjF6eGc3MTNo?oc=5",
+      "source": "NT News",
+      "date": "2026-07-28",
+      "summary": "‘So inaccurate, it’s ridiculous’: New way GPs are putting your privacy at risk &nbsp;&nbsp; NT News",
+      "categories": [
+        "current"
+      ],
+      "geography": [
+        "National"
+      ],
+      "horizon": "now",
+      "id": "gn-so-inaccurate-it-s-ridiculous-new-way-gps-are-putting-your-privacy-at-risk-nt-n"
+    },
+    {
+      "title": "PM's data centre plan may hit roadblock as energy debate heats up - abc.net.au",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxORDdJQnNTdUdQNTBxbXFxSWVIQmxJajA1aTh3d2tkbHVGRVZ2UzR3MThTeUxLbGhPejljZkVveC1jb0JvdXFoVjhaNEtxRXVaaFRyNk9Ibm5rRFVocUhINzR0b1lLM01SNlJ4TS0wZml3bWlvR2lkaXVjZjJzQkFzVmFWX0twQmpXQ185ZkNJLTBPWS1UY1NiX2dpWFpHUm5O?oc=5",
+      "source": "abc.net.au",
+      "date": "2026-07-28",
+      "summary": "PM's data centre plan may hit roadblock as energy debate heats up &nbsp;&nbsp; abc.net.au",
+      "categories": [
+        "buildouts",
+        "investments"
+      ],
+      "geography": [
+        "National"
+      ],
+      "horizon": "now",
+      "id": "gn-pm-s-data-centre-plan-may-hit-roadblock-as-energy-debate-heats-up-abc-net-au"
     },
     {
       "title": "Complex negotiations ahead as AI and Media Companies explore future deals - radioinfo",
@@ -1540,6 +1616,21 @@
       "id": "gn-industry-responds-to-government-s-proposed-ai-standards-and-data-centre-rules-cr"
     },
     {
+      "title": "Powerful AI tool hoped to come to Australia - abc.net.au",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNQnNmUFNMWXozbXpMUzRxd0dWdEFMTHJ4YWZJWlBMZnVzN2ZSUHhGNWVlZUxWNnV6c051VFJ1WkNTd3hjc2k3NVJIRW42ZmJvNHdQaGtZeVBJMHBPLTRpeEV1UW5lQ09YY0oxUnhXaU5PTGNFOWdjQktxanljZEk3cmFqbzUtaFVQTkRKT1V0VXJaSFhnb0NVUDNOOA?oc=5",
+      "source": "abc.net.au",
+      "date": "2026-07-26",
+      "summary": "Powerful AI tool hoped to come to Australia &nbsp;&nbsp; abc.net.au",
+      "categories": [
+        "current"
+      ],
+      "geography": [
+        "National"
+      ],
+      "horizon": "now",
+      "id": "gn-powerful-ai-tool-hoped-to-come-to-australia-abc-net-au"
+    },
+    {
       "title": "Australia’s eSafety study examines children’s digital habits - Digital Watch Observatory",
       "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPdDgxNG1QVFdaa1ZDbEFqd2JaUkZKX1B1SnY1VE83LXhLcFpWYjBuR0xMVGhUdUFDdHQ1cG5kdTBJb2MzTXo5RDQ0WWd6dGstcWtRV2dUekZ6RHdmNXpTaEt6dDNta3JiMzdaMUNIaGIxOEpNdlI1SXBlcTZjVFNSeA?oc=5",
       "source": "Digital Watch Observatory",
@@ -1644,6 +1735,21 @@
       ],
       "horizon": "now",
       "id": "gn-when-should-ai-enter-the-classroom-psychology-today"
+    },
+    {
+      "title": "Council fears Sydney suburb risks becoming 'data centre wasteland' - abc.net.au",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNeVp2UUN5VEZ2S1hlLXV1a3N5bklZSFo0T2p5eFcxZ2FmSXVSZU94NkZiTDNlTTY0VWJVTndDOG1GZVZXMzZVdXl4WlpSazdCT1l4TC1YSFZMWDFPQUMyWDFsdGdMTnBPa25hWkNzUEloS08zcWdfWlc0NFZNUV9DMlRPRUxqTVNBZTBtRnZQNmotYU9CaWZFNzB4WGxocnNVRF8yVncwcw?oc=5",
+      "source": "abc.net.au",
+      "date": "2026-07-25",
+      "summary": "Council fears Sydney suburb risks becoming 'data centre wasteland' &nbsp;&nbsp; abc.net.au",
+      "categories": [
+        "buildouts"
+      ],
+      "geography": [
+        "NSW"
+      ],
+      "horizon": "now",
+      "id": "gn-council-fears-sydney-suburb-risks-becoming-data-centre-wasteland-abc-net-au"
     },
     {
       "title": "Why Artificial Intelligence Alone May Not Transform Workplace Productivity - Kalkine Media",
@@ -2230,6 +2336,21 @@
       ],
       "horizon": "now",
       "id": "gn-allan-s-latest-policy-alienates-despairing-business-community-afr"
+    },
+    {
+      "title": "They drink our water and take our power, but do data centres create jobs? - abc.net.au",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPTE55WEJFckRaVnJvRWJyZ1ZmaEZSSDc0ekFnUXRLZ1BXc3lsM0NrYkRSRjJXOWgtd0kyeURYTkFJVlBtOVRKYzRRczBOT19ONWxBdVVxNjFic3RCaVpyYzV5d2dIeEJTLWJkUko5ZlRmQy1mVlhFbXQzT0prVGxxMVloOGE2Nkh0MXNQb0g5SV8tV3F6WnF0U3NnWEZUUQ?oc=5",
+      "source": "abc.net.au",
+      "date": "2026-07-24",
+      "summary": "They drink our water and take our power, but do data centres create jobs? &nbsp;&nbsp; abc.net.au",
+      "categories": [
+        "buildouts"
+      ],
+      "geography": [
+        "National"
+      ],
+      "horizon": "now",
+      "id": "gn-they-drink-our-water-and-take-our-power-but-do-data-centres-create-jobs-abc-net"
     },
     {
       "title": "Workforce capability holds the key to Australia’s AI success - AFR",
@@ -3648,128 +3769,6 @@
       ],
       "horizon": "now",
       "id": "gn-why-investors-are-backing-this-australian-startup-teaching-ai-to-smell-afr"
-    },
-    {
-      "title": "Energy North shares its vision for Murranji data centre - ABC listen - ABC News & Headlines – Australian Broadcasting Corporation",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQNWxqX1dXSkpuejkweDFTY0hIX1ktQThQOE1zcUtpMmc5V3lxeGl0UTcza2FiNXBfYXFVa29xYlZ1d3ltWTNRM3lnNmZQNDVHRzFHNlB6OUtzWjlIX1hwSG96dzZ5TTVHYTFXRWw2SnRIWGJwbE9uakU3R0JWa2Y4N0F6TWpVMXg4MVlxOWhMQVExX283c0VUNUs4N01yRndwNWJvUXRlc3ptQTdRMTVyY01rTko2WW9PWnJGZkZLRzV2LTIxbHhXOQ?oc=5",
-      "source": "ABC News & Headlines – Australian Broadcasting Corporation",
-      "date": "2026-07-22",
-      "summary": "Energy North shares its vision for Murranji data centre - ABC listen &nbsp;&nbsp; ABC News & Headlines – Australian Broadcasting Corporation",
-      "categories": [
-        "buildouts",
-        "markets"
-      ],
-      "geography": [
-        "National"
-      ],
-      "horizon": "now",
-      "id": "gn-energy-north-shares-its-vision-for-murranji-data-centre-abc-listen-abc-news-head"
-    },
-    {
-      "title": "Artificial Intelligence’s new frontier: Digitising dogs’ noses - AFR",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPTTVQalN1ZFhENmMxSklKcWxjMWdfTktLay1QWl9oMHdEUktCOThiVVZFQUNRR3ZfV0hzcU9iUTJieUhpX3d5QmJiNENWRFJsNDhZUi02dEJfRFR1UDVvemU5d1MxMjV6ZEFFbmpBTndITzZTTHZuWjZVeUEweFNWa3RTTGp2Z1A0bFZfY0w0RUlSTTg2MEpIYlpDSmdJNzUwN3hGVjFkR3VzYmJSNTdHSi1UckVZM016REw0T1lXbEZsS2x6TjJJ?oc=5",
-      "source": "AFR",
-      "date": "2026-07-22",
-      "summary": "Artificial Intelligence’s new frontier: Digitising dogs’ noses &nbsp;&nbsp; AFR",
-      "categories": [
-        "current"
-      ],
-      "geography": [
-        "National"
-      ],
-      "horizon": "now",
-      "id": "gn-artificial-intelligence-s-new-frontier-digitising-dogs-noses-afr"
-    },
-    {
-      "title": "Australia's new AI rules protect data centres, not citizens - Pearls and Irritations",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPM09XTUpncWYxbkFkRGtObmFpclZnOEVMcTRORGNhTzdTYXZZZkx3VWRadm10WjYyc3R3aDZXRjFRNHVXLUpHX1RiU3NmeVRJWXlBSEdOb3RiTE04UzZNR2hpdk80dDdtcVc4alJvQVNjYktvZENwaFBucmpfVGlabFVETHlKZ3h6eXNqWTlJcm1GWjZQekdnWnZXOA?oc=5",
-      "source": "Pearls and Irritations",
-      "date": "2026-07-22",
-      "summary": "Australia's new AI rules protect data centres, not citizens &nbsp;&nbsp; Pearls and Irritations",
-      "categories": [
-        "buildouts"
-      ],
-      "geography": [
-        "National"
-      ],
-      "horizon": "now",
-      "id": "gn-australia-s-new-ai-rules-protect-data-centres-not-citizens-pearls-and-irritation"
-    },
-    {
-      "title": "Pay to play: Aussies tell data centres to fund their own clean energy - Climate Council",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPMXlmSFZOUkFnQ2N1MnhOeXpJU1NEX0t3X2FzYUtPUjdqeEFvS181dmRhX2t4ckh3c1ZpMmF2SFJJN3ZhNmJWV1Q1U0VhTXRrbjI3bF9uY0NYNmJIbElXbUR4QkJBM1F5ZkIzWWYzV25YYUx6Rjd0aGh6VHpmYmRLQ0xDSUNzOW1WeHF4ZUNTcWk2V3ZONExiQmM0OHMwU0ZpblV1d3NTb1RBTE1NSDVILV9oVQ?oc=5",
-      "source": "Climate Council",
-      "date": "2026-07-22",
-      "summary": "Pay to play: Aussies tell data centres to fund their own clean energy &nbsp;&nbsp; Climate Council",
-      "categories": [
-        "buildouts"
-      ],
-      "geography": [
-        "National"
-      ],
-      "horizon": "now",
-      "id": "gn-pay-to-play-aussies-tell-data-centres-to-fund-their-own-clean-energy-climate-cou"
-    },
-    {
-      "title": "On AI, Albanese wants to take us on the wine-dark seas of change. The people will need some convincing - Crikey",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNLW1aaE0tTnh0UTQ5ck5BalpSZWExX2VMRXBhZ0hOOExqMFF6WEJYUGZWSG5HSHJQYXItLW1KbTY2TkdPU2VidXJLNnY3ckpKM3o0OUhXVTN2THFEZ3I1QXQwUkRBdWNrVnFXUE5LbHhacnpwRnlhTFJzeWxQaWlvYjRZV2xaWWJBbDRCNFdFd0syQmRiRF9WeDdQRXlxb1Zrd1Q1dzd3?oc=5",
-      "source": "Crikey",
-      "date": "2026-07-21",
-      "summary": "On AI, Albanese wants to take us on the wine-dark seas of change. The people will need some convincing &nbsp;&nbsp; Crikey",
-      "categories": [
-        "current"
-      ],
-      "geography": [
-        "National"
-      ],
-      "horizon": "future",
-      "id": "gn-on-ai-albanese-wants-to-take-us-on-the-wine-dark-seas-of-change-the-people-will"
-    },
-    {
-      "title": "Tech Bytes: Australia moves to put guardrails around government AI - Proactive financial news",
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNMllMNHo2eG9vZFZISmhEQkI1Y2xteDVVUzJTQzdjaGJMeXpLbXhiZENnVk90WDhmdG9iNkZRU08tc2tGV25velYxaWNyaDZiNEM3ZGJkUHJlQ01UOFNrX096V0N1TXphcE0wSTRkRGZRTGc3emsxUU50SmJyS0hKWHNzSDJQUl9qSW95MDhtekI1c0ljQWRTZHhfXzh5Y0kzN1NrbVppTVVCUUZwc3lqNmE0cGkxdUphZkpGUnFtaU1lX1RlNmJzMldXSW9mVXZVRWo1WklR?oc=5",
-      "source": "Proactive financial news",
-      "date": "2026-07-21",
-      "summary": "Tech Bytes: Australia moves to put guardrails around government AI &nbsp;&nbsp; Proactive financial news",
-      "categories": [
-        "policy"
-      ],
-      "geography": [
-        "National"
-      ],
-      "horizon": "now",
-      "id": "gn-tech-bytes-australia-moves-to-put-guardrails-around-government-ai-proactive-fina"
-    },
-    {
-      "title": "Partly raises USD $50 million to expand Australia hiring - CFOtech Australia",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNckVJemR4M29yRi1tSjFoQWJLWjBXRS0zS1JUdmE4MTduRXh4X0ltS015RUVicmxFQ3VBX1ZGdE1IUnhmR0QyQzlET25kMmtqWVBVMU1qb01teGZab0VURWxmNk1ESDMtU0hqQkdoMUNLNmhZUnpoOFdlWUpXUWtMOEgzMFVITlh5bkU0WQ?oc=5",
-      "source": "CFOtech Australia",
-      "date": "2026-07-21",
-      "summary": "Partly raises USD $50 million to expand Australia hiring &nbsp;&nbsp; CFOtech Australia",
-      "categories": [
-        "investments"
-      ],
-      "geography": [
-        "National"
-      ],
-      "horizon": "now",
-      "id": "gn-partly-raises-usd-50-million-to-expand-australia-hiring-cfotech-australia"
-    },
-    {
-      "title": "Tech Bytes: Australia moves to put guardrails around government AI - Proactive Investors",
-      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQOHlQZ0QydHFGTUtCNVd4dkFEVEIzX0FXYXh4elVFWmFweFRGZF9IXy1aZGFuTVlxZ1F3OXBGcTBSTEE1VmlaRXNVZGtrM2stSGZLWFBSazJLYnZXNkFFb0VzeFIzdjU5em45QjhZRkV1LXBWRTNYLVBramdKVVY0ck94dzQtcGU5WFQ2SVZVQnZ3cDdJUVQwVkFrckE4U2VOa2VtdmV0V1l5dUNwSmVDcENNeG5aelhHNWhwX0JRallVQlRfcmN4RVBwUnVGUXlUVEpBUA?oc=5",
-      "source": "Proactive Investors",
-      "date": "2026-07-21",
-      "summary": "Tech Bytes: Australia moves to put guardrails around government AI &nbsp;&nbsp; Proactive Investors",
-      "categories": [
-        "investments",
-        "policy"
-      ],
-      "geography": [
-        "National"
-      ],
-      "horizon": "now",
-      "id": "gn-tech-bytes-australia-moves-to-put-guardrails-around-government-ai-proactive-inve"
     },
     {
       "id": "seed-nsw-pipeline",
