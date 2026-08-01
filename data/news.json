@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-01T01:24:36+00:00",
+  "updated": "2026-08-01T07:56:24+00:00",
   "items": [
     {
       "title": "ASPI launches AI and Security Program to tackle national security challenges - Cyber Daily",
@@ -228,6 +228,21 @@
       ],
       "horizon": "now",
       "id": "gn-spreading-ai-widely-is-right-spreading-it-recklessly-is-a-gamble-aspistrategist"
+    },
+    {
+      "title": "Claude anthropic: AI model hacks three companies after mistakenly given internet access - Nine.com.au",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQVlZ4VDdiY1ZJemJkb1RvREFUeFVBMlBEWFJXck1rbGNUOXFoOXl3MGxidkR4Yl9EUXlHN0VDUTAzN1R2RGRUbjNLakkxa2RVWWZLcWRrbUVBbVJVRVlwZU8xRUFnMk53a0VibEN1VDJBTkZtOHlFZ1VMYnZUclBHcFhlbHV6ZjhwYnU4dkdWcHhadEpYVVdjT2tSekRnd1JsNkFuUUpadjViNUt2RDZ2Y1VYVG5WdWp4MXVfVVdkZ0szSGs?oc=5",
+      "source": "Nine.com.au",
+      "date": "2026-07-31",
+      "summary": "Claude anthropic: AI model hacks three companies after mistakenly given internet access &nbsp;&nbsp; Nine.com.au",
+      "categories": [
+        "investments"
+      ],
+      "geography": [
+        "National"
+      ],
+      "horizon": "now",
+      "id": "gn-claude-anthropic-ai-model-hacks-three-companies-after-mistakenly-given-internet"
     },
     {
       "title": "Sorry Albanese, the creative sectors aren’t going to stop worrying about AI job threats - ArtsHub",
@@ -650,6 +665,21 @@
       ],
       "horizon": "now",
       "id": "gn-australia-just-outlined-more-ai-safety-priorities-but-is-the-plan-actually-coher"
+    },
+    {
+      "title": "AI boosts nation-state cyberattacks, TrendAI warns - securitybrief.com.au",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQZDdGVmprYzZ5aFhUc1Z6ZmxCNWpJRFNZeEVfM2QyOTQ2UjctTFZsUFlHdkVIcUtGSjJSVXBSbmdfNUtQU2ZLVDdHWXluV1BJN1NmaU1FUlRIMzdKMmk1QjNQRFVpd0tCdVRCTXd3ZlhJNEpWWTVXM29VNkZDVjhpTHJ5cGtmdjZ6XzJIbQ?oc=5",
+      "source": "securitybrief.com.au",
+      "date": "2026-07-30",
+      "summary": "AI boosts nation-state cyberattacks, TrendAI warns &nbsp;&nbsp; securitybrief.com.au",
+      "categories": [
+        "current"
+      ],
+      "geography": [
+        "National"
+      ],
+      "horizon": "now",
+      "id": "gn-ai-boosts-nation-state-cyberattacks-trendai-warns-securitybrief-com-au"
     },
     {
       "title": "CBA axes contractor call centre jobs after AI rollout - hcamag.com",
@@ -3741,36 +3771,6 @@
       ],
       "horizon": "now",
       "id": "gn-australia-s-ai-future-what-we-can-learn-from-32-global-leaders-the-koala-news"
-    },
-    {
-      "title": "La Trobe, Cisco Power AI Innovation In India - Mirage News",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNQUx5anhkTVlxeXRkb3JwbnJHRlFMRHJ1SElKUlV0eS16TGYyOW5LVmp5Mjd2alAwT2V6UHRZczZ2QzA4aHJmQnJyWWtRTDlzWTVKWmp4eVBQUXdoMFM2TVR2SmVpeGQta1F3UVNxVWVBWDNYVjY0MjFOUTBwajYxZHF6ZFdhZw?oc=5",
-      "source": "Mirage News",
-      "date": "2026-07-23",
-      "summary": "La Trobe, Cisco Power AI Innovation In India &nbsp;&nbsp; Mirage News",
-      "categories": [
-        "current"
-      ],
-      "geography": [
-        "National"
-      ],
-      "horizon": "now",
-      "id": "gn-la-trobe-cisco-power-ai-innovation-in-india-mirage-news"
-    },
-    {
-      "title": "Burnham’s AI shakeup is a shambles - The Spectator Australia",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5NS2FnVkZ1Z2Z1cy16Qk9iNE1remxzazhIU0RPdllqMzdQQV9teUxWN0JFTHhnZF9aOThUU3V1cmQ0ak0yLVFXUGNYVTJmYkZRTWxBY3Q0Y2QwU29JSDkwQkdiSWlhX1pGcHlvZzlSaTZ2Z1c5UEYwS3JqUQ?oc=5",
-      "source": "The Spectator Australia",
-      "date": "2026-07-23",
-      "summary": "Burnham’s AI shakeup is a shambles &nbsp;&nbsp; The Spectator Australia",
-      "categories": [
-        "current"
-      ],
-      "geography": [
-        "National"
-      ],
-      "horizon": "now",
-      "id": "gn-burnham-s-ai-shakeup-is-a-shambles-the-spectator-australia"
     },
     {
       "id": "seed-nsw-pipeline",
