@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-02T07:58:37+00:00",
+  "updated": "2026-08-02T12:50:09+00:00",
   "items": [
     {
       "title": "‘More than just objects’: Australian booksellers raise alarm over ‘horrific’ destruction of rare titles to feed AI - The Guardian",
@@ -30,6 +30,21 @@
       ],
       "horizon": "now",
       "id": "gn-the-great-aussie-ai-fail-billions-spent-no-reward-the-australian"
+    },
+    {
+      "title": "The biggest mistake governments can make is preparing for the last phase of AI - The Mandarin",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOQ3ZBeVFtdzRxVHhheVVDR3M5MmFtR2FsS2QyVEFsdFFEWFdBNEdWQ2RIVlg0MVM0b19rVHZsRHktajMtUkdoSVpIMUxWMXFCRnR6ODhTRzZLdEN0QnkyNlBTSlFySmxCdXV1WGF0RkJaLUNXcTdWdTNsOTFudlp0Tkp4VWh5NVZEQkdmcEhLVVJUSzZSb2podTVxdmFrYkdSLUF0ak5jekVrN1BzbG8zOVhjbkhKV2Rz?oc=5",
+      "source": "The Mandarin",
+      "date": "2026-08-02",
+      "summary": "The biggest mistake governments can make is preparing for the last phase of AI &nbsp;&nbsp; The Mandarin",
+      "categories": [
+        "investments"
+      ],
+      "geography": [
+        "National"
+      ],
+      "horizon": "now",
+      "id": "gn-the-biggest-mistake-governments-can-make-is-preparing-for-the-last-phase-of-ai-t"
     },
     {
       "title": "World-first AI technology gives hope to Aussies at risk of amputation - 7news.com.au",
@@ -166,6 +181,22 @@
       ],
       "horizon": "now",
       "id": "gn-world-first-artificial-intelligence-tool-developed-in-melbourne-could-save-limbs"
+    },
+    {
+      "title": "3 Australian AI Stocks With Recurring Revenue Retail Investors Should Watch - simplywall.st",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNbjVsZHN0LVNaeUZzSjloRDk4VE5jUllfcy1id3h2c0JNQmw3Nmo4cW9jZkxEU3FRYUtmNV91UGlWZVpCUndEeE1ZeERBYlVJdDNWQTl5TXBWTVg3YS1ONGJxcWZuNFpzWWY1S2ljYlp6WVlBRGV3WXlUb1N2UmwwVHhpMEcwYXRDMEMwWTVwTUxsR1BtUUVoeFh1VzBPVUlyV2ZHYW5Oc1JGNzVrWjRWOUtVQVhPUHRKS2NGSkliTlZ0MGNzU1VVMVJR0gHPAUFVX3lxTE44dWRMU1lvT08zU094WGU1RmNLQTFQdllUN01ENlZTa243VEs4cmw4dUxmcHhrUW1LcURsZFhvT3VMWmRBUVV6cWxSRnYzUFFjdkUtM1M3NTZ0VDh6Q3BvUmp0U1VaVHEzZ0lfRWNXOW9NZmszV2hQTXRlN0xLbm1hNzJMQ0tUUTU0MnFYZUg5NTMxV3ZPVDZjblRGeDNDY0hnQWVPMkpxVVl3UkVub0FpMEVUa3JMckRLR2xuVmdod080QlpNQXFHbkJKSmxpRQ?oc=5",
+      "source": "simplywall.st",
+      "date": "2026-08-01",
+      "summary": "3 Australian AI Stocks With Recurring Revenue Retail Investors Should Watch &nbsp;&nbsp; simplywall.st",
+      "categories": [
+        "investments",
+        "markets"
+      ],
+      "geography": [
+        "National"
+      ],
+      "horizon": "now",
+      "id": "gn-3-australian-ai-stocks-with-recurring-revenue-retail-investors-should-watch-simp"
     },
     {
       "title": "ASPI launches AI and Security Program to tackle national security challenges - Cyber Daily",
@@ -3741,36 +3772,6 @@
       ],
       "horizon": "now",
       "id": "gn-why-highly-advanced-rogue-ai-has-experts-scared-abc-news-headlines-australian-br"
-    },
-    {
-      "title": "Manufacturing’s self-imposed AI ceiling - Australian Manufacturing",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQbnJVTHpGZVd3MnVmUldDU0M0TXl0MWpPQnU3dHlpNVBXQnItUmFsc2tjT1YxOGhUN0ppRTVEYU1kV1NXNGoteHMwR2k0Y1V5a3ZVbHlJbFVyWk5kZEw1UEdMcHR6M0o4VEc4bWhpb3NIanFKT0dxd1pYSW9UVFhLaUpkaXNKU3Q5Z3c?oc=5",
-      "source": "Australian Manufacturing",
-      "date": "2026-07-23",
-      "summary": "Manufacturing’s self-imposed AI ceiling &nbsp;&nbsp; Australian Manufacturing",
-      "categories": [
-        "current"
-      ],
-      "geography": [
-        "National"
-      ],
-      "horizon": "now",
-      "id": "gn-manufacturing-s-self-imposed-ai-ceiling-australian-manufacturing"
-    },
-    {
-      "title": "Shock amount Australians have lost to AI-powered investment scams in 2026 - Sky News Australia",
-      "url": "https://news.google.com/rss/articles/CBMioAJBVV95cUxQcGItWHRLNDhkNENLWVVRcDBVNU52QkZMRG1iQkFOeGQ0X21SMlZIcGFqcXQzQnZzaFgwM0NLOTJuY3NfY2YwM3ZVY3Zoc0tsRk16bzZuWWxPNEM1TkdVR1BGMlJhMlVqTmxEVWc2NGtjUlNjX0Ria1JhOVpfU1ZlNXF3cGZzYXJzc2xhOC1KbERxeDNBR21vZXNPTUd3bFhwRmtkRDd3WDlRblppaTlLVWpzVmlCUS1BazRmUk55eXdzay15NUg2ZXVzM1ptY3QxME8tOEFMM2NBRkdKM0I3OVlaaDZZZUVPeGFELVRTTHpzSWhMSms5N0o2ci11RkRCT2o2ZjBYR1ZUX0dzMkcwWHhSR0NOY2JJc18yaUNxeFLSAaYCQVVfeXFMTTViZGxnWmhpNG55RUVuMno2Nk85amhfX1U2TTRPbnladzNlR0hHbHJaYXl3eXBBdERlUTZJVmg2RUN2d1FJSUF4YnltSWtzcFUxQTdCLTg0SmNpRlpxSEg2aUdnT2dITmpiZEJqN3NydVNxM3l0N1AyR051dUktS29wRXY4VEVPVGFDZnhmQW5DVEdzQmxZWmRoMFRYSDNSbmkwMWczOXNHRWg1MmU1UVBxekl6RnRrOFY1VDA5RUltbkpZU0U3M05qQkxFZlFEM242M2VnU1VaZk1yY0VtbkFxSUZ0OHhvc1J2QVlBMEtaLXI0ajBPbEh4aWFCYnNIcTltT003T2RlTWt0UW03SnFkTVV0WmxrdGY4WnJ6aDZxWlo0aWNB?oc=5",
-      "source": "Sky News Australia",
-      "date": "2026-07-23",
-      "summary": "Shock amount Australians have lost to AI-powered investment scams in 2026 &nbsp;&nbsp; Sky News Australia",
-      "categories": [
-        "investments"
-      ],
-      "geography": [
-        "National"
-      ],
-      "horizon": "now",
-      "id": "gn-shock-amount-australians-have-lost-to-ai-powered-investment-scams-in-2026-sky-ne"
     },
     {
       "id": "seed-nsw-pipeline",
