@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-06T08:09:48+00:00",
+  "updated": "2026-08-06T13:26:58+00:00",
   "items": [
     {
       "title": "Australia’s data centre boom: a $150 billion investment opportunity - commbank.com.au",
@@ -122,6 +122,52 @@
       ],
       "horizon": "now",
       "id": "gn-these-sydney-schools-teach-1500-students-a-9b-data-centre-is-moving-next-door-sm"
+    },
+    {
+      "title": "AI will replace Australian jobs. But it doesn’t have to be a disaster - Forbes Australia",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQN2V4WUxUVXZPYTFoUFVxYWg3ekhVUzBSR1NFdkpqdjAxTWpVbXhxSmltUmVBZGRtekhiM1JEc2dZUHF4OWNCdkFJUlVfRE1KVzhPNEFNLU9WX0xSV2Z5Zng2UjFXaTNoeVpRTkcwZmJGdlBLLThKWmhyY2ZuMXdUSlhVaFhZZEdldVZYY0JNd0l0STNEQWN0TG5iT2pFdXg2WVFtM2JfdEJvcDRBeWZV?oc=5",
+      "source": "Forbes Australia",
+      "date": "2026-08-06",
+      "summary": "AI will replace Australian jobs. But it doesn’t have to be a disaster &nbsp;&nbsp; Forbes Australia",
+      "categories": [
+        "current"
+      ],
+      "geography": [
+        "National"
+      ],
+      "horizon": "future",
+      "id": "gn-ai-will-replace-australian-jobs-but-it-doesn-t-have-to-be-a-disaster-forbes-aust"
+    },
+    {
+      "title": "Ocker reboot makes Alexa ‘authentically Australian’ - The New Daily",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9XYmR2eUpSemhzVE9XMXRKQmZtM2lhcUIzTURTMXlsVk1kZ2FrMmJIMnBINFBMVE8wV295VmU3dzBIVWU4REN5Nm9IR2Y2MkpFSzlpM0lHdUZmOXZJaW04akhjRUgySUdsb1llMnJ3blI2aDdzWlB2QlpNaEs?oc=5",
+      "source": "The New Daily",
+      "date": "2026-08-06",
+      "summary": "Ocker reboot makes Alexa ‘authentically Australian’ &nbsp;&nbsp; The New Daily",
+      "categories": [
+        "current"
+      ],
+      "geography": [
+        "National"
+      ],
+      "horizon": "now",
+      "id": "gn-ocker-reboot-makes-alexa-authentically-australian-the-new-daily"
+    },
+    {
+      "title": "Opposition calls Labor’s AI data centres renewable energy rules ‘unrealistic’ - Startup Daily",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQU1l2eG5Td2xNRHliMFowTVlock1xM21WOUtnNklrbnRiTmpTODhXcHN5Ym9DcEpYQTQ1NGlyMEd1UW1OVEF2ZGJaVzVDSlhDbXFPQmhMTUJqQ285MnBNVzdTM3ZkeWVLSmwwVjhISVlBeUFzUzBzRnoxTlNLSEFXWDVjMGY3U3Jpd1Z6VHNtMUE2VkI4MlRwQmZqVUxLSzJuMEMzSWY5WG02LU9ObDRFUWZPeDFmUi1qUWNPdmctaXhyWTRkYkxFUnhaZ0VnZw?oc=5",
+      "source": "Startup Daily",
+      "date": "2026-08-06",
+      "summary": "Opposition calls Labor’s AI data centres renewable energy rules ‘unrealistic’ &nbsp;&nbsp; Startup Daily",
+      "categories": [
+        "buildouts",
+        "investments"
+      ],
+      "geography": [
+        "National"
+      ],
+      "horizon": "now",
+      "id": "gn-opposition-calls-labor-s-ai-data-centres-renewable-energy-rules-unrealistic-star"
     },
     {
       "title": "IAB Australia expands free AI impact assessment tool - Mediaweek",
@@ -798,6 +844,81 @@
       ],
       "horizon": "now",
       "id": "gn-australia-s-new-data-centres-must-be-majority-renewable-powered-says-minister-re"
+    },
+    {
+      "title": "News Corp subscriptions fall in Australia as company takes aim at ‘slimy’ AI slop - The Guardian",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNQUloem1aRHo5c25TM05mQm5aNEpNUTZGaTU0U3dxdldFeHBWam5IcVdYZjd4b2RrdUZSczRkRlBhTFpZV0tqZU5xdGJ1MWY0Z2x0SzI3eklSVjdWeFhKUmNvWGsyYzZpeDNhNlZKUU1senpvYW8taXUxZjZVQTFHam5seHFSVFJra0xPV2ExQWxxWjliVEoyRnl1MlMwR2pxWGFrZVdvVWpPYmlhRVFJRE1MMXJpWDl0M2hna194WnQ4MzQ?oc=5",
+      "source": "The Guardian",
+      "date": "2026-08-05",
+      "summary": "News Corp subscriptions fall in Australia as company takes aim at ‘slimy’ AI slop &nbsp;&nbsp; The Guardian",
+      "categories": [
+        "current"
+      ],
+      "geography": [
+        "National"
+      ],
+      "horizon": "now",
+      "id": "gn-news-corp-subscriptions-fall-in-australia-as-company-takes-aim-at-slimy-ai-slop"
+    },
+    {
+      "title": "AI model used fake identities 'unprompted' to deceive humans in a safety test - ABC News & Headlines – Australian Broadcasting Corporation",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPZXNwMVBGR3E4eDZNamszZzc1d3Z1T21jN1ktX0ZYQ2FRbFdVTkJ4aENkZHlMeDFjcWVoZF9VZTYzWGVlZEVlQ0RaNUxBMGRkWHdHZUlTM2xicTU5cjN3UHk3XzFsLUQ4NXh2S0piTEU2YkQzOGh3V3IxeWhFTzU4ZXJjT1BwMEdnMC1fYlhYbkd4clBnNzg4VlRB?oc=5",
+      "source": "ABC News & Headlines – Australian Broadcasting Corporation",
+      "date": "2026-08-05",
+      "summary": "AI model used fake identities 'unprompted' to deceive humans in a safety test &nbsp;&nbsp; ABC News & Headlines – Australian Broadcasting Corporation",
+      "categories": [
+        "current"
+      ],
+      "geography": [
+        "National"
+      ],
+      "horizon": "now",
+      "id": "gn-ai-model-used-fake-identities-unprompted-to-deceive-humans-in-a-safety-test-abc"
+    },
+    {
+      "title": "Australia’s NAB to test AI agent safeguards – report - retailbankerinternational.com",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9GajAwSl9HeXZxdFdEeHBuQjF0WEdVcXlBczVLWUVtNDdkSDdpMFNxRGFNdFZWOGVPb2Fob0hNV2hVWmdVV0RWZ3p1QmZkNlpkUVNoeEFTRzhfeHRMVU9CVTlVYXVwZnVaaldBRWw5OFRFTmd2QnJUMm9xdw?oc=5",
+      "source": "retailbankerinternational.com",
+      "date": "2026-08-05",
+      "summary": "Australia’s NAB to test AI agent safeguards – report &nbsp;&nbsp; retailbankerinternational.com",
+      "categories": [
+        "current"
+      ],
+      "geography": [
+        "National"
+      ],
+      "horizon": "now",
+      "id": "gn-australia-s-nab-to-test-ai-agent-safeguards-report-retailbankerinternational-com"
+    },
+    {
+      "title": "Should I use AI for car advice? - Carsales",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOUnNhSExuMUF5S05BclhBenF5eVRWZlo1YjllaWxmSm5UNUNvUHg0VGdtcGRpdTY3eGZFT2J3NXZ5cWNvdDRpTDhYQVB3RVNZbGV5bVpBR2ZxWXdnZjNCX3E3M1JxRXdMbEtqNmtJd1Z6QzAyMm5PcU13M2JmRzIyc1Q1ZDI0MmNCano5aw?oc=5",
+      "source": "Carsales",
+      "date": "2026-08-05",
+      "summary": "Should I use AI for car advice? &nbsp;&nbsp; Carsales",
+      "categories": [
+        "current"
+      ],
+      "geography": [
+        "National"
+      ],
+      "horizon": "now",
+      "id": "gn-should-i-use-ai-for-car-advice-carsales"
+    },
+    {
+      "title": "The promise and the unexpected cost of AI in an underserved classroom. - Psychology Today",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNZnJGTm1HRWhqOW1XeVFSQ3NRa1QwLTFOcGtScTAtZXU1UW11Z3FiU0hpQWJoUW04YTN2R1A0TVZKb3Z4ZzM2Q2s1YVg2NDNtd09GMU1TdUxWbUV2WFdXNHlfT2RlSkxqR3JhYlVNMWdYZGYtUU5Fd1RfMEVsQmJsUEI1bzJaVHNybDhNSmNiM19FUVVDR3lKWUhZWFR0a0c3UlVqZ0hXVVRmWDZZZ0HSAbMBQVVfeXFMTzVuUHRtTk1jN2FoNzNILW1BWDBvZ3JiTmRLcUIyTjhsdkEzdngyeThsa2JWcVR5SUFnMHNveTFXV1ZfdmhNNjBkblk4WlFKRDMyVTFQWk5IM3o3bUduUzg5ejVrTU5TWFYyQXJmWU84eXk3dVR5ejJYLXVLajJsVXJTNjdvR3BWX0xWLXFLUFNEeVpLRVRKd2lPSHdzR1BHbC1LTlZnZ1FKbG8tV1pKOWR4Zm8?oc=5",
+      "source": "Psychology Today",
+      "date": "2026-08-05",
+      "summary": "The promise and the unexpected cost of AI in an underserved classroom. &nbsp;&nbsp; Psychology Today",
+      "categories": [
+        "current"
+      ],
+      "geography": [
+        "National"
+      ],
+      "horizon": "now",
+      "id": "gn-the-promise-and-the-unexpected-cost-of-ai-in-an-underserved-classroom-psychology"
     },
     {
       "title": "Australia unveils high-tech defence roadmap - Information Age | ACS",
@@ -2158,6 +2279,21 @@
       "id": "gn-this-company-has-helped-build-data-centres-for-nextdc-and-microsoft-energymagazi"
     },
     {
+      "title": "Gold Coast school strikes partnership with British AI giant - goldcoastbulletin.com.au",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPenpOVVdQcUFncURPazdEUWlmUjRNN0hNdkdTZjV4SEY2TjBqaTVCRnJCRUdWRTdmWUxSaWtPeGRJM2JMU3VHQUFoZDVjRmVhNnRuZUpOMnhEd0xjQ0xOZkFSTkRtLS01S1d4Z1Ayc3dJWk53OUlGNWVLNGQzN3VVUFVWbjJSLWlIVmdWeV95MXJ1TFo1MTJaXzg0ekI4UVhVRlBaRTdydkpnejVYU1NORENLMHVJYWdianlBN2pma0dCeWhCR2xBQ3dMUVdzN1VTNzc1RWc1Zw?oc=5",
+      "source": "goldcoastbulletin.com.au",
+      "date": "2026-08-03",
+      "summary": "Gold Coast school strikes partnership with British AI giant &nbsp;&nbsp; goldcoastbulletin.com.au",
+      "categories": [
+        "current"
+      ],
+      "geography": [
+        "QLD"
+      ],
+      "horizon": "now",
+      "id": "gn-gold-coast-school-strikes-partnership-with-british-ai-giant-goldcoastbulletin-co"
+    },
+    {
       "title": "‘More than just objects’: Australian booksellers raise alarm over ‘horrific’ destruction of rare titles to feed AI - The Guardian",
       "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOTTJBXzBtYmdvNlM2ZERtalkzZDdhUmVXckdVVmVxdnJTUGJYTTBaTlhSVUNVUXhRVkxsMlc4SU5BR2xhYjZ0Tkd6cllkRHlFMzRGVVhuZW0yTEpYZHduMWNiajZfUUMwTDEyZF91S0p3U0NVNEhsNnRiV01ZR29hSGUtaHlVbTNlVTRCLUh0bmxVYjZ3Y3kzWVdyblVsYkljcnFvQk5OQTg5WXg2cEVfVVpYLWdPNzZtMHFlQg?oc=5",
       "source": "The Guardian",
@@ -3500,6 +3636,21 @@
       "id": "gn-eu-ai-act-australian-it-pros-need-to-prepare-for-ai-regulation-techrepublic"
     },
     {
+      "title": "First iron ore, then hydrogen, now data centres: Forrest’s AI plan - The Australian",
+      "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxQcHh1cm9qUnpHRGpIejVUZ29pYWZvYmJyem9SbkNRamJEUXlTd2NLMFcxMnJDbFpESU9kOGZJZDduakdWMi12MlBEYTV5UTBGZFo2TVRLTEFjZlhBQUVWbXFpY1RZR3JMaWNLVkUway1fM3RGTmN0SkNjSkI4b2RrTkRnVl9fa3BydU90aElFeUtkMnRSZThheWRNSm9PU2dXSGVzWHVILWROaE40ekY4NHZ4YnZPcEVXXzg4cUhUQ2JOUnh4ZE84VW1BQzFKOVhPdVdqd0k5a000Z2h2aGQxSlVzS2JralhGSWxRTTI0U0lnd1laTXYyaVcwTDBJblRkOHfSAYcCQVVfeXFMT3NGWkJNT2FpWFR1ZmRzdXBmbWMtd3ExSm1HQlBzdWtmQmh4MW5DbkJIYzJYTlhIUzN2UWpZNC1MZzd1SkFOZy1XbG0tTExHWGNBeWNnR2Q0QW9QTDJ1XzhfVnRoTmRCd2F5bDFTTDU5YXJvcXg0YjdIRl83eXlOSW1jNExBY2tJdFpWNDMyOFlRd3EzQWFCTUl4VjBkYm9ZX2d1cVVzTkhPaGdBQWtNQ25vaEJ6cGdzRzlHNEtkb3JMaEhndUFpQkdrOE9KbXdQTjU1VUkzZmktVzFTSVVFWWNTWkFTTndoeExGWVhOUDdPOWZKS0hxclJJVWlVUmhNb0VOVEN4c3c?oc=5",
+      "source": "The Australian",
+      "date": "2026-07-30",
+      "summary": "First iron ore, then hydrogen, now data centres: Forrest’s AI plan &nbsp;&nbsp; The Australian",
+      "categories": [
+        "buildouts"
+      ],
+      "geography": [
+        "National"
+      ],
+      "horizon": "now",
+      "id": "gn-first-iron-ore-then-hydrogen-now-data-centres-forrest-s-ai-plan-the-australian"
+    },
+    {
       "title": "CBA axes contractor call centre jobs after AI rollout - hcamag.com",
       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNcjFRRlVkU0E0ejRueGZoRVZwdkVMZmtqQUVpMmk0LWlhUnNQcUV1Z1pvY3ZZMlVjcHFCcTZWaTVoZjRDTFZkU2NVM2xwYm5SbGJQck1BeU1CUkU0QUFkaXEzMVRMQ0JVakJlOFBUamZyMmdWZHVwbWFMTkJqRkdScDFNVjlOd212M0ZJTUxlRmF5ZTRObGgxX0pXMzBXYk5vVm83dG9OVDgzZERvY2w1UGNBOFZnUQ?oc=5",
       "source": "hcamag.com",
@@ -3620,158 +3771,6 @@
       ],
       "horizon": "now",
       "id": "gn-morrison-links-with-french-telco-in-first-continental-data-centre-deal-afr"
-    },
-    {
-      "title": "South Australia Energy Precinct Plans Staged AI Data Centre Deployment - Indiatimes",
-      "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNYXZrX0JVWklBOXE4RXNDWGJoUHJtcTVMLUpPWGVZc01VZzVsMVI3aC11Z2laeTNOZUlWeWFNTG9EM3RZNEczT3VGMFlLOHlJZTZITENzY1d5WXlGNWVrMmUxbU9vY241bUd2ZzJWTTJFTWwzRkhXWXpkVmtldDhzZEU0MTFVNzVhblNneG1qQVUzNXd3dHppa196bDZZWE9SZTg0NE5ZZ1FIQWFta0hBclg4VVJ3SGE3ZWpJSDlBSFB5NVF6LWtzRDlaU1YzdXY0cWltRlF3SVRqMDZKVU13UTFnMlVhM2xXNnhnV2JZVV8zdktyaEVr?oc=5",
-      "source": "Indiatimes",
-      "date": "2026-07-29",
-      "summary": "South Australia Energy Precinct Plans Staged AI Data Centre Deployment &nbsp;&nbsp; Indiatimes",
-      "categories": [
-        "buildouts"
-      ],
-      "geography": [
-        "SA"
-      ],
-      "horizon": "now",
-      "id": "gn-south-australia-energy-precinct-plans-staged-ai-data-centre-deployment-indiatime"
-    },
-    {
-      "title": "AirTrunk gets US$2.3 billion green loan for Johor data centre - The Business Times",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNVjl4NjN1RHM0eEgtWFJHbkJUM3pjalgxUXpZMVNDZkpyN2trMDdkb0NZTm1haWlMQ2pISXpyODBvNW11UldxSTlESUFfYWlOeUFaUzRJWXVod3FaajJLSm9OVW9XMUZacHdiRERxUEpHakRESWQ3Z2I0Ny1kSHpiSVJjT0Q5UVZWTjZQZkJWTmxid1hxYi1qeDdmRjJmYUVhek81RUh4SFlLekIxdmZra1AyTHA?oc=5",
-      "source": "The Business Times",
-      "date": "2026-07-29",
-      "summary": "AirTrunk gets US$2.3 billion green loan for Johor data centre &nbsp;&nbsp; The Business Times",
-      "categories": [
-        "buildouts",
-        "investments"
-      ],
-      "geography": [
-        "National"
-      ],
-      "horizon": "now",
-      "id": "gn-airtrunk-gets-us-2-3-billion-green-loan-for-johor-data-centre-the-business-times"
-    },
-    {
-      "title": "Why AI could add decades to your lifespan, fix your wrinkles, and regrow your hair - The Spectator Australia",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOUERpVDFnMGQyT0QxaENXWjFNVW1Qbmg2S19mTF9BSzBaVTJrY2hsVEQyT1lQMnMtdGUtdlFlY1pDS3FydGhaNDY2QnozS0RPalRrby0wRFdXdmt3Z0hGZE9hN2Y0TVpnM240UVoyQnZMVkR5akpPREVHUEM4emRBZUQ4QXNUMEZLZXNUcWJKOEVZNkJXVVJGc2hyODFKS2RIY1lTbkQ5b3VLUnZNZGw0U2lNUmVjY3E1ZWc?oc=5",
-      "source": "The Spectator Australia",
-      "date": "2026-07-29",
-      "summary": "Why AI could add decades to your lifespan, fix your wrinkles, and regrow your hair &nbsp;&nbsp; The Spectator Australia",
-      "categories": [
-        "current"
-      ],
-      "geography": [
-        "National"
-      ],
-      "horizon": "now",
-      "id": "gn-why-ai-could-add-decades-to-your-lifespan-fix-your-wrinkles-and-regrow-your-hair"
-    },
-    {
-      "title": "Tech Bytes: US backs AI-powered mining push as autonomous era accelerates - Proactive financial news",
-      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQa2ZQWU9aSHkzR1R3cHlKdEIwRlJiQU1udVRkU0h1ZmMxNFc1Z3F3ZW1VTkl0YXhWNlM3VHlkb1NXWjZKUkJjWFJYQWQ4X1VOZ0Fhc0ZYU3J2SFFaM3ZxSElfb3dqZ09nMzRHZ3J1UmFzNFJzbl93YmJsdlJOSElwTEJyWVpLMHJ3NGhveDNUc0hDelpYVjlsQm5mUzMzbElKeC05NHkxMjRjLVE5Z2xkcHJpTUR2TzBxbktJdzVsTC15YTJKZUk3a0pZdEE2X1dLVWtvcHdJd1ZUN2pXMG8w?oc=5",
-      "source": "Proactive financial news",
-      "date": "2026-07-29",
-      "summary": "Tech Bytes: US backs AI-powered mining push as autonomous era accelerates &nbsp;&nbsp; Proactive financial news",
-      "categories": [
-        "current"
-      ],
-      "geography": [
-        "National"
-      ],
-      "horizon": "now",
-      "id": "gn-tech-bytes-us-backs-ai-powered-mining-push-as-autonomous-era-accelerates-proacti"
-    },
-    {
-      "title": "Trump bans robots and inverters from China – and it could be a big win for Australia - Renew Economy",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPTFNoWVpsWDI5UXZEeDgyN2dzU01qSmhQREhTR1hOcDNFZlh1bXJhQnAtaUVNWWRGWUMwN2ktUnZUNnFWYzREYm1NYTJuMmhKcVp4N0g1Y0lULXJxem1jSlZYWUJQX3BjWkZrd25DS3pUYWFNRExxYVk2YUVQMFZZbnk5Tk9HaGwydkktMVJjd1NsNnV1SGNyWEdVbTc0RFJod3IwVXFWcHh1QS1lOGh0YdIBtgFBVV95cUxOTldRbW1JTmxtYzVoN3Q2U3dIV0ZnX3RrZVlFY2RGTEpKekhxNkdwWUZHMTJCVFN4S2Jmc3lmOGg1UkRVMWViU3l5UFI3WkRBWWJoTUUzSFlYejRqNEc3TXkyOVFjNWNWdl9BTEh6ZDZrcTZQc3R0dGMtUjU5REJyb09WOGhxMnlWMXpBa2ZaSERQdENTUjBwWUlFTnMtX0lzTWp1OG45TUN6bFRkZi1oVTEtSWlGdw?oc=5",
-      "source": "Renew Economy",
-      "date": "2026-07-29",
-      "summary": "Trump bans robots and inverters from China – and it could be a big win for Australia &nbsp;&nbsp; Renew Economy",
-      "categories": [
-        "current"
-      ],
-      "geography": [
-        "National"
-      ],
-      "horizon": "now",
-      "id": "gn-trump-bans-robots-and-inverters-from-china-and-it-could-be-a-big-win-for-austral"
-    },
-    {
-      "title": "Iron ore miner, hydrogen dreamer, data centre? Fortescue’s plot twist - The Australian",
-      "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxQcHh1cm9qUnpHRGpIejVUZ29pYWZvYmJyem9SbkNRamJEUXlTd2NLMFcxMnJDbFpESU9kOGZJZDduakdWMi12MlBEYTV5UTBGZFo2TVRLTEFjZlhBQUVWbXFpY1RZR3JMaWNLVkUway1fM3RGTmN0SkNjSkI4b2RrTkRnVl9fa3BydU90aElFeUtkMnRSZThheWRNSm9PU2dXSGVzWHVILWROaE40ekY4NHZ4YnZPcEVXXzg4cUhUQ2JOUnh4ZE84VW1BQzFKOVhPdVdqd0k5a000Z2h2aGQxSlVzS2JralhGSWxRTTI0U0lnd1laTXYyaVcwTDBJblRkOHfSAYcCQVVfeXFMT3NGWkJNT2FpWFR1ZmRzdXBmbWMtd3ExSm1HQlBzdWtmQmh4MW5DbkJIYzJYTlhIUzN2UWpZNC1MZzd1SkFOZy1XbG0tTExHWGNBeWNnR2Q0QW9QTDJ1XzhfVnRoTmRCd2F5bDFTTDU5YXJvcXg0YjdIRl83eXlOSW1jNExBY2tJdFpWNDMyOFlRd3EzQWFCTUl4VjBkYm9ZX2d1cVVzTkhPaGdBQWtNQ25vaEJ6cGdzRzlHNEtkb3JMaEhndUFpQkdrOE9KbXdQTjU1VUkzZmktVzFTSVVFWWNTWkFTTndoeExGWVhOUDdPOWZKS0hxclJJVWlVUmhNb0VOVEN4c3c?oc=5",
-      "source": "The Australian",
-      "date": "2026-07-29",
-      "summary": "Iron ore miner, hydrogen dreamer, data centre? Fortescue’s plot twist &nbsp;&nbsp; The Australian",
-      "categories": [
-        "buildouts"
-      ],
-      "geography": [
-        "National"
-      ],
-      "horizon": "now",
-      "id": "gn-iron-ore-miner-hydrogen-dreamer-data-centre-fortescue-s-plot-twist-the-australia"
-    },
-    {
-      "title": "More Aussie businesses are hiring chief AI officers - SmartCompany",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNMnE1eEJ2Y3pTdGxKM1JybExQdGRGbDJsNkJCWVU2cGk4Zm9yMDJZS2lfOVVtUzNxaER2Y2Jjbm5iM19SYjllRmZqX1AxRVVVWlRLUEc1SGlNbi1nWXZKMGpXel9sSVNBeWIwX010NklSSjRIQWhMM0h6LWFzLTJfS1pyYmE0X2tNbGR3b1Vud2N3bHE5cmZmRkloeUJxYTJzbmdNNU5CVFRQUllw?oc=5",
-      "source": "SmartCompany",
-      "date": "2026-07-29",
-      "summary": "More Aussie businesses are hiring chief AI officers &nbsp;&nbsp; SmartCompany",
-      "categories": [
-        "current"
-      ],
-      "geography": [
-        "National"
-      ],
-      "horizon": "now",
-      "id": "gn-more-aussie-businesses-are-hiring-chief-ai-officers-smartcompany"
-    },
-    {
-      "title": "AI: the new arena for the cyber arms race - AFR",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPeDlJc3RjeHZ3TklLa2VUeDdrQnBVZE1yaXROUFZnT1BRSXhVdmVzV3ZpOVJzSmtLQTl0ZnM0RVBnN0MzRUc3NjF3MVJfaVJJSXgtWU9nN2cwaUp3MkphZG5zRHNMMmFWZERFN2pxTWJ6eUIyNlhvS1BZeXY3SXRPZ3dfZEtCaWxzX1c2elF2aFo?oc=5",
-      "source": "AFR",
-      "date": "2026-07-29",
-      "summary": "AI: the new arena for the cyber arms race &nbsp;&nbsp; AFR",
-      "categories": [
-        "current"
-      ],
-      "geography": [
-        "National"
-      ],
-      "horizon": "now",
-      "id": "gn-ai-the-new-arena-for-the-cyber-arms-race-afr"
-    },
-    {
-      "title": "ATO used AI to hire staff – then scrapped the lot - The Australian",
-      "url": "https://news.google.com/rss/articles/CBMinwJBVV95cUxPdWN1enA2dFFEam9fbGJwd3FHSV8ybE5KTXZicXhBNXNzby1mQVRkbllEMnhQaV9ucDlkU0ozU1dqaHlwVUp5djVvemNiTzBONEtBeFRvQkhsblFzb25ON244OGJRRkI4NU4ySzhxb296alZjeEJVTWlKU21Wc2doZFphcGlFN0dkUjlCbEdDenNOVmpzbVJ5bmNfZTRBaXpCNE5YcDlpZXFRbGY1U2pvNUtEVHMtNGtteXo2VUt0VjYwMWdUOUFSZHlWQkxES296TXNtMk1KdnI4TmZqQV9nRVBmc3drdWVnWEQzQkRUOTFfRGRVN19sQUUyZzZTbzhjVlA5RXVMX1hDMkpVNmhSY0ZlanN2Y1dVZEwtV1FHWdIBpAJBVV95cUxPQzRBV1pyZkFlZDBCQW9fYmI4NDVHbGFLNXhZTjFzdzhsd05GelBlTGxrVlA3NmFya0ZWY0VGLVNESS1TN1hDQTI3NnVnQVAxMk84YnV5ZGhzYWJpMHRGQ19HZWRGZzhaV2htZGlZblVQVktvbk9PTDFIdlNYS2ZpeDdRWTB3T1NpemZBUnUyZ3RBZEY1aWVucWZzUFpoUEtEZ1VoSXEtTzlMamdwTWFkT1d5ZU9BSklFTFpJM3g3emY3Q3JDUXhpQXRBOHdpdzNHc1ZsaklHTWZuVVBQY09zdldZNF9ITVFOTkFBMnNMZTZkUzY5dTk5NHNDN3FYaklTMGRON2RaVXZjS2s3SzBIcVhVSjFoQXFqU19nTldGRkpqRmpB?oc=5",
-      "source": "The Australian",
-      "date": "2026-07-29",
-      "summary": "ATO used AI to hire staff – then scrapped the lot &nbsp;&nbsp; The Australian",
-      "categories": [
-        "current"
-      ],
-      "geography": [
-        "National"
-      ],
-      "horizon": "now",
-      "id": "gn-ato-used-ai-to-hire-staff-then-scrapped-the-lot-the-australian"
-    },
-    {
-      "title": "As AI battered software stocks, cybersecurity investors cashed in - AFR",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOeE9SNmNBalZRUy1BZ0o5WGRIMEZ2UHR4SGZicEl6V1B4THctU1lHWWZCQ0gyT0xCT2VVdC05Mmt2TFZSaGx2aVhHTFk0UzExZkoxUnNkTTlkMnlUdTBoYXRURjJIQnVuYjE2RVVjNDJRdjVNNWU4MVdYVXVXNmhneUY2WURGakUtUzJib3lwWk9DdDNRMVhNQ2xCRkY2NDU5a0ExbXdwWVkzMXhZOS0tTA?oc=5",
-      "source": "AFR",
-      "date": "2026-07-29",
-      "summary": "As AI battered software stocks, cybersecurity investors cashed in &nbsp;&nbsp; AFR",
-      "categories": [
-        "investments",
-        "markets"
-      ],
-      "geography": [
-        "National"
-      ],
-      "horizon": "now",
-      "id": "gn-as-ai-battered-software-stocks-cybersecurity-investors-cashed-in-afr"
     },
     {
       "id": "seed-nsw-pipeline",
