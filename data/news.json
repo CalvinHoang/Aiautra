@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-08T06:29:21+00:00",
+  "updated": "2026-08-08T12:19:44+00:00",
   "items": [
     {
       "title": "Not So Free to Roam: Australia’s Shifting Approach to Copyright Protection in the Age of AI - JD Supra",
@@ -15,6 +15,21 @@
       ],
       "horizon": "now",
       "id": "gn-not-so-free-to-roam-australia-s-shifting-approach-to-copyright-protection-in-the"
+    },
+    {
+      "title": "AI near misses: The space between potential and catastrophe - Independent Australia",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQeHFFWWx4SjVRRXMyWHZMeDZTOEY2Y011YTF1OUFzYXBobElOVTNGbTNRaUg5M1NvaGlaYldrZk11TFhMOENOblM5THlIRGMxREhySHRjdElXeWtTTlNON1U4MHRPejFscTBBMjRRQXl4S2xhYV9BSFFrdHJINENVcGoyZlRmQXN3bllLd01SSTNka1A0OUNZV01LeFdNTENJVWJIQjF4VmhtMDJZOHVNMFNVaEc3S0p0S2lHSUZpV04?oc=5",
+      "source": "Independent Australia",
+      "date": "2026-08-08",
+      "summary": "AI near misses: The space between potential and catastrophe &nbsp;&nbsp; Independent Australia",
+      "categories": [
+        "current"
+      ],
+      "geography": [
+        "National"
+      ],
+      "horizon": "now",
+      "id": "gn-ai-near-misses-the-space-between-potential-and-catastrophe-independent-australia"
     },
     {
       "title": "Aussie AI firm cops $612m loss from its own success - The Australian",
@@ -926,6 +941,21 @@
       ],
       "horizon": "now",
       "id": "gn-more-than-half-of-children-and-teens-are-using-ai-for-personal-reasons-this-come"
+    },
+    {
+      "title": "Cannon-Brookes says AI is the best thing ever as Atlassian roars back - AFR",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPMUxaUzhXa3pZeEh0RXJDUUVzQVlaSkJ5aFFuQUROLVpvcHBTRzItQmg3emFOQ1RJOXVDQ01uVXNHa0RwM2E1UVh5QjVEeHp5NElLUTRVZWl0akI4UXhWazM4bzFFRnVTRmxLTTYwcmxCNTllT0VfaW04Q3RBN2I3YU9fWlI4Q2hCTVR2OF9UUm9iR3dxSDVqanVMeXNyNHRfcG1n?oc=5",
+      "source": "AFR",
+      "date": "2026-08-06",
+      "summary": "Cannon-Brookes says AI is the best thing ever as Atlassian roars back &nbsp;&nbsp; AFR",
+      "categories": [
+        "current"
+      ],
+      "geography": [
+        "National"
+      ],
+      "horizon": "now",
+      "id": "gn-cannon-brookes-says-ai-is-the-best-thing-ever-as-atlassian-roars-back-afr"
     },
     {
       "title": "IAB Australia expands free AI impact assessment tool - Mediaweek",
@@ -3744,38 +3774,6 @@
       ],
       "horizon": "now",
       "id": "gn-chinese-ai-shakes-up-global-markets-abc-news-headlines-australian-broadcasting-c"
-    },
-    {
-      "title": "Sharesight warns investors against AI tax calculations - cfotech.com.au",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQS3FVZm5sb3lzSVRsdjRYal82TW84ZVNEN1RBc1BJLUNfRWllTHd0cnNWZjFfdlN1bFRCUUdVNnBwdGdFMUUwNVluV2VTbDN1TkNoODR5bXpWVTRsTXIxS1hzUnpKYV8yN254ZXgyUDVucjI0VHhPdzZMbjVjN2FvVTdEejA4YW53RjJN?oc=5",
-      "source": "cfotech.com.au",
-      "date": "2026-07-31",
-      "summary": "Sharesight warns investors against AI tax calculations &nbsp;&nbsp; cfotech.com.au",
-      "categories": [
-        "investments",
-        "markets"
-      ],
-      "geography": [
-        "National"
-      ],
-      "horizon": "now",
-      "id": "gn-sharesight-warns-investors-against-ai-tax-calculations-cfotech-com-au"
-    },
-    {
-      "title": "Firmus investors approve $2.9b for SA, Tasmania expansion - AFR",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQQ2hieWo5UnIzWmZnVy1XcUZwclk1dkxKNnRQMm1ZQzYzTW9NSDFGd2owQkFMVTBOTWl2Y3dTSUg3TXVuRWU0UjR2M3hfNmNGZGxMUnlPY1pXQnVpOFZqdU0wemJVdm5VR2QyNXRxNmxzdmFxTnZ6R1pubFQzVHdfcE9ERjFfMHF4Z081ZTRUdDljSGNSWFN0REpPckJlcW13Q0wwUQ?oc=5",
-      "source": "AFR",
-      "date": "2026-07-31",
-      "summary": "Firmus investors approve $2.9b for SA, Tasmania expansion &nbsp;&nbsp; AFR",
-      "categories": [
-        "buildouts",
-        "investments"
-      ],
-      "geography": [
-        "TAS"
-      ],
-      "horizon": "now",
-      "id": "gn-firmus-investors-approve-2-9b-for-sa-tasmania-expansion-afr"
     },
     {
       "id": "seed-nsw-pipeline",
