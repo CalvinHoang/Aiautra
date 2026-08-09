@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-08T18:18:08+00:00",
+  "updated": "2026-08-09T00:41:33+00:00",
   "items": [
     {
       "title": "Not So Free to Roam: Australia’s Shifting Approach to Copyright Protection in the Age of AI - JD Supra",
@@ -30,6 +30,21 @@
       ],
       "horizon": "now",
       "id": "gn-ai-near-misses-the-space-between-potential-and-catastrophe-independent-australia"
+    },
+    {
+      "title": "Element 23: the data centre metal you’ve never heard of - Michael West Media",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOYmFtc2RVSXp2ajhwNTRwZTBRZzc1Z0dtMmtfbDd1VG90SUkzU2VRb1hCb2ZiM2J6M3BYZi0xRktHU0s5NjI0d1c5cVM1d2hCLTM3c3dPQm5yNDJkcVk4WkFTY1NHTkRHRE9zbWdGY2pjMTVHQk1aMGlCRDNEbXFFczlNZmtlNkI3?oc=5",
+      "source": "Michael West Media",
+      "date": "2026-08-08",
+      "summary": "Element 23: the data centre metal you’ve never heard of &nbsp;&nbsp; Michael West Media",
+      "categories": [
+        "buildouts"
+      ],
+      "geography": [
+        "National"
+      ],
+      "horizon": "now",
+      "id": "gn-element-23-the-data-centre-metal-you-ve-never-heard-of-michael-west-media"
     },
     {
       "title": "Aussie AI firm cops $612m loss from its own success - The Australian",
@@ -425,6 +440,22 @@
       ],
       "horizon": "now",
       "id": "gn-shares-in-australia-s-atlassian-surge-33-as-sales-growth-quells-ai-fears-asia-ni"
+    },
+    {
+      "title": "Atlassian shakes off ‘SaaSpocalypse’ as chief vows to spend $250mn buying shares - Financial Times",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPU2REbTJFOTBLM3J0dHZZbU5JUzF1ZEpNdE1hZTZCVnZMZTdVYjNDWVVia0ZBMHNjMDdzTFFvUVBiMWVRRDJYNUJTeUNTNm1qWW5NX0V2Rmg5dERLd1ZKWXBIT21UQk9TZC0ya05DcEtyUVFoOG5TaWNXWE5CVkR6NkUxM1Y?oc=5",
+      "source": "Financial Times",
+      "date": "2026-08-07",
+      "summary": "Atlassian shakes off ‘SaaSpocalypse’ as chief vows to spend $250mn buying shares &nbsp;&nbsp; Financial Times",
+      "categories": [
+        "investments",
+        "markets"
+      ],
+      "geography": [
+        "National"
+      ],
+      "horizon": "now",
+      "id": "gn-atlassian-shakes-off-saaspocalypse-as-chief-vows-to-spend-250mn-buying-shares-fi"
     },
     {
       "title": "Australia’s data centre boom: a $150 billion investment opportunity - commbank.com.au",
@@ -3743,37 +3774,6 @@
       ],
       "horizon": "now",
       "id": "gn-australia-s-ai-driven-copper-demand-what-it-means-in-2026-discoveryalert-com-au"
-    },
-    {
-      "title": "Is AI Becoming the Third Person in Your Relationship? - Psychology Today",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOeWpEampyNkhTa05XamNfS0RoRlpZb0JIeDZSZDZ5NEhMZDBTWTN6TDJCZGpuWExFdDZ3WmdiVDB5UHFhTFJiUmo1OE0tUE5PZlk1Z1U1Y05IcEdFdjMzMlhOTHc1NmRjVXpETGZPS2pJOExFNDBCV3pBbGVzTWVOemRHb2JhamtiY2JxdDBsbkktNjl1YXJja3NpU2gtUHJubzYzUTFLS0ZoNE9ITVlGYnEwdmFGZHM?oc=5",
-      "source": "Psychology Today",
-      "date": "2026-07-31",
-      "summary": "Is AI Becoming the Third Person in Your Relationship? &nbsp;&nbsp; Psychology Today",
-      "categories": [
-        "current"
-      ],
-      "geography": [
-        "National"
-      ],
-      "horizon": "now",
-      "id": "gn-is-ai-becoming-the-third-person-in-your-relationship-psychology-today"
-    },
-    {
-      "title": "Sharesight warns investors against AI tax calculations - CFOtech Australia",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQS3FVZm5sb3lzSVRsdjRYal82TW84ZVNEN1RBc1BJLUNfRWllTHd0cnNWZjFfdlN1bFRCUUdVNnBwdGdFMUUwNVluV2VTbDN1TkNoODR5bXpWVTRsTXIxS1hzUnpKYV8yN254ZXgyUDVucjI0VHhPdzZMbjVjN2FvVTdEejA4YW53RjJN?oc=5",
-      "source": "CFOtech Australia",
-      "date": "2026-07-31",
-      "summary": "Sharesight warns investors against AI tax calculations &nbsp;&nbsp; CFOtech Australia",
-      "categories": [
-        "investments",
-        "markets"
-      ],
-      "geography": [
-        "National"
-      ],
-      "horizon": "now",
-      "id": "gn-sharesight-warns-investors-against-ai-tax-calculations-cfotech-australia"
     },
     {
       "id": "seed-nsw-pipeline",
