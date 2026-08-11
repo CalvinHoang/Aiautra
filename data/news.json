@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-11T12:34:58+00:00",
+  "updated": "2026-08-11T18:41:58+00:00",
   "items": [
     {
       "title": "SA govt spearheads AI Royal Commission as Opposition questions cost - InDaily South Australia",
@@ -255,6 +255,96 @@
       ],
       "horizon": "now",
       "id": "gn-data-centre-boom-keeps-up-pressure-on-rba-interest-rates-afr"
+    },
+    {
+      "title": "Hey ChatGPT: Mali drops a prompt on shape of AI probe - adelaidenow.com.au",
+      "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxOLWZNalRMekJJWGVqZ0xHQkU4YldoeDJXMEpLajVCajMtNEl2VVFHR2xmamNSaG5rMVpZVGl6dGdTc2sxcURjZGVSYlhWaUN5eDNIYXNJOG1MNExrWF9aVVp5Z2hnTkl5S0tCbzFxX0ZHYXQ4cG9uQVl2VHVoWWFMQkZsbnVQOGlmdGN0ejdPYjYycVhMUTBOcVdvb3MzNFR5bUlIQWZMcWhYT01kSnRYS2FzZFp0Z254ZTJRMy1ydzF5Tm1GQTlpdUtvejg3UnZ1ZHEwcTFMaTlCd3plNDQxcjhmQmt2UF9ubUxESWkxWmZoOXBjVU4zVVV6cXVGcGZwQlEwUU1yM3V5dS1I0gGSAkFVX3lxTFBoSHJHRlBxNTJjVDZKTjdfbjR1Z2IyckNjVlczX0RkaThkYVdpb05QZlFFeVBWVWctSlFiU0hwcGFlaDQ0Nk5zNm1haXFmaXBWZnRIdDJtSjhCaHhQUmVDUmRoWXVtcEs5OTduS2txVmhqRFlqNkVvR05nMkVNazJLenRMc3RmVF93VGk5a0t4ZXR1UXlaanV0S3JwLVBNQk5RSjB2eWt2ZXZBTTN5ZmlQN1JkQ3NBQXU0R3E5SFA0b2xQNlF4eWZ2ZkVTSnFjSzUwU3JXd3RCWmIxcHh1REpFcDVSUGFldk1DOTd6VDNQcXVPeHVHWWs2MkZ5OVBaeVVhVC1QZ2dNMnpaOTVNeFFBbWc?oc=5",
+      "source": "adelaidenow.com.au",
+      "date": "2026-08-11",
+      "summary": "Hey ChatGPT: Mali drops a prompt on shape of AI probe &nbsp;&nbsp; adelaidenow.com.au",
+      "categories": [
+        "current"
+      ],
+      "geography": [
+        "SA"
+      ],
+      "horizon": "now",
+      "id": "gn-hey-chatgpt-mali-drops-a-prompt-on-shape-of-ai-probe-adelaidenow-com-au"
+    },
+    {
+      "title": "AI is cutting graduate jobs. These are the skills young people will need - SMH.com.au",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNTld3dzdSeUthOVVMU2lHZDlPWl9kb2FScXhRdlNfMFhwazdYbmNrZFhDd2Q4YldYOE9QRFhJUkM5enF1NkdiOGg2OXY1VGU5MWRnU0lZTm5wMGdDYVgydloxQ3YzREVxQktaM1E3Ty0zY0FQQUFIb0l6YUx1Z0QzdnBlM2NFNS16cHNtcnpHUHNoNGl1Y2NCTVoweDNZdFl3RnZEc3BhTk10YUFrS2sxdURGRXNmV2RMejZwSl8yU3QxUQ?oc=5",
+      "source": "SMH.com.au",
+      "date": "2026-08-11",
+      "summary": "AI is cutting graduate jobs. These are the skills young people will need &nbsp;&nbsp; SMH.com.au",
+      "categories": [
+        "current"
+      ],
+      "geography": [
+        "National"
+      ],
+      "horizon": "future",
+      "id": "gn-ai-is-cutting-graduate-jobs-these-are-the-skills-young-people-will-need-smh-com"
+    },
+    {
+      "title": "ISACA Sydney Conference – 50th Anniversary - australiancybersecuritymagazine.com.au",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNbDhiVGM3bEw4REkyc3JxMGtndk9QX29mVFZvNEpaSlpQb2U5eGhGWEtkYTdzVnl3djI2ZWtwTG9YazlsaTJYbzl2RkRoRWNxamx5S0hGNXMyN3AwRDFVTHEyMHBzNEs5SUI0eXZxcHVlQkhRLUQyMlZpaEpTa2tGamExbE1KdWJFelVmbk9RNGNOUQ?oc=5",
+      "source": "australiancybersecuritymagazine.com.au",
+      "date": "2026-08-11",
+      "summary": "ISACA Sydney Conference – 50th Anniversary &nbsp;&nbsp; australiancybersecuritymagazine.com.au",
+      "categories": [
+        "current"
+      ],
+      "geography": [
+        "NSW"
+      ],
+      "horizon": "now",
+      "id": "gn-isaca-sydney-conference-50th-anniversary-australiancybersecuritymagazine-com-au"
+    },
+    {
+      "title": "AI agent hacks gym to get its user a spot in pilates class - BBC",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1yWDF5UlJZdU1PbERZLUlidVVYcFZsZTVieDVGaGdtM3QyUDNBclFWbVlEWndHRy1NYndWcFFkUjNNeFJwNTJ6STNnYlhiRXVDSHd2clE0YmVpdw?oc=5",
+      "source": "BBC",
+      "date": "2026-08-11",
+      "summary": "AI agent hacks gym to get its user a spot in pilates class &nbsp;&nbsp; BBC",
+      "categories": [
+        "current"
+      ],
+      "geography": [
+        "National"
+      ],
+      "horizon": "now",
+      "id": "gn-ai-agent-hacks-gym-to-get-its-user-a-spot-in-pilates-class-bbc"
+    },
+    {
+      "title": "India: GeM Sets AI and Digital Procurement Priorities for Next Decade - OpenGov Asia",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOTVIycE10QkdJUUtPM0RlU2RaNm8yX1U1dkNYUW42UlR1U1F0QWVSbGVtcV93WUlFbXZCdkgzUHF5eWgycXJkR25RTTNCd1FFWmdyUWRtTi1xUzBWYTZGMWxUZ3lNR1Uyb1poQU1TSUFnU1RkajMycV9Ba1V0Y1R6UlhNdVhUOVdmWjJiZVBuQXBxek9SY01wUQ?oc=5",
+      "source": "OpenGov Asia",
+      "date": "2026-08-11",
+      "summary": "India: GeM Sets AI and Digital Procurement Priorities for Next Decade &nbsp;&nbsp; OpenGov Asia",
+      "categories": [
+        "bids"
+      ],
+      "geography": [
+        "National"
+      ],
+      "horizon": "now",
+      "id": "gn-india-gem-sets-ai-and-digital-procurement-priorities-for-next-decade-opengov-asi"
+    },
+    {
+      "title": "Data centres increase Australia’s fuel dependency - macrobusiness.com.au",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNcHRRVXhDRlYxV0RHNkhRajB3X3RZOXVocWczSHlMQ3NkRGJVdGFNUGlVbTBsUjI2ZTF5Qi1fSlBuVkpwZk83b3dHMnZlS3o0eDl3Y2hWSHZ3Y0dsZm4wRzk3N3F1RlZ5SEp1WTRTQklnaW92R19IMHR3TENZZlYtTU1PN3BTLVNZMjV1ZUhrckp6blZn?oc=5",
+      "source": "macrobusiness.com.au",
+      "date": "2026-08-11",
+      "summary": "Data centres increase Australia’s fuel dependency &nbsp;&nbsp; macrobusiness.com.au",
+      "categories": [
+        "buildouts"
+      ],
+      "geography": [
+        "National"
+      ],
+      "horizon": "now",
+      "id": "gn-data-centres-increase-australia-s-fuel-dependency-macrobusiness-com-au"
     },
     {
       "title": "Report explores risks and controls for artificial intelligence (AI) agents - Department of Industry Science and Resources",
@@ -1675,6 +1765,21 @@
       ],
       "horizon": "now",
       "id": "gn-protesters-call-for-a-moratorium-on-data-centre-construction-green-left"
+    },
+    {
+      "title": "What to do when your patient arrives with an AI self-diagnosis. - insightplus.mja.com.au",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOdFJadGNwa1UySzdlX1RhamdEdEU4Z2traGRDcUtnQnhabmZQZFE3OUE2THQ3X3E1d3FLWlhMMms1OHA5V1hUQms5dzY2cEw3cllQQUV2SGRqQXlFcmYyZTM2WVM1STNJcy11YU5jZHVaZ010a3VrQmNTUFlqOU5uWkNPNHBrT292SVBmWUhnOElXX3Y1?oc=5",
+      "source": "insightplus.mja.com.au",
+      "date": "2026-08-09",
+      "summary": "What to do when your patient arrives with an AI self-diagnosis. &nbsp;&nbsp; insightplus.mja.com.au",
+      "categories": [
+        "current"
+      ],
+      "geography": [
+        "National"
+      ],
+      "horizon": "now",
+      "id": "gn-what-to-do-when-your-patient-arrives-with-an-ai-self-diagnosis-insightplus-mja-c"
     },
     {
       "title": "Not So Free to Roam: Australia’s Shifting Approach to Copyright Protection in the Age of AI - JD Supra",
@@ -3669,112 +3774,6 @@
       ],
       "horizon": "now",
       "id": "gn-asx-pulls-a-steven-bradbury-after-rally-to-record-high-afr-com"
-    },
-    {
-      "title": "Report: Environmental Impacts of Artificial Intelligence - Greenpeace Australia Pacific",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPdTRwVzlIQk51SWZCa2FNY3dleS1iT3pGbW5Yd3p5bmR1d3dLM2E0MXpxZlZ4TFZoSk5FS1hHZ2NiTnlWVnJWbVdHNXJMV0hpRFU3VHhycXFMS0diY0VFUTNFdkdrdVMwbmlBZzgxbmVydWZuUHJlT1ZpTHFFQnVnRlVadDN6TUV1SmFXZmowdEppTDRaeVR0Y21fdWpBT2pFQ0hrUVdCSlo?oc=5",
-      "source": "Greenpeace Australia Pacific",
-      "date": "2026-08-05",
-      "summary": "Report: Environmental Impacts of Artificial Intelligence &nbsp;&nbsp; Greenpeace Australia Pacific",
-      "categories": [
-        "current"
-      ],
-      "geography": [
-        "National"
-      ],
-      "horizon": "now",
-      "id": "gn-report-environmental-impacts-of-artificial-intelligence-greenpeace-australia-pac"
-    },
-    {
-      "title": "Report: Environmental Impacts of Artificial Intelligence - greenpeace.org.au",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPdTRwVzlIQk51SWZCa2FNY3dleS1iT3pGbW5Yd3p5bmR1d3dLM2E0MXpxZlZ4TFZoSk5FS1hHZ2NiTnlWVnJWbVdHNXJMV0hpRFU3VHhycXFMS0diY0VFUTNFdkdrdVMwbmlBZzgxbmVydWZuUHJlT1ZpTHFFQnVnRlVadDN6TUV1SmFXZmowdEppTDRaeVR0Y21fdWpBT2pFQ0hrUVdCSlo?oc=5",
-      "source": "greenpeace.org.au",
-      "date": "2026-08-05",
-      "summary": "Report: Environmental Impacts of Artificial Intelligence &nbsp;&nbsp; greenpeace.org.au",
-      "categories": [
-        "current"
-      ],
-      "geography": [
-        "National"
-      ],
-      "horizon": "now",
-      "id": "gn-report-environmental-impacts-of-artificial-intelligence-greenpeace-org-au"
-    },
-    {
-      "title": "3 Australian AI Healthcare Stocks Investors Are Watching Closely - simplywall.st",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPR3BuVnl6ZGRCQ1VWRnlnTnlma0RjeUZyQTZLOElHUlZrX0tmZTBNclN2S28zZlhGMjdxRUZGMWIxY1Zua092RkgzY1VwcFIzcjZ2Rkxnb2lKUGJSWDN2ZFpzT1l3aEJWdFhxMEpYdXAxMFRmZkhtWHBqM3dXWXJKaUJnNmxxZ1JaZDMyYnhKb29mQ1VuS3RxS2xjeXBsS2tybXd3dFNWYjJiTVlIUmpEQmJ5NkdSbnB3NDhYTlFGOVdrT2hBTFBES1pB0gHPAUFVX3lxTE9zNXBoZ3JpSGFMaXJDdTlFaUdyTVktMWZoMC00QkNxRUJEenFzeWd1eG1KajJpRHJIckd1T3l0Vkx1c1pMRUdkZHM1cHluTzVLM2cwc3ZnMzN5R2gzRmVIQkpyRC0xRUdUekpjcTIzZGxiVEpPdkxtSGhiV0FxdWJhVldIWFQ3WV9uZ0xTYnNSb0ROTVp3cklzdFFtZTVrMXB4SzJMWG8wT192UFJmeXVzLUFDN01LSVNrX25BYk9nMVJ6OGtmVzNxaDJqendwYw?oc=5",
-      "source": "simplywall.st",
-      "date": "2026-08-05",
-      "summary": "3 Australian AI Healthcare Stocks Investors Are Watching Closely &nbsp;&nbsp; simplywall.st",
-      "categories": [
-        "investments",
-        "markets"
-      ],
-      "geography": [
-        "National"
-      ],
-      "horizon": "now",
-      "id": "gn-3-australian-ai-healthcare-stocks-investors-are-watching-closely-simplywall-st"
-    },
-    {
-      "title": "TikTok’s data plan: A national security headache - The Australian",
-      "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxOSVZZaktzN1Nta2JrdFFBbnhBUm9pU2t3TDNLMHU0N1FiX3FYcEQ3UWhVSDg4UXoxb0tsa2RWenJ0YmVWUGJ4M0FFMlZNSW1fSFU0V0k1ZnBuSzlTTTdxSE1RMFY2Q0NwLXVITE92d1NkNUNDdkhlYUVIbWc2eER1aWw5aWtHdFRRMFA5cE00NGx5a1cycW91R2JicGFqbC00OURSM0FBX2I2UU04MUJWSllNVnB4UzZYd01NdVNsQ1VRSjNtcWp4NnNfTVU1QTZRTlJNTTVPYWQ1Z0NiTEdvVW5yOFY0VG1CdGFIOEp2aVFYS0JQMmtvc2R0dG9XVC1wcmVGU2I0ZFFVQdIBjwJBVV95cUxNNlRra0c2WUMwQzlCT2tQbllyeTBad1NzSTF3VXBVUGhZRUZoeF9Xd3hhTHY5TXVpN1VKYjVPa1pFM2tVT2g0OUxUbUZ5bFBnVk9tZ2dkQlZGQkJ6UW1rQTN0U0RkcDVIMHNGeW15UGhIMzd0anRIWWxobS1tUTctNTBQY0VEckd1U2tSU0VtVVZUeHhNQlZLN2dDdUszLXVXejA5ZzFla0tOWVVFN0Y1dGVyekV6TjVWQVBRUkFBSWZ0Mk1LYWVOVWF0VXRHWGFyTWtUeWdld2twcTdmaDVQWmxidkNUZ25XYVF1azgxLUE1bmlLVkFpQXBIOF9keUtTa3lsM2d6NVJCdjBVYndR?oc=5",
-      "source": "The Australian",
-      "date": "2026-08-05",
-      "summary": "TikTok’s data plan: A national security headache &nbsp;&nbsp; The Australian",
-      "categories": [
-        "buildouts"
-      ],
-      "geography": [
-        "National"
-      ],
-      "horizon": "now",
-      "id": "gn-tiktok-s-data-plan-a-national-security-headache-the-australian"
-    },
-    {
-      "title": "Bouygues to build €1.2bn data centre in Sydney - globalconstructionreview.com",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxORXhOQ3p2ZUxtbHVDeW84c2pqVzh3LUhmLTF0M2RydXJRazdzUzdyOFV6dklOd3VWMHEwWmtkLUs5ajd1c01aMjhQb0M0d3B6Vld2cHE2NE1SQ1pvVHFTQV95clRtQnVVa0xTTWxNQjFaU25WejVLdjAwRGNPVkNyUFRFNElncG1VcWs3LXhOYXJLdw?oc=5",
-      "source": "globalconstructionreview.com",
-      "date": "2026-08-05",
-      "summary": "Bouygues to build €1.2bn data centre in Sydney &nbsp;&nbsp; globalconstructionreview.com",
-      "categories": [
-        "buildouts"
-      ],
-      "geography": [
-        "NSW"
-      ],
-      "horizon": "future",
-      "id": "gn-bouygues-to-build-1-2bn-data-centre-in-sydney-globalconstructionreview-com"
-    },
-    {
-      "title": "Australia unveils high-tech defence roadmap - Information Age | ACS",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNSXBkbk9pZEVmQlJIR2haWk1LQW54T0xIUy1uaTJHa1hNeWZqTU8zdDN5OEpwemcwYVZyWHlhVkNTRHdreXpmTkk4LTZRZkF3Y0Q3Rm1talhQVUZCZkJpZVN4Y2dfc1h5NW5TUmtaRmxIOExIajJuM2dEdlNBZ2x3TWlKeDZvX0tJbVVr?oc=5",
-      "source": "Information Age | ACS",
-      "date": "2026-08-04",
-      "summary": "Australia unveils high-tech defence roadmap &nbsp;&nbsp; Information Age | ACS",
-      "categories": [
-        "current"
-      ],
-      "geography": [
-        "National"
-      ],
-      "horizon": "now",
-      "id": "gn-australia-unveils-high-tech-defence-roadmap-information-age-acs"
-    },
-    {
-      "title": "How agentic AI is reshaping Australian retail and logistics property - CommercialRealEstate.com.au",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPSW56djRtSnE1TThsLXNocVRkcFJzSjZTNHdGWVI3OHNfTl85YjR1bnQ4RkFtbFk3akxkN2tSaDhFY1BTbzNhYzNCbVBaSnNuY2JDUGF5ckNFa2dKWEl5Y19PSGhZZ05NRVZZUklIZGVWUGJkNXhVbm1ULUZMczhGaE5EUFFzcHd1NDQ0U1M5cTV6Z1V3TVhWUkhpeEptT19WUmcw?oc=5",
-      "source": "CommercialRealEstate.com.au",
-      "date": "2026-08-04",
-      "summary": "How agentic AI is reshaping Australian retail and logistics property &nbsp;&nbsp; CommercialRealEstate.com.au",
-      "categories": [
-        "current"
-      ],
-      "geography": [
-        "National"
-      ],
-      "horizon": "now",
-      "id": "gn-how-agentic-ai-is-reshaping-australian-retail-and-logistics-property-commercialr"
     },
     {
       "id": "seed-nsw-pipeline",
