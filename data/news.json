@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-15T18:09:22+00:00",
+  "updated": "2026-08-16T00:29:01+00:00",
   "items": [
     {
       "title": "Damning stats reveal Aussie uni problem - News.com.au",
@@ -30,6 +30,21 @@
       ],
       "horizon": "now",
       "id": "gn-openai-s-612-megawatt-facility-ranked-among-the-world-s-biggest-ai-data-centres"
+    },
+    {
+      "title": "Forget picking the next AI winner – for Australia, it doesn’t matter - AFR",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQbV9sd1JiQVU4VUo1YzFhX1pRS2kteDdzVTlCeHlFQ1g4WHRSZUdDbkpfcGhJX1Q1RXE3ZkMyWDF3cW5Od1ZGZ1RFQlpTTlVHVUZOcVNhYWtzTklwcmw5WkFyZjNmNEVuUU04b2ZObEwzTWQ5Q3JGRmV1ZHd1a0J4WFBiMVF3NVFObFFKbF8xNVd3UFpCa3pselpCdDlxdy12THFrc3MwWEdwbjcyb3gxVFVNQ0lBVUJKZ0JmNXpiNEQzQQ?oc=5",
+      "source": "AFR",
+      "date": "2026-08-15",
+      "summary": "Forget picking the next AI winner – for Australia, it doesn’t matter &nbsp;&nbsp; AFR",
+      "categories": [
+        "current"
+      ],
+      "geography": [
+        "National"
+      ],
+      "horizon": "now",
+      "id": "gn-forget-picking-the-next-ai-winner-for-australia-it-doesn-t-matter-afr"
     },
     {
       "title": "‘Has my team’s shooting improved?’ How AI is professionalising junior sport - SMH.com.au",
@@ -726,6 +741,21 @@
       ],
       "horizon": "future",
       "id": "gn-australia-and-canada-diverge-on-plans-to-power-ai-nationalobserver-com"
+    },
+    {
+      "title": "Three charts that show how female-dominated jobs are actually the most exposed to AI - Switzer Daily",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxObFJZNy1JTjFqUmFxRW5ZVnE2NWFKOU5pcmdMSllyekh2QnBLWGtVc2JlcHh0SVhzWXpwTVZzMjBXbE9BcWl0NHBsSGt4bXFuMVBBNE90c0RZOEVYOWJGZWFZVEJUa0VQWXphdHVLSnczd2lxRmVpZ1N1T3RGd2x5VUJ6aUpFR0stZmhoLW1ZWVdrT2J5eTdYUXRnM3BCcVdTRVJRcTJRYWlETFdi?oc=5",
+      "source": "Switzer Daily",
+      "date": "2026-08-13",
+      "summary": "Three charts that show how female-dominated jobs are actually the most exposed to AI &nbsp;&nbsp; Switzer Daily",
+      "categories": [
+        "current"
+      ],
+      "geography": [
+        "National"
+      ],
+      "horizon": "now",
+      "id": "gn-three-charts-that-show-how-female-dominated-jobs-are-actually-the-most-exposed-t"
     },
     {
       "title": "Emergency Alignment for Human-AI Teams - psychologytoday.com",
@@ -3743,37 +3773,6 @@
       ],
       "horizon": "now",
       "id": "gn-firmus-to-turbocharge-ai-factories-roll-out-after-giant-funding-deal-afr"
-    },
-    {
-      "title": "AI image of Indian food replacing Australian pastime fuels anti-migrant sentiment - AFP Fact Check",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5rOEVpR3NFMXdETU1BdlpwY1J1eXkyMlE0LXo5SkdnalVmemZ2SnNIcFFvNXdwcEZmaEFDcVVCNEtraGUwSmhaM2gxM2xCeU5xeS0ySld3Ulg?oc=5",
-      "source": "AFP Fact Check",
-      "date": "2026-08-07",
-      "summary": "AI image of Indian food replacing Australian pastime fuels anti-migrant sentiment &nbsp;&nbsp; AFP Fact Check",
-      "categories": [
-        "current"
-      ],
-      "geography": [
-        "National"
-      ],
-      "horizon": "now",
-      "id": "gn-ai-image-of-indian-food-replacing-australian-pastime-fuels-anti-migrant-sentimen"
-    },
-    {
-      "title": "AI Data Center Group Firmus Draws $2 Billion From Coatue, Nvidia - Bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNcnJwWmV5RmdYVWY2LW5FNFJBMW0xeHF6MmJrMHJfUjdLX1BpSURJTWVBbFNFa0JmWFc2TjJ0RXRwMDlyVWZvb1NBXzJIN0RZQlJCVG9QQ1Q5R00xR1NSTk5nQ2pIV09jeUtUd1NCUjQ0UzJ5Q0p2MEx1aGJOczB0ZlhacUN4cnRMU1gxR25sUjd4eEFCUGt2NG9UVzF4LVBoTXBQdEM0UmpMZGVYTXJqeGYxZw?oc=5",
-      "source": "Bloomberg.com",
-      "date": "2026-08-07",
-      "summary": "AI Data Center Group Firmus Draws $2 Billion From Coatue, Nvidia &nbsp;&nbsp; Bloomberg.com",
-      "categories": [
-        "buildouts",
-        "investments"
-      ],
-      "geography": [
-        "National"
-      ],
-      "horizon": "now",
-      "id": "gn-ai-data-center-group-firmus-draws-2-billion-from-coatue-nvidia-bloomberg-com"
     },
     {
       "id": "seed-nsw-pipeline",
