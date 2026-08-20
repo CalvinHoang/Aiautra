@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-19T18:14:38+00:00",
+  "updated": "2026-08-20T00:27:35+00:00",
   "items": [
     {
       "title": "To win the AI rush, Australia needs expert humans - The Strategist | ASPI's analysis and commentary site",
@@ -316,6 +316,51 @@
       ],
       "horizon": "now",
       "id": "gn-datagrid-to-woo-kiwis-home-from-australia-for-massive-makarewa-project-southland"
+    },
+    {
+      "title": "Power brokers talk AI, skills, and productivity for Australia - The Mandarin",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQS0RONG5MUnpHbEFNaV9hSTExY3czU3JhMGJHMUxTVTRZeGxGZVA5WXlENW9DOUFIc3FWdXVWeUh2SkM3MnhIS3IzVE9keWtpNk01Znhydm84eU9ia0RSQUJrb245cWtoWWt1N3I2T2Mtb1Z5LWlKQ0NhakdZU24tZ0g1blBLR3ZYRzdMVWI2eEtWRUVnLWpET29McE5oSkE?oc=5",
+      "source": "The Mandarin",
+      "date": "2026-08-19",
+      "summary": "Power brokers talk AI, skills, and productivity for Australia &nbsp;&nbsp; The Mandarin",
+      "categories": [
+        "current"
+      ],
+      "geography": [
+        "National"
+      ],
+      "horizon": "now",
+      "id": "gn-power-brokers-talk-ai-skills-and-productivity-for-australia-the-mandarin"
+    },
+    {
+      "title": "AI GP receptionist 'can't understand Yorkshire accent' - Yahoo News Australia",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNR3dEV2xsZHVyeEVIczd3VFN1aV9qWVFTRjV5N1plZi1Sd1NOZjA3dmpGNEdMUHhwR05xUE4zb0JKaE03TllBbnJTNmZnVzFabFVyOGxKZ2RwU3p1M0JQLWVKYzZ0cm5Rd255a05Mdm95MklFaXZ2QU9hQ2F3b3JPYg?oc=5",
+      "source": "Yahoo News Australia",
+      "date": "2026-08-19",
+      "summary": "AI GP receptionist 'can't understand Yorkshire accent' &nbsp;&nbsp; Yahoo News Australia",
+      "categories": [
+        "current"
+      ],
+      "geography": [
+        "National"
+      ],
+      "horizon": "now",
+      "id": "gn-ai-gp-receptionist-can-t-understand-yorkshire-accent-yahoo-news-australia"
+    },
+    {
+      "title": "Alphabet eyes record A$5 billion Australian bond debut as AI spending surges - Proactive financial news",
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOU2VxS2tvTjZhZGpaWVltUmRkTm9EamVmd2J2NmNjMFlTaU50TERpSnRHTWxJdGlSeXZ5S041ZGQ3VFZXRFFvREJnRmdBUkVSYXZZZFBSYTFqUjdnMm5fM2pZTjg4UmxXNEJEUW9KTzBaRmZiZjJ4bFd4R3FOX0NhYjhTS2dTY20wUmZib2ZhLXU0dGNkV2I1cWUwRGNVS2UtaWJkbWtPR1NIdmtEcGladzdIWko2YV9RdE9rSDVSVGtZVV9mLTdJU3NPZ0VWdjR6UkdVU1hvQlVhRVRQMlF4Rg?oc=5",
+      "source": "Proactive financial news",
+      "date": "2026-08-19",
+      "summary": "Alphabet eyes record A$5 billion Australian bond debut as AI spending surges &nbsp;&nbsp; Proactive financial news",
+      "categories": [
+        "investments"
+      ],
+      "geography": [
+        "National"
+      ],
+      "horizon": "now",
+      "id": "gn-alphabet-eyes-record-a-5-billion-australian-bond-debut-as-ai-spending-surges-pro"
     },
     {
       "title": "Can Appen (ASX:APX) and Nuix Ride the Next AI Data Wave? - Kalkine Media",
@@ -798,6 +843,21 @@
       ],
       "horizon": "now",
       "id": "gn-kyabram-free-press-kyabram-free-press"
+    },
+    {
+      "title": "Australian law firms weigh AI speed against accuracy - Lawyers Weekly",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOaU0xUzFrc21kVUplbEZBRFhxZ2t4VVplOHFwaUthUjhqLTM4STZuRndNWGFJVWJEUVFFTndKR2E0RnFJTEVnU1JadHNxSWlURWluaXhoYTMtM2pfdWVDVWRSX3lURHE5ZTVtZUhBUlJSZVhTeHA5QUZSR3dDeXJ1TFBmSmxKN3lHZVRQRHptU252NnZ1V3pJdnk4MHVyUU1p?oc=5",
+      "source": "Lawyers Weekly",
+      "date": "2026-08-18",
+      "summary": "Australian law firms weigh AI speed against accuracy &nbsp;&nbsp; Lawyers Weekly",
+      "categories": [
+        "current"
+      ],
+      "geography": [
+        "National"
+      ],
+      "horizon": "now",
+      "id": "gn-australian-law-firms-weigh-ai-speed-against-accuracy-lawyers-weekly"
     },
     {
       "title": "AI generated investment scams tougher to detect - Nine.com.au",
@@ -3711,66 +3771,6 @@
       ],
       "horizon": "now",
       "id": "gn-isaca-sydney-conference-50th-anniversary-australiancybersecuritymagazine-com-au"
-    },
-    {
-      "title": "AI agent hacks gym to get its user a spot in pilates class - BBC",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1yWDF5UlJZdU1PbERZLUlidVVYcFZsZTVieDVGaGdtM3QyUDNBclFWbVlEWndHRy1NYndWcFFkUjNNeFJwNTJ6STNnYlhiRXVDSHd2clE0YmVpdw?oc=5",
-      "source": "BBC",
-      "date": "2026-08-11",
-      "summary": "AI agent hacks gym to get its user a spot in pilates class &nbsp;&nbsp; BBC",
-      "categories": [
-        "current"
-      ],
-      "geography": [
-        "National"
-      ],
-      "horizon": "now",
-      "id": "gn-ai-agent-hacks-gym-to-get-its-user-a-spot-in-pilates-class-bbc"
-    },
-    {
-      "title": "India: GeM Sets AI and Digital Procurement Priorities for Next Decade - OpenGov Asia",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOTVIycE10QkdJUUtPM0RlU2RaNm8yX1U1dkNYUW42UlR1U1F0QWVSbGVtcV93WUlFbXZCdkgzUHF5eWgycXJkR25RTTNCd1FFWmdyUWRtTi1xUzBWYTZGMWxUZ3lNR1Uyb1poQU1TSUFnU1RkajMycV9Ba1V0Y1R6UlhNdVhUOVdmWjJiZVBuQXBxek9SY01wUQ?oc=5",
-      "source": "OpenGov Asia",
-      "date": "2026-08-11",
-      "summary": "India: GeM Sets AI and Digital Procurement Priorities for Next Decade &nbsp;&nbsp; OpenGov Asia",
-      "categories": [
-        "bids"
-      ],
-      "geography": [
-        "National"
-      ],
-      "horizon": "now",
-      "id": "gn-india-gem-sets-ai-and-digital-procurement-priorities-for-next-decade-opengov-asi"
-    },
-    {
-      "title": "Data centres increase Australia’s fuel dependency - macrobusiness.com.au",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNcHRRVXhDRlYxV0RHNkhRajB3X3RZOXVocWczSHlMQ3NkRGJVdGFNUGlVbTBsUjI2ZTF5Qi1fSlBuVkpwZk83b3dHMnZlS3o0eDl3Y2hWSHZ3Y0dsZm4wRzk3N3F1RlZ5SEp1WTRTQklnaW92R19IMHR3TENZZlYtTU1PN3BTLVNZMjV1ZUhrckp6blZn?oc=5",
-      "source": "macrobusiness.com.au",
-      "date": "2026-08-11",
-      "summary": "Data centres increase Australia’s fuel dependency &nbsp;&nbsp; macrobusiness.com.au",
-      "categories": [
-        "buildouts"
-      ],
-      "geography": [
-        "National"
-      ],
-      "horizon": "now",
-      "id": "gn-data-centres-increase-australia-s-fuel-dependency-macrobusiness-com-au"
-    },
-    {
-      "title": "Rising Australian AI start-up star set to seal $1b ‘unicorn’ status - AFR",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNbk02WkN2aTlaTXBlUUhhbk9oSzNvemhUX2pKNEZOMlRoSVRzRy1ybnhtRzlVTlFqRGQ5WncwVmdudENqVWRQZEdINkhHdVh5ZHVLX3hKWEhsU2FSNlU3XzZNVGM2MVZFMFNNbUZqc2E1NEtNWUxvWnFQY2xLQVJyNENDUWJOcXREWTRTS1BtWlhxSkc5OUxCSGplNVRxbDhkRi1zZDM5WkEyVW5TbDdfeg?oc=5",
-      "source": "AFR",
-      "date": "2026-08-11",
-      "summary": "Rising Australian AI start-up star set to seal $1b ‘unicorn’ status &nbsp;&nbsp; AFR",
-      "categories": [
-        "current"
-      ],
-      "geography": [
-        "National"
-      ],
-      "horizon": "now",
-      "id": "gn-rising-australian-ai-start-up-star-set-to-seal-1b-unicorn-status-afr"
     },
     {
       "id": "seed-nsw-pipeline",
