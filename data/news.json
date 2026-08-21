@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-21T06:22:16+00:00",
+  "updated": "2026-08-21T12:19:41+00:00",
   "items": [
     {
       "title": "How Are ASX AI Stocks Building Exposure to Artificial Intelligence? - Kalkine Media",
@@ -107,6 +107,52 @@
       ],
       "horizon": "now",
       "id": "gn-seven-anz-startups-that-raised-111-5-million-this-week-smartcompany"
+    },
+    {
+      "title": "AI hyperscalers put squeeze on data centre deal-makers - The Australian",
+      "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQQ3J0UWhWcXV1RmVoWHV4YTFQRTlCa2pYMFhGcHdxZ3p3NWxqRVFNZ0ZmU3V1Q2QxY0hkWXNHQ2oxMHdseTg3TklsY1Ziay1mQjJKOFB2Z0ZvVW1qeXdFVFlvLWlJZlM2SERhcTVyZGp2bld6UG00UFFkemgzUnM3LVluSXB5TlNzNV85Qk5kdks4M3ZXWFdSOWtQTGlidnJIdTRIWmRfYU1BbzJPSm91NV9oelh6SURXalZ2bXhMMm9KYmhqWlZBbU9mYWpOTDdpNExhQnlWTF80VUF6QlVXOGtvSTZKS1lmNGIwTlRnY1ZLeFRoU1HSAfsBQVVfeXFMTndIZkh5bC02LW83R01tNEMtMFRiTVRMc29MYXN6cWw1a1RJa29rV291aXJMRUcwdHBpZHF3U09xQnptbEREUXUxcUY5VUxVLVhLcG03UDh4UHgtTEt2TTdxbTV1Zmo3UU9LVDMzaFBSTEg0Q21PTzRaMXI3aTRidXVvM0dmcjNLLUhWVWZfOElGSWRsSGhRcExCOFQ5TF96Q1VaZmJUR3p3eVJjSl85OVFya1NhY1J5M2VEajNHbVQ3ajFiQ1ZoNzBhWGFXQ2Q0SWVVU3hsazVBNVZXZEE3RkFvQ3ozTWRmdjBQbW1Sb2ZZUWxtaDR0Q3NWNG8?oc=5",
+      "source": "The Australian",
+      "date": "2026-08-21",
+      "summary": "AI hyperscalers put squeeze on data centre deal-makers &nbsp;&nbsp; The Australian",
+      "categories": [
+        "buildouts"
+      ],
+      "geography": [
+        "National"
+      ],
+      "horizon": "now",
+      "id": "gn-ai-hyperscalers-put-squeeze-on-data-centre-deal-makers-the-australian"
+    },
+    {
+      "title": "Cognizant targets connected, AI-enabled manufacturing with new platform - Australian Manufacturing",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQc3FwVi04eEJCd0ZUODJuRnJEam10SWRTMlB5ckFsTXp5aERDVzJMZFI2LW5NMWhta0lHQUt1Vk1GSTZjRFN4RjlGOVlxSC1wM3c3aUNySElkTFVCYnJZTGxBOGFjcmcwc3M1MmtfMnhjQXpqcnowN3JpY1ZFZnc2MWVpbGR2TmNaM1pGSXphX2RKVFpFc2tNdWJ3ZXdzTXh6WXh5NWg1cnN2T0FHQk02YzRBSU8?oc=5",
+      "source": "Australian Manufacturing",
+      "date": "2026-08-21",
+      "summary": "Cognizant targets connected, AI-enabled manufacturing with new platform &nbsp;&nbsp; Australian Manufacturing",
+      "categories": [
+        "current"
+      ],
+      "geography": [
+        "National"
+      ],
+      "horizon": "now",
+      "id": "gn-cognizant-targets-connected-ai-enabled-manufacturing-with-new-platform-australia"
+    },
+    {
+      "title": "SCX.ai begins ASX trading after AUD $40 million IPO - CFOtech Australia",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQVF9sMmRoalU0MWFrUHlvdE9uZ19YcWNfVFdUQ09LUEdmMzB4eWpYM2lRcERoazQyMkpZc2VobEo1UWRwbUpmLWtWTHoxRG1Mbm1YY25rUG5sd3lNYW1PbFpnTnpSNTZ5bk5pV3FoRW5DbGJBM3lDMWcwNmt2NV8zZDdXSHFyZw?oc=5",
+      "source": "CFOtech Australia",
+      "date": "2026-08-21",
+      "summary": "SCX.ai begins ASX trading after AUD $40 million IPO &nbsp;&nbsp; CFOtech Australia",
+      "categories": [
+        "investments",
+        "markets"
+      ],
+      "geography": [
+        "National"
+      ],
+      "horizon": "now",
+      "id": "gn-scx-ai-begins-asx-trading-after-aud-40-million-ipo-cfotech-australia"
     },
     {
       "title": "Women hold just 15pc of Australia’s AI leadership roles - Information Age | ACS",
@@ -3726,51 +3772,6 @@
       ],
       "horizon": "now",
       "id": "gn-an-ai-activist-was-about-to-enter-the-lion-s-den-then-this-happened-afr"
-    },
-    {
-      "title": "Is AI raising the bar on your WHS obligations? - hcamag.com",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQelAyVG5sbHFUZ0x0UHpWQ3NGYzhrV3N4YmxnVGJMdDI4V09lLXE2N3lHcmF2M0RIYkk2cTM2cTltWGlKZlFlWi1QYnlKODRNOFJIelFSeXFVRUg1MElEV2FKZ2l3QnExYmppNnpZbGZKNE1Id1dQV2lqbzkzeFZhUnViV0JsYmxPUFZKOWZpSTB0US1XaS1HLTRyOUM4a1dpaHBEaUx6Mi1tN3Yx?oc=5",
-      "source": "hcamag.com",
-      "date": "2026-08-12",
-      "summary": "Is AI raising the bar on your WHS obligations? &nbsp;&nbsp; hcamag.com",
-      "categories": [
-        "current"
-      ],
-      "geography": [
-        "National"
-      ],
-      "horizon": "now",
-      "id": "gn-is-ai-raising-the-bar-on-your-whs-obligations-hcamag-com"
-    },
-    {
-      "title": "‘Shadow’ AI agents stalking networks undetected, Okta chief warns - Stockhead",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQTVhKRDBJVVJsVGpaUnQ5NzBYMmx5VnlBek1VaEpKeEVRY3NEdUxLWEtrdFZhcTNMQnZlOFEzZ2tOdmxSQkcwa2xnTU9Ga0NRVFk0TlFscnJuQ2tzOU1MTjdLZDRQSHlkcDYzZzJ6Ul9LT253emdHTHlYSXo4ck9QdUFmS0ExWDRFYmEySHlMLW5KMDRBakc2MQ?oc=5",
-      "source": "Stockhead",
-      "date": "2026-08-12",
-      "summary": "‘Shadow’ AI agents stalking networks undetected, Okta chief warns &nbsp;&nbsp; Stockhead",
-      "categories": [
-        "markets"
-      ],
-      "geography": [
-        "National"
-      ],
-      "horizon": "now",
-      "id": "gn-shadow-ai-agents-stalking-networks-undetected-okta-chief-warns-stockhead"
-    },
-    {
-      "title": "‘Enormous opportunity’: AGL warns Australia risks missing data centre boom - The Australian",
-      "url": "https://news.google.com/rss/articles/CBMirgJBVV95cUxPenl4NUhoT3pLeTlPTk1nMEl2WGZnQTFwWDJRNVVZWkQ5ZGhoc2dwWTVBeWE3VTlQVlk1OGtBZkJjWTdXY21oWGlqRlM0dFdWZUlYZHBNcVBvbXRDTWZjQjE1OGdIVDlqMk9vblBIVmVFb1lNYktsRUV2Zm5zWjMxVDBQdy15OFlfRlVwRTB1eUF1MjF3VFF6N3I2ODR1YkNMNzBjVksycWxBOVBMVjZFYU5PTUFiWTlWRUxwVHJKVzB1MHFsR0ZockdEcWlzemF5WUpSaVhiU2x3THRMMVZPZjg4TXpMd3dWMk5LT2lUaEdoZE52R3d3MDNEdlEwYzlOTG01X1hpajN5blN2UDJxZjNtR3RDVW90ZVZUbGxpLUFlczRicEJBNmp5eUhmQdIBswJBVV95cUxQQUc1WGRWZU9EYWdHcTlUT1pTUnZ2TGdQY3gtVElfdXIydW0tcFZmS2xhTGJVbXNMZVRsRnFMWFlZdnEtaUV1dW44VUNRMHVEV0poYkFVOXBaOGprRW9ia19LSUJtOGFZOGx2VTRmemxxb3BrN2tPWkpFNzhXaTV4bk1ZOFI0d3JoQ2dUZzEwWjJIRHlOZS1jNk9PdjZPYko5S0ZOYnEtR2RUSGpVb1lKV3EwU0NlZXBoM3FaeWJhYUJ4c2NSbDZFQWJ3NEh0UHhKVlF1aTgxWHVkTHBaUjUtazFGZ2ZqNmZ4ZHBmekVkRmJscFNYZjBWT21ncDFSWHVnQnR3RjA1MVpvZG5kc0t1TkRTajhvZ0E1LWdPeG9iZ1NiV01zQ2FCaTRzLUN3WFJJM0N3?oc=5",
-      "source": "The Australian",
-      "date": "2026-08-12",
-      "summary": "‘Enormous opportunity’: AGL warns Australia risks missing data centre boom &nbsp;&nbsp; The Australian",
-      "categories": [
-        "buildouts"
-      ],
-      "geography": [
-        "National"
-      ],
-      "horizon": "now",
-      "id": "gn-enormous-opportunity-agl-warns-australia-risks-missing-data-centre-boom-the-aus"
     },
     {
       "id": "seed-nsw-pipeline",
