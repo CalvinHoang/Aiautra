@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-23T00:30:12+00:00",
+  "updated": "2026-08-23T06:18:33+00:00",
   "items": [
     {
       "title": "New methodology aims to prove AI decisions meet qualified human standards - insideageing.com.au",
@@ -288,6 +288,21 @@
       ],
       "horizon": "now",
       "id": "gn-man-wins-950-000-after-tribunal-factors-in-ai-in-changing-job-market-abc-news-he"
+    },
+    {
+      "title": "Alphabet Bond Buyer Warns on Australia’s Capacity for AI Debt - Bloomberg",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQaEtNN091dzV5WnF2dlU0aVBGT05UaFI1TXd2bkp6NlpTcWxBT2NrbDJYUjh4SW9MM3ZmZmtqVGtfWmczNUZuN1k3N2MtV2t3ZHNRLTFLcmc5RmE5bWd0UW5adDJXaDdQTTJNYjAyakhTOUJWTHBOT0V6WTk2U0EwYk56UWF2aF9sa2dTLTVYTFdPSE1pZHlMTDNRdDZ6aXdjY1JIZ285d3YtYXQ4WXFhOVpB?oc=5",
+      "source": "Bloomberg",
+      "date": "2026-08-21",
+      "summary": "Alphabet Bond Buyer Warns on Australia’s Capacity for AI Debt &nbsp;&nbsp; Bloomberg",
+      "categories": [
+        "investments"
+      ],
+      "geography": [
+        "National"
+      ],
+      "horizon": "now",
+      "id": "gn-alphabet-bond-buyer-warns-on-australia-s-capacity-for-ai-debt-bloomberg"
     },
     {
       "title": "Women hold just 15pc of Australia’s AI leadership roles - Information Age | ACS",
@@ -1175,6 +1190,21 @@
       ],
       "horizon": "now",
       "id": "gn-canva-founder-says-ai-costs-down-90-after-skyrocketing-bills-delayed-product-rol"
+    },
+    {
+      "title": "How data centres could help build Australia’s grid - InnovationAus.com",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQRHZkbk5ydElZOUhscVJ0MWE1a0NRV1FhMm1VUjZqdnNPTVdUT01RblhjMUxOeHpwN0hNYlUwbnlsalYydzI3bjYxSU1TOS1Nek85RWZTcHAtc2xCdnJPclNwQmxyczJDWWRYTVI0LUFINjR2QkJVTlFOMzFPNnBia0w0OS1haUk?oc=5",
+      "source": "InnovationAus.com",
+      "date": "2026-08-19",
+      "summary": "How data centres could help build Australia’s grid &nbsp;&nbsp; InnovationAus.com",
+      "categories": [
+        "buildouts"
+      ],
+      "geography": [
+        "National"
+      ],
+      "horizon": "now",
+      "id": "gn-how-data-centres-could-help-build-australia-s-grid-innovationaus-com"
     },
     {
       "title": "Can Appen (ASX:APX) and Nuix Ride the Next AI Data Wave? - Kalkine Media",
@@ -3740,38 +3770,6 @@
       ],
       "horizon": "now",
       "id": "gn-ai-boom-productivity-malaise-making-rba-s-job-harder-aapnews-aap-com-au"
-    },
-    {
-      "title": "AI assistants now used by 4 in 5 Australian children - theeducatoronline.com",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQVjdXTGNYdWVwaDgtekp1NFpUdVpnUXZrRERIY1hxTnVFaS1VN09CbFJ0SmNlWUQ1WW0yQ1pfenZoVDZRY0x2bTRvT0xjajVFRVNnak1UdDZwOVlFRXFuaUhkX281dTdNeV9HRHlINENTRmQyMWVFOE83UHRMTTBiZHdacEg2UmlaLWxBak4wcUtlQW0wVU5sTzZvRFdnUno0ZUUtVw?oc=5",
-      "source": "theeducatoronline.com",
-      "date": "2026-08-13",
-      "summary": "AI assistants now used by 4 in 5 Australian children &nbsp;&nbsp; theeducatoronline.com",
-      "categories": [
-        "current"
-      ],
-      "geography": [
-        "National"
-      ],
-      "horizon": "now",
-      "id": "gn-ai-assistants-now-used-by-4-in-5-australian-children-theeducatoronline-com"
-    },
-    {
-      "title": "Beetaloo Energy (ASX:BTL) - Nears First Gas as AI Data Centre Demand Builds - cruxinvestor.com",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQZGpWUHQtUUF6QkVjcXlkRENYcTVPaUczV2FnLXZIMjZrdTk0Ni1kX2ZxNVp5YWd6OGlsWGgtUjdfQklyYzlja0JFTFJVU3N3Nm1aam4xM0VreFlNODN4QkRmNHczaDE5NHVKWnU3STFVSEFIREJ0SUNtQ1J2dEMzVXRZSERrRktzUDZ5dlRNa0tNbDlRV3FPRjhOR1NpUkFIUmRSOXluUThQVzFJTm9rQg?oc=5",
-      "source": "cruxinvestor.com",
-      "date": "2026-08-13",
-      "summary": "Beetaloo Energy (ASX:BTL) - Nears First Gas as AI Data Centre Demand Builds &nbsp;&nbsp; cruxinvestor.com",
-      "categories": [
-        "buildouts",
-        "investments",
-        "markets"
-      ],
-      "geography": [
-        "National"
-      ],
-      "horizon": "now",
-      "id": "gn-beetaloo-energy-asx-btl-nears-first-gas-as-ai-data-centre-demand-builds-cruxinve"
     },
     {
       "id": "seed-nsw-pipeline",
