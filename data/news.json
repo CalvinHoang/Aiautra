@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-23T18:10:23+00:00",
+  "updated": "2026-08-24T00:29:23+00:00",
   "items": [
     {
       "title": "AI advice leaves worker $1,230 poorer - Information Age | ACS",
@@ -30,6 +30,171 @@
       ],
       "horizon": "now",
       "id": "gn-housing-to-take-a-hit-as-sparkies-jump-on-data-centre-boom-the-australian"
+    },
+    {
+      "title": "To win from the AI revolution, Canberra must protect Australian copyright - AFR",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQVXBoQXFaTS1fZDJxMlJKWFNRelQyX1BaeVhQREdGZ3RiSjJGOHNZRFJSdEtFYllWbFZka25BLUVRSkFrb3Q3el93SWl0WWJ5R1JkNzNSUjR1YmxwcDRjcFZXLXZESk1KSUEwLXNYYXBfU2syYWFvd2xVS3dKanAzN0VHcUtDWkFuR3lCRVM5V01LWkM1dTdhUl9xbl9iTmtGTXA1MEZFQ3hKQzJLRnIwZnRiSFJUYWt4bHpz?oc=5",
+      "source": "AFR",
+      "date": "2026-08-23",
+      "summary": "To win from the AI revolution, Canberra must protect Australian copyright &nbsp;&nbsp; AFR",
+      "categories": [
+        "current"
+      ],
+      "geography": [
+        "ACT"
+      ],
+      "horizon": "now",
+      "id": "gn-to-win-from-the-ai-revolution-canberra-must-protect-australian-copyright-afr"
+    },
+    {
+      "title": "Australia’s power grid isn’t ready for AI boom - The Australian",
+      "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxOVXJyZmN1dnZCcjlXb056VDROZEZIdkdIYnduUU5ESlBaQnVIS2VyYmNOTkg5UkxqYlRzd0NFMnJqNm00c3I4cThRbGU5SkJqSW9jemx4WlE1UUVST1FCMzNoblNQenl1MGNRaE5UWC1EUXFvTTlVQm92MXhFVnJsS0hNNkFlelM4OFowakswOGF4RjBfVEQyRGhsMDUwTzd5eEpkZklIUC1xTS1MVTVQcHM3UTJmb1lSZDA4dUNUejFEcHVkZTBuRUpmQ1UxMlRjUGZ6eHZhcU0temd3VlZ5THp0blEzNUp5YjNEUW96bGRlNHFrZ19B0gH8AUFVX3lxTE9saHR0MWpXYlZhOXd6bHNrSnVFZ2ZwLVJNU1hSSEdIOUJySm5VNzVEU1NMNXlHdjRQMzRtWHJfZ1pEbklyZzNjR0pmNVhELWg0NVd0al9lS2dYX3RjT1poYmdBT3hQVkxic3RONHdoZi1JRVgxd1IyY0RYTTlVSWkxNFpQOVZVd0RzSXQ3VzhGbVJVREVqeXo3dUhGTTFqZTIzdXRTdWQwZ3RCOWdKdDBkWS0zQ19fSU9kajFoUGxlbGE2bkM2WGRsUHF5X2dZcExEZFh6NnMyV0xkTmU2dG9ETWRNeWVzWGhWOUJKdmtJd012aU5Cb2ZRQkd1dg?oc=5",
+      "source": "The Australian",
+      "date": "2026-08-23",
+      "summary": "Australia’s power grid isn’t ready for AI boom &nbsp;&nbsp; The Australian",
+      "categories": [
+        "current"
+      ],
+      "geography": [
+        "National"
+      ],
+      "horizon": "now",
+      "id": "gn-australia-s-power-grid-isn-t-ready-for-ai-boom-the-australian"
+    },
+    {
+      "title": "Why SA businesses should prepare now for the AI Royal Commission - InDaily South Australia",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOdGV4ZG1HaEUzNjVhcUItWUI3ZG4tQkdPcU9lOVotcDZyZ0dVTWtINHo5ZHdfZ21iVXJTeUNxTHgwQmZhNUk2a0ZkQjdKMS14QU1QMFM0b2N2YzB4eThfcHBKSENXZ1F5QWY2cjRwdzMyTjZoRXkwQkJXc3V4Ty1fR1lCTmdwRkNZRlAyZWNudHJWbmtxN1g0aV9ZZV84ZmdvSnhNQk03bHpQR0t0SVJjOVJaeU1BUEhT?oc=5",
+      "source": "InDaily South Australia",
+      "date": "2026-08-23",
+      "summary": "Why SA businesses should prepare now for the AI Royal Commission &nbsp;&nbsp; InDaily South Australia",
+      "categories": [
+        "current"
+      ],
+      "geography": [
+        "SA"
+      ],
+      "horizon": "now",
+      "id": "gn-why-sa-businesses-should-prepare-now-for-the-ai-royal-commission-indaily-south-a"
+    },
+    {
+      "title": "How AI is transforming construction logistics on major infrastructure projects - Infrastructure Magazine",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQZEZUUy02Mm9FcUlUMmFmOVlmU2llaEpDSWVfV3MwZzRaeWdLb3JRNDVIOVdZbDJvbXUxUTVtN1A0ZjNscHhTRnR6Mnpsc2pzQnY0UGROQ2JTNnZwUWNYWHZaTWZydEk0RS1MU0IxNTRVd21kdWxfSENkRzFjVDdBcXJBWklYY0VtUk5HeXZsdU5zQ2ZSZE43OHhhY2Q1cWFTUndjNFRXRlBrZ0JhTzNualBGZV9vNTJm?oc=5",
+      "source": "Infrastructure Magazine",
+      "date": "2026-08-23",
+      "summary": "How AI is transforming construction logistics on major infrastructure projects &nbsp;&nbsp; Infrastructure Magazine",
+      "categories": [
+        "buildouts"
+      ],
+      "geography": [
+        "National"
+      ],
+      "horizon": "now",
+      "id": "gn-how-ai-is-transforming-construction-logistics-on-major-infrastructure-projects-i"
+    },
+    {
+      "title": "Meet the local startup competing with foreign tech giants - The Canberra Times",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQZkJFbG5GSVFVc2NoangtV2gyTGwzQTI2RW9wY2pYQVFEZG5pU0Q0Qk1tRno2LXZnM041UjR1czVsWU5NVW1PT29SRHY4Z1pZbjc1T3pqZDh1UGJFVjhaWmxCUlIxcDRJRVNrczRETXd5YzEtU2pJQXAzNGtHcGo5UDR6RzM3QWthMzZld2dJOWtubFY0OTN6dnhlMTcxYVc4V3ZvU0pTTQ?oc=5",
+      "source": "The Canberra Times",
+      "date": "2026-08-23",
+      "summary": "Meet the local startup competing with foreign tech giants &nbsp;&nbsp; The Canberra Times",
+      "categories": [
+        "current"
+      ],
+      "geography": [
+        "ACT"
+      ],
+      "horizon": "now",
+      "id": "gn-meet-the-local-startup-competing-with-foreign-tech-giants-the-canberra-times"
+    },
+    {
+      "title": "Behind Australia’s AI push is greater surveillance - deepcutnews.com",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9nTDRWOU9XYW5nd1c4UUZaVnRUeGxpa3BPQWk1Q0tNX2hoMkRPUHBEQkxlX2JjZUhva1pPVTJhemp6Rmd4dTE3ejlUd1BvTEZBN3JSNUluQXBwTzJZekR2WHpnaXVPbFRTdm1SZHpLWkhrTHIz?oc=5",
+      "source": "deepcutnews.com",
+      "date": "2026-08-23",
+      "summary": "Behind Australia’s AI push is greater surveillance &nbsp;&nbsp; deepcutnews.com",
+      "categories": [
+        "current"
+      ],
+      "geography": [
+        "National"
+      ],
+      "horizon": "now",
+      "id": "gn-behind-australia-s-ai-push-is-greater-surveillance-deepcutnews-com"
+    },
+    {
+      "title": "‘Frighteningly easy’: How fake AI payslips fuel mortgage fraud - SMH.com.au",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOVi1oQmNCX0hZSUNUUzQybXQ2WGJDLUREOHdwbmsyLVlFOTVkdi0zWkFnSjdNZ1AyRnA1RUJJZ3dhQi1UQXd0ajBZVW5lRHgwYU83cFFyVk9HTnZGM09WXzdjWW5fWE5MQzN1WV9tWnFQRWs2ODdWRnNYSVBEUkJ3Rm82YzEyUGd5RmRWSVZFSmpIYjlRQVdGSGRKVUVSa2s1eWVna1ZJbk0xdzY0bTByT3h5N2d1akRiVF81MEdjUTJoTVFvdG5IMjVZVWg?oc=5",
+      "source": "SMH.com.au",
+      "date": "2026-08-23",
+      "summary": "‘Frighteningly easy’: How fake AI payslips fuel mortgage fraud &nbsp;&nbsp; SMH.com.au",
+      "categories": [
+        "current"
+      ],
+      "geography": [
+        "National"
+      ],
+      "horizon": "now",
+      "id": "gn-frighteningly-easy-how-fake-ai-payslips-fuel-mortgage-fraud-smh-com-au"
+    },
+    {
+      "title": "A therapist describes how AI drew her in and how she re-established boundaries. - Psychology Today",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxORE9WS09tZ0YtOVozNzBnZGpsdUhET0syYk9DUVhpUXNUZjdnRUZSbjE2cTZ3SWJ4SV9FTFBNNHpXX0l3dHhTVWxKOVhMSzVycGxhQnpFZW9UbW83NXZVZHRzMzNEX0p2eHNGdGVmM3NPcVBYMk1fR1NjSHhlSl9FRlAycldEZ0UxQkw5Z1l1dTMyUlRFamJ0SExsaElFRUU1UlM2dm0tVVlFY0N4VWVHTTBNQjJjZ9IBuwFBVV95cUxNU0RHMTJ1Vi1HZFZYYk1EeXcxU3Fub3NZeGhaa0FhVHNXSVgxLWd3UURQM2gweFJYa2VZTFgxUURnT0pGWm9ZQ3MtOTEtdi1rdGV3MmtLbTBOZTA1VHhWWnduNDRENU5iQ08wTlh0Q1hOc2FNdUpXRHBHX0RsZ01zcHlYTEhGSjRxYkZObnNBaEFUVS1fMXhuRzJ2c2kxaUtpc0pXZlgtX0JXUDBQdlFMeVg2ZVRTUWl5QUd3?oc=5",
+      "source": "Psychology Today",
+      "date": "2026-08-23",
+      "summary": "A therapist describes how AI drew her in and how she re-established boundaries. &nbsp;&nbsp; Psychology Today",
+      "categories": [
+        "current"
+      ],
+      "geography": [
+        "National"
+      ],
+      "horizon": "now",
+      "id": "gn-a-therapist-describes-how-ai-drew-her-in-and-how-she-re-established-boundaries-p"
+    },
+    {
+      "title": "Albanese to settle AI data centre energy rules, overriding defiant Queensland - ABC News & Headlines – Australian Broadcasting Corporation",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNeURkNHhJVHFuYWdlZkVWOG5kd2U2MmRNOTJmODdTUFoweUxkV21valpjT005Q01qUGdPcDM0MnVLOFd5V3NDc2NqSnZQZlV6R2hBYXhWTHE0QkdGaXAwZ2FKLTcxT0ZYem9Eb19LMTRxXy1MOWNjRTY5ZmR3UktRNU1LbDNFc0I5bWpELUh3Q2gyWFE?oc=5",
+      "source": "ABC News & Headlines – Australian Broadcasting Corporation",
+      "date": "2026-08-23",
+      "summary": "Albanese to settle AI data centre energy rules, overriding defiant Queensland &nbsp;&nbsp; ABC News & Headlines – Australian Broadcasting Corporation",
+      "categories": [
+        "buildouts"
+      ],
+      "geography": [
+        "QLD"
+      ],
+      "horizon": "now",
+      "id": "gn-albanese-to-settle-ai-data-centre-energy-rules-overriding-defiant-queensland-abc"
+    },
+    {
+      "title": "AI raises bank fraud risks as Australia faces control gaps - Asian Banking & Finance",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOc0t5MS13OW9pVDFDN1l5bnlaWUVyVS1zY0NJVmNiTTdyVkNnV25kbHVYUEh3RGFVOG1KcUpSdWZzNURJYVZhVGw0alg1NnNCR0xkWnBhRUFqcXhvcjh5NWpYdWNqRVFJd2RsWkMwRWozUURDRk1XZ1Z1N01CQ05DaHVlUEtqcDRoMGh2a3llU1otVlJGcURwd04yWnNvT3pBZ2MzaVFkQy1VTXVWRndfb3JIOEtrbW41RnFz?oc=5",
+      "source": "Asian Banking & Finance",
+      "date": "2026-08-23",
+      "summary": "AI raises bank fraud risks as Australia faces control gaps &nbsp;&nbsp; Asian Banking & Finance",
+      "categories": [
+        "investments"
+      ],
+      "geography": [
+        "National"
+      ],
+      "horizon": "now",
+      "id": "gn-ai-raises-bank-fraud-risks-as-australia-faces-control-gaps-asian-banking-finance"
+    },
+    {
+      "title": "Inspira Enterprise Expands into Australia to Accelerate AI-Driven Cybersecurity and Digital Resilience Across Enterprises - PR Newswire",
+      "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxPZW9EZDdvdFhPVzdqMDh3N0JVTm9xRC1Bd0tKNjJxMlNsc01odnpMNG1kQ0JReHBBclIwWDBZV25OSDBFcjkxRk5yRldsb3J2TDRWci1Sbjl1aWEydGxnM2phcENSYVdhbFMzQXJ1ZVkzajMwZ19TVk5qOTdsencxVk56U1p4Q2tER0Jtc2VzYTNJdTBvT1F4UzlDSE5EMUltVUJoZ0otVU83Vi05bEhqS0tfRDhNOHA3U3VuZmMtSmp3dWJyUjJPMGpxUmhhcUVFVDNaczF5NmRKQmIxT01Sa25zQ2RiS1RHTEsyTGZDUTNUWm5sVHRpTnJTOXpIOUd6Vlc4blQxRjZxZFZWdDRN?oc=5",
+      "source": "PR Newswire",
+      "date": "2026-08-23",
+      "summary": "Inspira Enterprise Expands into Australia to Accelerate AI-Driven Cybersecurity and Digital Resilience Across Enterprises &nbsp;&nbsp; PR Newswire",
+      "categories": [
+        "current"
+      ],
+      "geography": [
+        "National"
+      ],
+      "horizon": "now",
+      "id": "gn-inspira-enterprise-expands-into-australia-to-accelerate-ai-driven-cybersecurity"
     },
     {
       "title": "New methodology aims to prove AI decisions meet qualified human standards - insideageing.com.au",
@@ -3379,6 +3544,21 @@
       "id": "gn-the-30m-ai-agent-fixing-a-common-tradie-dilemma-afr-com"
     },
     {
+      "title": "South Australia launches $3 million Royal Commission into artificial intelligence - allora news",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQZmI2ZHBQY3hPTV9faU01MjgtM3Npb2MtUU1RQW1aSUk4dFdvUUhpcHBQWEtaN05DZmFqMHJwamlyczNqSWg1Q09tWU9iTDB0dU52OUI3bEZTYVRRWW9hSU85RzRQZFNlT3JmOFoyd3liLUt5LUs2UUdlVWVHYndjam5iYVo0T2djY0xzTVZwZWpkRkhmNFNrZUdob2xqelFkdUxteHRFUS1iVGtRLXpia1RvSEtaeTQ2QXc?oc=5",
+      "source": "allora news",
+      "date": "2026-08-14",
+      "summary": "South Australia launches $3 million Royal Commission into artificial intelligence &nbsp;&nbsp; allora news",
+      "categories": [
+        "investments"
+      ],
+      "geography": [
+        "SA"
+      ],
+      "horizon": "now",
+      "id": "gn-south-australia-launches-3-million-royal-commission-into-artificial-intelligence"
+    },
+    {
       "title": "AI Therapists Are Coming (for the Next Generation) - Psychology Today",
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPQXJvRkZHb0xDSXotTE4wbTRvaFkwQ0diTEdhMGdvZ0RDN19DWE1tTGI0c2E3bTlLNzBTSXUxTjM0SXkxTjRaQ1AtYlVZWTExM3VnRG1JV19XT1JLVGhKQWthN1F5QTdJdzZFN1dkMGR3bHVHWkhWeE42NDhjT3BBZ29HWXNBWjJQZXJmZ3B4cENMaUpJcU9DdDB5NTNGMmJrZExDRWN6VzlzY1JOemU3N1c3V2Y?oc=5",
       "source": "Psychology Today",
@@ -3587,189 +3767,6 @@
       ],
       "horizon": "now",
       "id": "gn-cba-bolsters-ai-investment-as-business-lending-sees-major-growth-cyber-daily"
-    },
-    {
-      "title": "Why great earnings haven't been good enough for AI hardware stocks - Morningstar Australia",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOak1CY3lqYkc1VWxYZkJhbzFjOGh4VE5VMFpoeVZFOEh5eG80NzJTUGI2bWl2eUx2SzZIeldnbDkyLUVYQWZBMEMwU3B3eXE5SFlLMVZoRDdtaTNvQl9USjd4N2ktUDNDcUxmdUVtVFRudHRtT3RmVE8wQWNMWkNNZkJQZURyc3hHMHFDMWtaVnF2VGhfbTcwNVk1T1FwdzA3?oc=5",
-      "source": "Morningstar Australia",
-      "date": "2026-08-13",
-      "summary": "Why great earnings haven't been good enough for AI hardware stocks &nbsp;&nbsp; Morningstar Australia",
-      "categories": [
-        "investments",
-        "markets"
-      ],
-      "geography": [
-        "National"
-      ],
-      "horizon": "now",
-      "id": "gn-why-great-earnings-haven-t-been-good-enough-for-ai-hardware-stocks-morningstar-a"
-    },
-    {
-      "title": "Data centre boss refuses to say whether facility next to metro station is good for Sydney - SMH.com.au",
-      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQRm9RcjFISC1MZHNtQnBOQ2hUUzVVM25DYmpYcF9taFU3MUc2VFFCb09qU2lfVkMxc0ZpVXBleVhCY0xGV3ZHVkF1RkpkWlI0TFQzejhjcGpOYkItekhURFZzUnVnVC1vb2xSVC1SUkx1c3hLTlRiNVU3UzJnRlFPT2hLTEhvUnRkMDROcWxsLTk0Uzc1RG5udUk1Mk5EU3pZb0JYLWlUejlBMjY5RE1hdTRWLVJFUlhDTEpmV2NjcHlWSXFGdHlONjlnaUVlMC1YOXJMbVFpaHhjM1FvSGlr?oc=5",
-      "source": "SMH.com.au",
-      "date": "2026-08-13",
-      "summary": "Data centre boss refuses to say whether facility next to metro station is good for Sydney &nbsp;&nbsp; SMH.com.au",
-      "categories": [
-        "buildouts"
-      ],
-      "geography": [
-        "NSW"
-      ],
-      "horizon": "now",
-      "id": "gn-data-centre-boss-refuses-to-say-whether-facility-next-to-metro-station-is-good-f"
-    },
-    {
-      "title": "Beetaloo Energy (ASX:BTL) - Nears First Gas as AI Data Centre Demand Builds - Crux Investor",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQZGpWUHQtUUF6QkVjcXlkRENYcTVPaUczV2FnLXZIMjZrdTk0Ni1kX2ZxNVp5YWd6OGlsWGgtUjdfQklyYzlja0JFTFJVU3N3Nm1aam4xM0VreFlNODN4QkRmNHczaDE5NHVKWnU3STFVSEFIREJ0SUNtQ1J2dEMzVXRZSERrRktzUDZ5dlRNa0tNbDlRV3FPRjhOR1NpUkFIUmRSOXluUThQVzFJTm9rQg?oc=5",
-      "source": "Crux Investor",
-      "date": "2026-08-13",
-      "summary": "Beetaloo Energy (ASX:BTL) - Nears First Gas as AI Data Centre Demand Builds &nbsp;&nbsp; Crux Investor",
-      "categories": [
-        "buildouts",
-        "investments",
-        "markets"
-      ],
-      "geography": [
-        "National"
-      ],
-      "horizon": "now",
-      "id": "gn-beetaloo-energy-asx-btl-nears-first-gas-as-ai-data-centre-demand-builds-crux-inv"
-    },
-    {
-      "title": "Xero Stock And 2 Australian AI Shares With Real Business Use - simplywall.st",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQalBnNVpxbjY4aFB4UXhjRmY5ZW54UlM4ZjN1MFlIZzZNYjFFUHBWOHY4cDFrSHhMaTRSSE9fN1NXT3lMaEhkTXZXVmZlbEhuckh4UTNDR2pkMVVKcTBua0M2MjhzbXE1eGxQNmxSRk5zbXlFRmJyNVEtMzB5VmdnVmFhYkFUNjA3MjdaQTRWdUpWejZsUGtEVU9DTlFPZ2FLeWJBOGYxZXN3RnlRTUN0bWxHeUdfVl9IWVFHaHV1dGzSAcYBQVVfeXFMUHJxaVZhZVJETjRkWmIyZWVtNUxKOGcwTWNROXBYekE5U1hCSXVMdlN3QkFqRDhqTnBPdko4TEI1RU90cUlQd3BlN2pHNXhoSXM4RXJkeU9BNnBXRjJWQ1FEdEhqMVRDcnd3MHdTTHJEdEJ3SGdJTUlQbjJ0RFBsQk9PNDNQSG1VSW1PYnRHWUpUcHpCSXhwOFpGaU54Znp3WFZfWmFKckRIUlNpRGZEQXEwYjVaLXNYWHhxdjhQblY1dkhpaVh3?oc=5",
-      "source": "simplywall.st",
-      "date": "2026-08-13",
-      "summary": "Xero Stock And 2 Australian AI Shares With Real Business Use &nbsp;&nbsp; simplywall.st",
-      "categories": [
-        "markets"
-      ],
-      "geography": [
-        "National"
-      ],
-      "horizon": "now",
-      "id": "gn-xero-stock-and-2-australian-ai-shares-with-real-business-use-simplywall-st"
-    },
-    {
-      "title": "Meta blocks access to 750,000 under-16 accounts in Australia - Digital Watch Observatory",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9za1AwTC1aeXRtaWhIcHZleU5DTlhPaHNjYThzUWVWbjM0SkdJbXkxTHJGSWdBQVRhV0EtNHVIc2ZlOFdZMGNBN2U5WEprYjJZX0tJZFlGY2Q0LTRWTHBUZ0NqX2xETm1FOXhpekVBdXNZbTBmdmFHbDF4TENUUQ?oc=5",
-      "source": "Digital Watch Observatory",
-      "date": "2026-08-13",
-      "summary": "Meta blocks access to 750,000 under-16 accounts in Australia &nbsp;&nbsp; Digital Watch Observatory",
-      "categories": [
-        "current"
-      ],
-      "geography": [
-        "National"
-      ],
-      "horizon": "now",
-      "id": "gn-meta-blocks-access-to-750-000-under-16-accounts-in-australia-digital-watch-obser"
-    },
-    {
-      "title": "How Bank of America quietly became our largest foreign bank - AFR",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQb2lKaWZqbExBWHB4N0tiWGY2dHpoYnFERy11aWxzcGRZWGctUUozSllPRFIwdGg3d2dEWk5qd2xQR2dTTXRUVzlsUi1pVzVEcnFkZzhlWC15S3VsUVFFM2dMQ0g1S2lGRVM1QndyTVBBaEN6c0doTkU0ZnB1Nm5nMnZmQkliT2M2R3N4WFowekcxUmlFN0lhMW1pMUFvNXpCV29kdEhVZ1F6TnZpNzlJbC1B?oc=5",
-      "source": "AFR",
-      "date": "2026-08-13",
-      "summary": "How Bank of America quietly became our largest foreign bank &nbsp;&nbsp; AFR",
-      "categories": [
-        "current"
-      ],
-      "geography": [
-        "National"
-      ],
-      "horizon": "now",
-      "id": "gn-how-bank-of-america-quietly-became-our-largest-foreign-bank-afr"
-    },
-    {
-      "title": "AI probe must look at data centres on skills, power - Medianet News Hub",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPN2xkcDliTlRUT2FVeEQ2WWZPYWZSRVB2amVWLUw4WGxuMnUxUnMtcnhRMzROcTZrS20wYmNXaVNoMHNqQy1ESGd6dWRhTW16NTJKRlFfSktBb1hPcjkyX3hGbTZ3c0VlaHZmc1dySkJGczkyWmxuRTlYcTV5NXZNNW80emE1ZVVlVDVYcXN4UDlSTFZvRTVFQlpsQnA5ZEk?oc=5",
-      "source": "Medianet News Hub",
-      "date": "2026-08-13",
-      "summary": "AI probe must look at data centres on skills, power &nbsp;&nbsp; Medianet News Hub",
-      "categories": [
-        "buildouts"
-      ],
-      "geography": [
-        "National"
-      ],
-      "horizon": "now",
-      "id": "gn-ai-probe-must-look-at-data-centres-on-skills-power-medianet-news-hub"
-    },
-    {
-      "title": "AI assistants now used by 4 in 5 Australian children - The Educator K/12",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQVjdXTGNYdWVwaDgtekp1NFpUdVpnUXZrRERIY1hxTnVFaS1VN09CbFJ0SmNlWUQ1WW0yQ1pfenZoVDZRY0x2bTRvT0xjajVFRVNnak1UdDZwOVlFRXFuaUhkX281dTdNeV9HRHlINENTRmQyMWVFOE83UHRMTTBiZHdacEg2UmlaLWxBak4wcUtlQW0wVU5sTzZvRFdnUno0ZUUtVw?oc=5",
-      "source": "The Educator K/12",
-      "date": "2026-08-13",
-      "summary": "AI assistants now used by 4 in 5 Australian children &nbsp;&nbsp; The Educator K/12",
-      "categories": [
-        "current"
-      ],
-      "geography": [
-        "National"
-      ],
-      "horizon": "now",
-      "id": "gn-ai-assistants-now-used-by-4-in-5-australian-children-the-educator-k-12"
-    },
-    {
-      "title": "HVAC manufacturer Rinnai Australia streamlines service with AI - Australian Manufacturing",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPNlEwdGlFWGZIcDJOS1ZYZG9IUjNpbzV5X01vOFpXSFhndGI5NVlEWEsxcFRUWDdET2FVNDI4ejd5cVFscVJpdFFpWVV5SlluSW1pUmMwaHJZb1IwNDJrdW1yMVFDcDdBbFo2NWhQRjF0b3pRLWl6d3d4VmhuVUNqZDVLcWpXaW5GNFJMS2dHaGRqNW9TSjhXa1ZhaXFPVk42SjNiS1ltNzBWUQ?oc=5",
-      "source": "Australian Manufacturing",
-      "date": "2026-08-13",
-      "summary": "HVAC manufacturer Rinnai Australia streamlines service with AI &nbsp;&nbsp; Australian Manufacturing",
-      "categories": [
-        "current"
-      ],
-      "geography": [
-        "National"
-      ],
-      "horizon": "now",
-      "id": "gn-hvac-manufacturer-rinnai-australia-streamlines-service-with-ai-australian-manufa"
-    },
-    {
-      "title": "Australia's Temperature-Controlled Storage Market Explained - JLL",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOdUI4M0lZVUVaUjdlem9hNmZyRVFaYjZjMmZNZXRCTklrNFNLSmhrbndJQ3ViUXhzdGJzbHZBSVFpaDA0UDEtU3RVdmpUYnE3dnNUOHJjMFU3bnoybWllTFl4U2EwRjBlNFlrU3VrdDZhSFI0REZrbjI5SVhQVmluazFpMzNsN2VHM0M2SjIxY1ZyNTRZcVhhX19R?oc=5",
-      "source": "JLL",
-      "date": "2026-08-13",
-      "summary": "Australia's Temperature-Controlled Storage Market Explained &nbsp;&nbsp; JLL",
-      "categories": [
-        "markets"
-      ],
-      "geography": [
-        "National"
-      ],
-      "horizon": "now",
-      "id": "gn-australia-s-temperature-controlled-storage-market-explained-jll"
-    },
-    {
-      "title": "Doctor forced to apologise after AI makes 'scary' error about illegal drugs - ABC News & Headlines – Australian Broadcasting Corporation",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQejRqai1xeDhIdEhkU2RwRU1oSWgwZXBMTkxxdTFqdHpUUTlOOEdJN0lxTXgzUVhvT0NJczFSbW9PeW56a0VpOEYtRHNxcWp1a3VmSmFpeF9nbDI1LVJZTlpOU2RzcFRiVTl4SmpyMFcwcTV1ejZHV0ZjSTFnMmFuNFFBSnRySlg4bDdhYVFiaGg4anNYRE5LZGhjb25oX2c?oc=5",
-      "source": "ABC News & Headlines – Australian Broadcasting Corporation",
-      "date": "2026-08-13",
-      "summary": "Doctor forced to apologise after AI makes 'scary' error about illegal drugs &nbsp;&nbsp; ABC News & Headlines – Australian Broadcasting Corporation",
-      "categories": [
-        "current"
-      ],
-      "geography": [
-        "National"
-      ],
-      "horizon": "now",
-      "id": "gn-doctor-forced-to-apologise-after-ai-makes-scary-error-about-illegal-drugs-abc-ne"
-    },
-    {
-      "title": "Meta blocks access to 750,000 under-16 accounts in Australia - dig.watch",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9za1AwTC1aeXRtaWhIcHZleU5DTlhPaHNjYThzUWVWbjM0SkdJbXkxTHJGSWdBQVRhV0EtNHVIc2ZlOFdZMGNBN2U5WEprYjJZX0tJZFlGY2Q0LTRWTHBUZ0NqX2xETm1FOXhpekVBdXNZbTBmdmFHbDF4TENUUQ?oc=5",
-      "source": "dig.watch",
-      "date": "2026-08-13",
-      "summary": "Meta blocks access to 750,000 under-16 accounts in Australia &nbsp;&nbsp; dig.watch",
-      "categories": [
-        "current"
-      ],
-      "geography": [
-        "National"
-      ],
-      "horizon": "now",
-      "id": "gn-meta-blocks-access-to-750-000-under-16-accounts-in-australia-dig-watch"
     },
     {
       "id": "seed-nsw-pipeline",
