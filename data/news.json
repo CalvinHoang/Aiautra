@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-29T15:48:20+00:00",
+  "updated": "2026-08-29T20:03:01+00:00",
   "items": [
     {
       "title": "South Korea’s digital shipyards could keep Australia’s navy afloat - East Asia Forum",
@@ -61,6 +61,21 @@
       ],
       "horizon": "now",
       "id": "gn-australia-s-top-music-charts-ban-ai-songs-oman-observer"
+    },
+    {
+      "title": "AI and the Brand You Didn't Build - Psychology Today",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNTEUwWVYzTWlqNTJuWFpTWnBmdGN4Q1VqNDhCSU0wRFQyRHBWMFd3Ni1MdXJmU0VrZWwwTHlITlFnVkJ0dHB3NTVsYnN6WVZTUmlXOHE1eTIxd3BWTW1PaFUwVlltV3JreHA0VUxvTXVWUmNNQ1BzMGhSVHA3bk5fX2dYbkFMcTRFSmM3MlBPbTkwS3BLajZmSlFuUEM?oc=5",
+      "source": "Psychology Today",
+      "date": "2026-08-29",
+      "summary": "AI and the Brand You Didn't Build &nbsp;&nbsp; Psychology Today",
+      "categories": [
+        "current"
+      ],
+      "geography": [
+        "National"
+      ],
+      "horizon": "now",
+      "id": "gn-ai-and-the-brand-you-didn-t-build-psychology-today"
     },
     {
       "title": "Responsible ESG AI enablement could become Australia's next great export if we start now - iTWire",
@@ -632,6 +647,21 @@
       ],
       "horizon": "now",
       "id": "gn-anthropic-eyed-5gw-of-ai-data-centers-in-australia-could-the-grid-handle-it-tech"
+    },
+    {
+      "title": "Is AI really taking young people’s jobs? - The Spectator Australia",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNQ20yV3dNb2g4ckVXa1c0TUF3d0NtZ1N1eDlDdVJCQm9MYVZEZnRvN0l6NWFja1lCczdrWGlYNXk3S3o4TGZINlM0NXotcGh5QUxjQUhqbjR0N2pYYTl0LVZqc3lDVTAtYk1ESFNEQjBNSE5DNllPaHdnTERvNHNPT3dn?oc=5",
+      "source": "The Spectator Australia",
+      "date": "2026-08-28",
+      "summary": "Is AI really taking young people’s jobs? &nbsp;&nbsp; The Spectator Australia",
+      "categories": [
+        "current"
+      ],
+      "geography": [
+        "National"
+      ],
+      "horizon": "now",
+      "id": "gn-is-ai-really-taking-young-people-s-jobs-the-spectator-australia"
     },
     {
       "title": "What Japan can learn from Australia’s cloud sovereignty lead - Lowy Institute",
@@ -3741,36 +3771,6 @@
       ],
       "horizon": "now",
       "id": "gn-why-sa-businesses-should-prepare-now-for-the-ai-royal-commission-indaily-south-a"
-    },
-    {
-      "title": "How AI is transforming construction logistics on major infrastructure projects - Infrastructure Magazine",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQZEZUUy02Mm9FcUlUMmFmOVlmU2llaEpDSWVfV3MwZzRaeWdLb3JRNDVIOVdZbDJvbXUxUTVtN1A0ZjNscHhTRnR6Mnpsc2pzQnY0UGROQ2JTNnZwUWNYWHZaTWZydEk0RS1MU0IxNTRVd21kdWxfSENkRzFjVDdBcXJBWklYY0VtUk5HeXZsdU5zQ2ZSZE43OHhhY2Q1cWFTUndjNFRXRlBrZ0JhTzNualBGZV9vNTJm?oc=5",
-      "source": "Infrastructure Magazine",
-      "date": "2026-08-23",
-      "summary": "How AI is transforming construction logistics on major infrastructure projects &nbsp;&nbsp; Infrastructure Magazine",
-      "categories": [
-        "buildouts"
-      ],
-      "geography": [
-        "National"
-      ],
-      "horizon": "now",
-      "id": "gn-how-ai-is-transforming-construction-logistics-on-major-infrastructure-projects-i"
-    },
-    {
-      "title": "Meet the local startup competing with foreign tech giants - The Canberra Times",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQZkJFbG5GSVFVc2NoangtV2gyTGwzQTI2RW9wY2pYQVFEZG5pU0Q0Qk1tRno2LXZnM041UjR1czVsWU5NVW1PT29SRHY4Z1pZbjc1T3pqZDh1UGJFVjhaWmxCUlIxcDRJRVNrczRETXd5YzEtU2pJQXAzNGtHcGo5UDR6RzM3QWthMzZld2dJOWtubFY0OTN6dnhlMTcxYVc4V3ZvU0pTTQ?oc=5",
-      "source": "The Canberra Times",
-      "date": "2026-08-23",
-      "summary": "Meet the local startup competing with foreign tech giants &nbsp;&nbsp; The Canberra Times",
-      "categories": [
-        "current"
-      ],
-      "geography": [
-        "ACT"
-      ],
-      "horizon": "now",
-      "id": "gn-meet-the-local-startup-competing-with-foreign-tech-giants-the-canberra-times"
     },
     {
       "id": "seed-nsw-pipeline",
