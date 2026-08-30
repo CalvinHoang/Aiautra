@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-29T20:03:01+00:00",
+  "updated": "2026-08-30T01:54:43+00:00",
   "items": [
     {
       "title": "South Korea’s digital shipyards could keep Australia’s navy afloat - East Asia Forum",
@@ -76,6 +76,36 @@
       ],
       "horizon": "now",
       "id": "gn-ai-and-the-brand-you-didn-t-build-psychology-today"
+    },
+    {
+      "title": "Residents prepare to fight AI data centre approval - ABC News & Headlines – Australian Broadcasting Corporation",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPNHVTOTR2Mm5JOFQ5c3BsNmJWWDNnWXFrMVJjMzZEV2VvdVJUTmNuN1RBQ19oVVMxUHFJWmtGQ2JxejBteXBDM0RfTkQ3U1hSM3dSRkVjcTVIaW9kN0pzbUxDYTRUOFZZcUdva3FXUlBsQkttc0tSUDdBUlNiU0hJSXA0ZnRmSF9EOS1wZ01VbHpCU3J5d09NZ0o4WUZkZjYwM1pqaw?oc=5",
+      "source": "ABC News & Headlines – Australian Broadcasting Corporation",
+      "date": "2026-08-29",
+      "summary": "Residents prepare to fight AI data centre approval &nbsp;&nbsp; ABC News & Headlines – Australian Broadcasting Corporation",
+      "categories": [
+        "buildouts"
+      ],
+      "geography": [
+        "National"
+      ],
+      "horizon": "now",
+      "id": "gn-residents-prepare-to-fight-ai-data-centre-approval-abc-news-headlines-australian"
+    },
+    {
+      "title": "Australia Mandates Data Centre Power Rules, 7x Demand Rise [2026] - tech-insider.org",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNbFlwWWd3NUFzVXRTNV9uMkMwc1I4Zm55d28wNUpYWmFqVnoyRTYxc1RtNmM4N3o4NEZDMVVIM0xpNHNULU01eW5oU09KUzhRX1FXd19SVjc3ME1iZm5SaGtQSHY4MzZkTUFOUHZ6SV9pSkhmNjYzcm94WDNjX0NaUDFUNVRnQmFYYzhsU2VmVXVaX1U?oc=5",
+      "source": "tech-insider.org",
+      "date": "2026-08-29",
+      "summary": "Australia Mandates Data Centre Power Rules, 7x Demand Rise [2026] &nbsp;&nbsp; tech-insider.org",
+      "categories": [
+        "buildouts"
+      ],
+      "geography": [
+        "National"
+      ],
+      "horizon": "now",
+      "id": "gn-australia-mandates-data-centre-power-rules-7x-demand-rise-2026-tech-insider-org"
     },
     {
       "title": "Responsible ESG AI enablement could become Australia's next great export if we start now - iTWire",
@@ -1161,6 +1191,36 @@
       ],
       "horizon": "now",
       "id": "gn-australia-cracks-down-on-ai-music-your-south-shore"
+    },
+    {
+      "title": "Andrew Charlton on finding Australia’s way in an AI world dominated by the US and China - Capital Brief",
+      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNcl9zU3ZpQ3duUjFtVm1yZ1phNDVtdHN1eURVOTg2T1BTbldDNzY0NmlZNEZ6TE9aWkszWHFJZHZNcXg0dHhlNTNxQThETjh2UU56SlNBcDA3S3JmT2hYVlhRWDBwSzQ3Tlo0WlNhN05rNzJZOHVHeXFwdU1PZmsxd0Q0S3hYU3ZNdzk1bmQtVF81NUNROTVVU244cFVUc044ZXVyLUtLNEpyV1YwRG1Cb3YzNXRTU3hCU0xtUldUZWVudUFyRERNSzRSS2pHbWJ5WE16a1NKTmhRQll3NmFPUW1KenRPcFZSWUhQOV9RMzNLODg?oc=5",
+      "source": "Capital Brief",
+      "date": "2026-08-27",
+      "summary": "Andrew Charlton on finding Australia’s way in an AI world dominated by the US and China &nbsp;&nbsp; Capital Brief",
+      "categories": [
+        "investments"
+      ],
+      "geography": [
+        "National"
+      ],
+      "horizon": "now",
+      "id": "gn-andrew-charlton-on-finding-australia-s-way-in-an-ai-world-dominated-by-the-us-an"
+    },
+    {
+      "title": "Australia proposes linking data centers to access to computing capacity - UA.NEWS",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQTzM1TDhZLUlTdWExVzdWa3Y3MEZ6eHdWeEUyZ3ZoVkJLcnBWUVNvbmZRakhkeDZuN2EwdUN5NEF4cnYzbVlFWTZmbzlSa3hoWmkxWk9VcHRMSjFQRGcxSlpqVWlvRExCOFBnSWp6NGJPUUNwY2lHT2U4eTBBVHlsR2x5bDJJaWVtanlIZm1uVDBxODl5RmowZjZjNmR6dnp1aUJ0ZFo4UmZyZzM0RHdqeGtIeEk4WXhpOWN3M0Zn?oc=5",
+      "source": "UA.NEWS",
+      "date": "2026-08-27",
+      "summary": "Australia proposes linking data centers to access to computing capacity &nbsp;&nbsp; UA.NEWS",
+      "categories": [
+        "buildouts"
+      ],
+      "geography": [
+        "National"
+      ],
+      "horizon": "now",
+      "id": "gn-australia-proposes-linking-data-centers-to-access-to-computing-capacity-ua-news"
     },
     {
       "title": "Australia bans music made entirely by artificial intelligence from charts, awards show - KXAN Austin",
@@ -3711,66 +3771,6 @@
       ],
       "horizon": "now",
       "id": "gn-ai-advice-leaves-worker-1-230-poorer-information-age-acs"
-    },
-    {
-      "title": "Housing to take a hit as sparkies jump on data centre boom - The Australian",
-      "url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxQb2FfaWVpeEFvU2FlbTE3UHJyWGdmN1pzTHRJQmNCcnFNM2syTzM5TVRhalBOak50RUVZV3VGejhlb2tNSTE3SjFfTXNnSTAybFRCRmo4eHZtTy1CWHItcmNkS0E3LWU2Qndha1IxSGFQTHZSU2VqVmZOUGpub2g3WDgyRFBHUjAyLS1JRGh5N3F1Y0dXMENxNHlDRjJpWFVETmlsQ2R3ak16eTJ0cFlnZkhSOUg1ai1rZzJ1UXJ3djBZMFJJYl9saW90TE5JLUZUNGM0ckxUaU05ZHQxR2RuUlVodVB6VElROGMzQm8zQW04dVY1NlZGNUFRNUc3MGstYU5fQTBjQzlVNDdBRzd0eDREdGcwd1HSAZwCQVVfeXFMUFN4SVFPR2dIY1pxU0hxdnN2WEItODVnTVpyblVmN2lSMXNqSTNfU29NanVOeWF2RF90T3phbU93RzNVUXgtTjExM2ptUngxZ3N5UFBZVjhmbzlGa1VWWkRjMDRrY0tvZ3ZmdWF6RTZqWG5zTlpOY0RlWWlWYklGbFV0MVdGVGh3ZWkza0xYb0hxZ3ZQSzNILUx0MVU2MVlHVkYwOE1CcE84Qkstc0hXX0RzN1M1UC1JUU1LckF0WHAzVktTZFVfeVlFaE4wNEE4ejZra2dpWk02Z0hacFc2QWRMQnBES1hvV0VMd0lLU012Nm5TWkEza0gtM2FKaC1xejcxNWVWQlBvdmQ0ejh4QjNQLXJUajFpQUtROGs?oc=5",
-      "source": "The Australian",
-      "date": "2026-08-23",
-      "summary": "Housing to take a hit as sparkies jump on data centre boom &nbsp;&nbsp; The Australian",
-      "categories": [
-        "buildouts"
-      ],
-      "geography": [
-        "National"
-      ],
-      "horizon": "now",
-      "id": "gn-housing-to-take-a-hit-as-sparkies-jump-on-data-centre-boom-the-australian"
-    },
-    {
-      "title": "To win from the AI revolution, Canberra must protect Australian copyright - AFR",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQVXBoQXFaTS1fZDJxMlJKWFNRelQyX1BaeVhQREdGZ3RiSjJGOHNZRFJSdEtFYllWbFZka25BLUVRSkFrb3Q3el93SWl0WWJ5R1JkNzNSUjR1YmxwcDRjcFZXLXZESk1KSUEwLXNYYXBfU2syYWFvd2xVS3dKanAzN0VHcUtDWkFuR3lCRVM5V01LWkM1dTdhUl9xbl9iTmtGTXA1MEZFQ3hKQzJLRnIwZnRiSFJUYWt4bHpz?oc=5",
-      "source": "AFR",
-      "date": "2026-08-23",
-      "summary": "To win from the AI revolution, Canberra must protect Australian copyright &nbsp;&nbsp; AFR",
-      "categories": [
-        "current"
-      ],
-      "geography": [
-        "ACT"
-      ],
-      "horizon": "now",
-      "id": "gn-to-win-from-the-ai-revolution-canberra-must-protect-australian-copyright-afr"
-    },
-    {
-      "title": "Australia’s power grid isn’t ready for AI boom - The Australian",
-      "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxOVXJyZmN1dnZCcjlXb056VDROZEZIdkdIYnduUU5ESlBaQnVIS2VyYmNOTkg5UkxqYlRzd0NFMnJqNm00c3I4cThRbGU5SkJqSW9jemx4WlE1UUVST1FCMzNoblNQenl1MGNRaE5UWC1EUXFvTTlVQm92MXhFVnJsS0hNNkFlelM4OFowakswOGF4RjBfVEQyRGhsMDUwTzd5eEpkZklIUC1xTS1MVTVQcHM3UTJmb1lSZDA4dUNUejFEcHVkZTBuRUpmQ1UxMlRjUGZ6eHZhcU0temd3VlZ5THp0blEzNUp5YjNEUW96bGRlNHFrZ19B0gH8AUFVX3lxTE9saHR0MWpXYlZhOXd6bHNrSnVFZ2ZwLVJNU1hSSEdIOUJySm5VNzVEU1NMNXlHdjRQMzRtWHJfZ1pEbklyZzNjR0pmNVhELWg0NVd0al9lS2dYX3RjT1poYmdBT3hQVkxic3RONHdoZi1JRVgxd1IyY0RYTTlVSWkxNFpQOVZVd0RzSXQ3VzhGbVJVREVqeXo3dUhGTTFqZTIzdXRTdWQwZ3RCOWdKdDBkWS0zQ19fSU9kajFoUGxlbGE2bkM2WGRsUHF5X2dZcExEZFh6NnMyV0xkTmU2dG9ETWRNeWVzWGhWOUJKdmtJd012aU5Cb2ZRQkd1dg?oc=5",
-      "source": "The Australian",
-      "date": "2026-08-23",
-      "summary": "Australia’s power grid isn’t ready for AI boom &nbsp;&nbsp; The Australian",
-      "categories": [
-        "current"
-      ],
-      "geography": [
-        "National"
-      ],
-      "horizon": "now",
-      "id": "gn-australia-s-power-grid-isn-t-ready-for-ai-boom-the-australian"
-    },
-    {
-      "title": "Why SA businesses should prepare now for the AI Royal Commission - InDaily South Australia",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOdGV4ZG1HaEUzNjVhcUItWUI3ZG4tQkdPcU9lOVotcDZyZ0dVTWtINHo5ZHdfZ21iVXJTeUNxTHgwQmZhNUk2a0ZkQjdKMS14QU1QMFM0b2N2YzB4eThfcHBKSENXZ1F5QWY2cjRwdzMyTjZoRXkwQkJXc3V4Ty1fR1lCTmdwRkNZRlAyZWNudHJWbmtxN1g0aV9ZZV84ZmdvSnhNQk03bHpQR0t0SVJjOVJaeU1BUEhT?oc=5",
-      "source": "InDaily South Australia",
-      "date": "2026-08-23",
-      "summary": "Why SA businesses should prepare now for the AI Royal Commission &nbsp;&nbsp; InDaily South Australia",
-      "categories": [
-        "current"
-      ],
-      "geography": [
-        "SA"
-      ],
-      "horizon": "now",
-      "id": "gn-why-sa-businesses-should-prepare-now-for-the-ai-royal-commission-indaily-south-a"
     },
     {
       "id": "seed-nsw-pipeline",
