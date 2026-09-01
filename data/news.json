@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-01T10:36:01+00:00",
+  "updated": "2026-09-01T15:37:47+00:00",
   "items": [
     {
       "title": "3 Australian AI Stocks With Up To 52% Earnings Growth - simplywall.st",
@@ -391,6 +391,126 @@
       ],
       "horizon": "now",
       "id": "gn-data-centre-boom-lifts-australian-non-residential-approvals-cfotech-australia"
+    },
+    {
+      "title": "Treasury warns Australia risks missing out on global AI boom - Region Canberra",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNRy1obmhucXEyampBQU56bEIySDJrcGRUelMwWWxtaVNnUlJNR0hBN2dnOGN0aEc5b3RMVEtXVXJhOEQ0QW5oZkExdldDYVVra0NDcmt1bS04b1RFT19ERm9lWXN4VjdXODVXdkxmMG5vaWtCZXczM05JOXpKcTM1Z2Raa0Y1cGRlQVBZcVYxRHdZSlpn?oc=5",
+      "source": "Region Canberra",
+      "date": "2026-09-01",
+      "summary": "Treasury warns Australia risks missing out on global AI boom &nbsp;&nbsp; Region Canberra",
+      "categories": [
+        "current"
+      ],
+      "geography": [
+        "ACT"
+      ],
+      "horizon": "now",
+      "id": "gn-treasury-warns-australia-risks-missing-out-on-global-ai-boom-region-canberra"
+    },
+    {
+      "title": "Australian firms adopt AI faster than governance rules - IT Brief Australia",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOU011QmhObkFlS2hCQy1UaXVCeks4MFNZRGRUWDR3Q1VhSzRNVVJMMmdpaldCenNab1ZFRE1BLUwyVk1IT3drcnE3bVNEZzYwYWdUcjk3Ynk5TGZfYzc0bkZBcThlZ1B6MVhpQlJDRnoxc3BEMkZVOUFLN0VHNmxmWHhOZllkV3R5U0tv?oc=5",
+      "source": "IT Brief Australia",
+      "date": "2026-09-01",
+      "summary": "Australian firms adopt AI faster than governance rules &nbsp;&nbsp; IT Brief Australia",
+      "categories": [
+        "current"
+      ],
+      "geography": [
+        "National"
+      ],
+      "horizon": "now",
+      "id": "gn-australian-firms-adopt-ai-faster-than-governance-rules-it-brief-australia"
+    },
+    {
+      "title": "Why Australia is defining AI leadership now: Chief AI Officer Summit - The Mandarin",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNT2REd3BLc1drclVHQlpGamJUc3R2ZkpLallXeUIteUhZa1JsODZPcGlobk4ycl9OT1ZtWENyUDZFdWVJN1F6UTgwZm1qdDNtM2E2MGViMkZ2X1hqT0d4UmVPc0lHZFJEaEw2UUtEdm5GMFdpX0ZkVXZsWmp1LWp4Sk9pUWZCTzhldGdsRS1NSllHNmZjNTdWb3dvb0cwUG50c0JYWXVwWmN5UQ?oc=5",
+      "source": "The Mandarin",
+      "date": "2026-09-01",
+      "summary": "Why Australia is defining AI leadership now: Chief AI Officer Summit &nbsp;&nbsp; The Mandarin",
+      "categories": [
+        "current"
+      ],
+      "geography": [
+        "National"
+      ],
+      "horizon": "now",
+      "id": "gn-why-australia-is-defining-ai-leadership-now-chief-ai-officer-summit-the-mandarin"
+    },
+    {
+      "title": "DTA announces spots open for SMEs at the 2026 AI Government Showcase - technologydecisions.com.au",
+      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNd21ZM0tnZThVMHEwZGVOYjUyamRTMGQ3LWdYVGFOSnZrcVVxZzl2WXVIRmV6ajBpM3V3b3ZoZ2dybUVEU1JKc2pocWFmVDFZbnF1bklhNTZYVjlSWW1YMHBSci1wZEh2OEdHcWZERDNXcFlfZWx6ckI1ZTd0Vzh4VkFMX19qV0pPdjFRZ0Zqb1JzTnZheXhvT29ZZXZINDZDUWRpTTg3VjN4d0RmRXRVY2dNZWd4NktDSmdDMWZXekQwMHhZdFUtRmIzZlM2RmtaSmdldFdFNEUxMWRtaW1jRVJVOVFuOXdDODc5cQ?oc=5",
+      "source": "technologydecisions.com.au",
+      "date": "2026-09-01",
+      "summary": "DTA announces spots open for SMEs at the 2026 AI Government Showcase &nbsp;&nbsp; technologydecisions.com.au",
+      "categories": [
+        "current"
+      ],
+      "geography": [
+        "National"
+      ],
+      "horizon": "future",
+      "id": "gn-dta-announces-spots-open-for-smes-at-the-2026-ai-government-showcase-technologyd"
+    },
+    {
+      "title": "Australia proposes privacy reforms addressing AI and smart-glasses risks - Digital Watch Observatory",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBkeTZRZ0VSNldCal9rWUcteTFsOV9pM3lieGZWNXlETVk2TnhHc18yaFBWekRRck50azM5YkVtY0JQclZKS3VhNFI3dDR5eHdSa1VoOUdIM090MXF0Z1pMRUdLSlhjLV80VjNKRw?oc=5",
+      "source": "Digital Watch Observatory",
+      "date": "2026-09-01",
+      "summary": "Australia proposes privacy reforms addressing AI and smart-glasses risks &nbsp;&nbsp; Digital Watch Observatory",
+      "categories": [
+        "current"
+      ],
+      "geography": [
+        "National"
+      ],
+      "horizon": "now",
+      "id": "gn-australia-proposes-privacy-reforms-addressing-ai-and-smart-glasses-risks-digital"
+    },
+    {
+      "title": "Man guilty over AI deepfake nude images of schoolgirls - Yahoo News Australia",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9mLTNfRXp3Tmozdk1Nc3pKR0xkcmVDR05hYnk0VGo4bVVLWS1SSkxRbjg5VzZMSHd1SDRydzUtZnh0U2ozLWpmODhVaVlQakNlUm5FZ2t1ODQyLVF6Q0U0WTVRdFEzbG04aXA2Z3FzN1lGbXE5cEN3?oc=5",
+      "source": "Yahoo News Australia",
+      "date": "2026-09-01",
+      "summary": "Man guilty over AI deepfake nude images of schoolgirls &nbsp;&nbsp; Yahoo News Australia",
+      "categories": [
+        "current"
+      ],
+      "geography": [
+        "National"
+      ],
+      "horizon": "now",
+      "id": "gn-man-guilty-over-ai-deepfake-nude-images-of-schoolgirls-yahoo-news-australia"
+    },
+    {
+      "title": "Big banks rally behind Australian AI - ia.acs.org.au",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNdm9XeEFfYllKM2tadDMySS1pTGJ2a1pDdHEwekJxUHpBZjlpTXZSNU5TdlB1VjZIdld3NUlZZWZHMFhhYlNld25HTVhRSXV2WDF5ODR1YmhPV2VLZlppajg5Yk1ndVA0SHBrc0RGemtpanNvUmp3S1lSYkZCSHVFMGdB?oc=5",
+      "source": "ia.acs.org.au",
+      "date": "2026-09-01",
+      "summary": "Big banks rally behind Australian AI &nbsp;&nbsp; ia.acs.org.au",
+      "categories": [
+        "investments"
+      ],
+      "geography": [
+        "National"
+      ],
+      "horizon": "now",
+      "id": "gn-big-banks-rally-behind-australian-ai-ia-acs-org-au"
+    },
+    {
+      "title": "‘Eyes wide open’: Aussie bosses embrace AI, but count the cost - theaustralian.com.au",
+      "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNNzJiTEpQNHZzSndPNnI2ZWQtTHg2bXF0LXJJV29EcURfaVRxVEs1a0dmNkp1bDByQmxCbjdfd2pwMkR6UlplVFY2Z3lmeVRFZVRMNzlYSlUyX1VseFlFSW1JdV82RW5XdE05Z1hTUnNBWDBCNEJad1dCS2tSWGk2X1RZcHJkcmtBbktlWEJMTFd5YTRPd3RxZnp3SGd5NXVfel9zQm91bmxiX1VpY3MxcEFHbWtGRmowUmFlQ01TbnUyMXI3dFBlazg1aHdHTF9oSzNWdEwyaG1RcFpCZmFIX1RRWVNWdWRsVVJXamthRnprNEVNRVo4OEQ4TdIBgAJBVV95cUxPcVoyRUpEXy1zY2huQWtOX3J2NjlCNDBROFlSeERtdzN3aGlqSEc5MjdzVVNGdHl2ZVBtRGVhaEpLTy1zZ0lyMHVQR1dFQmxSMlhtVkk2U0NPQ0xrVl82RndzRHhFUW5OcUx5ZWxsRmZGZHlHR0gySWZoNkpTcjRlY09yVV92ejBpRlJ1c3JBVGRlaXdXdjEyd05jNXF1NW5IdmhTMkFNdUhqcUhCQVhEZXUwdWFLdEsyU05lN1pzaGZKa2RiNEtGSkxiWnNubmJqTktvMGY2bk00MG5sRmJuV3RJckFjcWo3N0RKVU81dnNTV1hqSWhnbGRfejdRa3ZJ?oc=5",
+      "source": "theaustralian.com.au",
+      "date": "2026-09-01",
+      "summary": "‘Eyes wide open’: Aussie bosses embrace AI, but count the cost &nbsp;&nbsp; theaustralian.com.au",
+      "categories": [
+        "investments"
+      ],
+      "geography": [
+        "National"
+      ],
+      "horizon": "now",
+      "id": "gn-eyes-wide-open-aussie-bosses-embrace-ai-but-count-the-cost-theaustralian-com-au"
     },
     {
       "title": "Aidan Tudehope to champion sovereign AI in Australia - IT Brief Australia",
@@ -1189,6 +1309,96 @@
       "id": "gn-kyabram-free-press-kyabram-free-press"
     },
     {
+      "title": "Chalmers’ AI hopes dashed by Treasury advice - theaustralian.com.au",
+      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQY1Y4S0NkY1NwenU1WFBTcEhMWDhjekVIU0psSDlqRVk0VldwMUVCSUg1bUowVnR0UWFnTkdSdzhORjdPOWRBVnJEOVh3WmVsc0c1MHdmOVZTNnBkUnh2OTVJT3BNYURxWDQ0NTg3cUcxa3daVFI2Ymw5MXFEeWhnMUlvSzNya2NRbGtXUjZENzFYcDNLUnNfT256NzlnODBBX3hqZGd0dDdIWFdJSE5TR2hvb0dZcThTb2FSdDBFU3VFMEhDV0lvQmw1cmNSWXc2YUE4Tnl3MFNBS0NzM3JmUHRKVGR1YzFadGlZWtIB8gFBVV95cUxNQ2xXMVE4Vl9sM3RkeGNzR0VlazE1RWt2LU9aWHB3azU0aE5iVjZLWHRZMmt2Zk42VnpmS1liMkViNzNoSTljNms1djRJWkFmMWdhMVNDME1BbVctd25HdDN2YlFqNHh3V1dESmNKQTJzZWRvX085WWdkMFhpNE81UEh0RGtaLVRSaDNPYkZHdXI1Z2R4Q0VFNkk4TlpneDJFMnFQMEt5VnljS3k0QUl6TzNVdFUxS293YmozXzNQLXZ0c1pRWGs0R2VTUEVlLUtDdlpsa2gydjE2cFdvMEVwaWxxM19XMWstREozQ0xHdW82UQ?oc=5",
+      "source": "theaustralian.com.au",
+      "date": "2026-08-31",
+      "summary": "Chalmers’ AI hopes dashed by Treasury advice &nbsp;&nbsp; theaustralian.com.au",
+      "categories": [
+        "current"
+      ],
+      "geography": [
+        "National"
+      ],
+      "horizon": "now",
+      "id": "gn-chalmers-ai-hopes-dashed-by-treasury-advice-theaustralian-com-au"
+    },
+    {
+      "title": "'Big lesson' 60 years ago on how technology could change workplaces - abc.net.au",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOTkpQb1ZoSXpGaXc1Q0hLakQ1azZiNG9Vb0xuX1FHOVJOTW5ncXpWSUwzYVJRTmo0TWQ5ZWFUUEt2MlZocDZhMEI1MWU4R2kwazFZMXBtMGVNUXdlYjJNcWg2YU9RLUtOSWZERzhPbEdPUEs2NFIzLUxHSHRfdFphaQ?oc=5",
+      "source": "abc.net.au",
+      "date": "2026-08-31",
+      "summary": "'Big lesson' 60 years ago on how technology could change workplaces &nbsp;&nbsp; abc.net.au",
+      "categories": [
+        "current"
+      ],
+      "geography": [
+        "National"
+      ],
+      "horizon": "now",
+      "id": "gn-big-lesson-60-years-ago-on-how-technology-could-change-workplaces-abc-net-au"
+    },
+    {
+      "title": "Childhood friends from regional NSW hit the AI big league - afr.com",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOOUUxWG50U3hIbGlPNUN1Q3ljVWRpMG5KbjlDTl9DSlhSYy1rS0FuUXJmVElNSlRJS0JMMloyRFo0a294M1p0SnUyLUg5WVk0WFhoaFFxbjhTbXMyTmo1dkF3TXA3cnN3UWxYZHZzdU5GTEVvM3JTNG5SdWtlQlJ0X28wcndXQTRXVVMzNnI0dko2UkM1N3BqdzZGWHdyN2tsWXBRU2pnX2NSSnQ4NlRSVFlpVVhOb0RK?oc=5",
+      "source": "afr.com",
+      "date": "2026-08-31",
+      "summary": "Childhood friends from regional NSW hit the AI big league &nbsp;&nbsp; afr.com",
+      "categories": [
+        "current"
+      ],
+      "geography": [
+        "NSW"
+      ],
+      "horizon": "now",
+      "id": "gn-childhood-friends-from-regional-nsw-hit-the-ai-big-league-afr-com"
+    },
+    {
+      "title": "Sinch partners Coderra on AI messaging for Australia - telconews.com.au",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPdjB6QWNGVVZxb2hSbzlndzRzNFNzcUtWdEdvazM2dFFiSk1JdTU2U3piOG1TaFhsT0t1VlU1X0kzckRtNXhrc1lBZFRYZHN3ZnFxQWdhLURwS2NPRTNpN2J2Rmc2dG1qOXlDS2gzcVNEVDlXU245SFRCemxmbTJVNGNQbllLU0phaUFN?oc=5",
+      "source": "telconews.com.au",
+      "date": "2026-08-31",
+      "summary": "Sinch partners Coderra on AI messaging for Australia &nbsp;&nbsp; telconews.com.au",
+      "categories": [
+        "current"
+      ],
+      "geography": [
+        "National"
+      ],
+      "horizon": "now",
+      "id": "gn-sinch-partners-coderra-on-ai-messaging-for-australia-telconews-com-au"
+    },
+    {
+      "title": "10,000 Qld doctors adopt AI note-taking tool - theaustralian.com.au",
+      "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxON0lGdlZaNkNrQTJKMG5MYkNXT2ZYY3pWQjZTSDNMQW05V2FkQ1Z2MktWU0d6Qzgza0d3OUdXdWFfc0hmSjFLa1FLbVFuX3lBRVlYTUtpRmpxcGV1UUpuWEw3dVhHTExnaWFHOVBmbjQxUVZkVW1CRldqWkRaSE1takI4TllnSkpQVU1mcHg0eHlwdUEtbmIyY21aRFp0WXV4d2NYeHVWa0tXTW1Hd09JTWQ1d2Q4YXVjM3B1cFVMa2Q2dERSWVRCMnU4R283aUdGOHIzMHpUbldDNi16a3V4bWR2SGRsQTBXUlZ0dFRrRUhhWEk2T2ZWby1TVTFhUDBWT2tXV2ZNSkxKendWSVdsQTl30gGXAkFVX3lxTFBJcXhrb01IWTZJVTgxbk01V3dBSy1iMzlMREFubjBra3M4SEpDWmo3MHlCRnNMVHc1Y1lRLUdCaHVCTGlreEVDV0ZBU3dfc1dJM0Z1QzdkMWh1SDFCZGxzeW9SeURBMU5uU2hVdkhOcHd3bWRvdExWWW5iaEZCanNjaE5mNXV1WGZPSno4VXZRXy1kX2YyZUFiYW9rWHRSdDlMcjIzajBqMGVTdl9MSEViX1UwczNsUXJTYlZhVUp1UGRTcVlkMHFPREdlNTZTNUpCODhVX0pjVHJqaFBseXIyNHBHd1BXd0xONWJvdGdiUHloMkItZVBLSnR6TGF3SWFCWjBDQU9yQ0dWSkNqWXp4cXkteE1NUQ?oc=5",
+      "source": "theaustralian.com.au",
+      "date": "2026-08-31",
+      "summary": "10,000 Qld doctors adopt AI note-taking tool &nbsp;&nbsp; theaustralian.com.au",
+      "categories": [
+        "current"
+      ],
+      "geography": [
+        "National"
+      ],
+      "horizon": "now",
+      "id": "gn-10-000-qld-doctors-adopt-ai-note-taking-tool-theaustralian-com-au"
+    },
+    {
+      "title": "The Matter of Facts: Should we regulate AI? - abc.net.au",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQZnBDVXlQc1pKa2lWSGx3UXBJOXhNZmZMMkMzN0xUQnlNRHRhZUZMM292aG94cXBaX1ZQRFU3LWZGTDFDbi03OW5QWUlDYzQzQW1tNnplZEowQlc3YllEbm9jNkJ6Q0ZYajRVbmZiZmJWTThOd3FyQmk0Z1llQW9XQTFBNjR0OEx2a3VXaw?oc=5",
+      "source": "abc.net.au",
+      "date": "2026-08-31",
+      "summary": "The Matter of Facts: Should we regulate AI? &nbsp;&nbsp; abc.net.au",
+      "categories": [
+        "policy"
+      ],
+      "geography": [
+        "National"
+      ],
+      "horizon": "now",
+      "id": "gn-the-matter-of-facts-should-we-regulate-ai-abc-net-au"
+    },
+    {
       "title": "OpenAI poaches Meta exec as AI fight reaches Australia - The West Australian",
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPdU1JR3ZZaWVmZnAwN241eGxiYzlXOVBSLWJsVkFyTnRtb1NqYkF3cExrcGF3Vk9ldmNmVVIwMVVpTk52YXdwTWJldzlKSV9tUnVVMERIOTZTVDdQWEVGMGVEY2M4c1dTOVVRaEtPQWtCSkZJQ2poWlNLTU9NRFBzeklZRlNtWHFkUzZCNEtITHIwTVJYWUE5V05ocEhrdw?oc=5",
       "source": "The West Australian",
@@ -1489,6 +1699,66 @@
       "id": "gn-as-rising-inequality-demands-reform-business-is-circling-the-wagons-abc-news-hea"
     },
     {
+      "title": "'Almost dystopian': Should AI be used to write work emails? - abc.net.au",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOdko1SlBTWlpuaTN3enBJdURBcVFoRTdqZURjTnFUdHJ6ZFlwcEV1bWlfNUtMSDBjb1NrUXRJSEprTWE0WnBRNWFiOEsyV0hkZXZ2aGVWSUJJY2lmUjFUZTZrVXJOWVhJbTFiakt5dFVMZkhabGc1b3h0UWdHd2dzanZSMk5rTmZUUGRaa0hnTEdOUzNnejNZQXh2LVp4V0tkM2twTkZ4dlFGc0lMNVZkSQ?oc=5",
+      "source": "abc.net.au",
+      "date": "2026-08-30",
+      "summary": "'Almost dystopian': Should AI be used to write work emails? &nbsp;&nbsp; abc.net.au",
+      "categories": [
+        "current"
+      ],
+      "geography": [
+        "National"
+      ],
+      "horizon": "now",
+      "id": "gn-almost-dystopian-should-ai-be-used-to-write-work-emails-abc-net-au"
+    },
+    {
+      "title": "OpenAI poaches Meta exec as AI fight reaches Australia - thewest.com.au",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPdU1JR3ZZaWVmZnAwN241eGxiYzlXOVBSLWJsVkFyTnRtb1NqYkF3cExrcGF3Vk9ldmNmVVIwMVVpTk52YXdwTWJldzlKSV9tUnVVMERIOTZTVDdQWEVGMGVEY2M4c1dTOVVRaEtPQWtCSkZJQ2poWlNLTU9NRFBzeklZRlNtWHFkUzZCNEtITHIwTVJYWUE5V05ocEhrdw?oc=5",
+      "source": "thewest.com.au",
+      "date": "2026-08-30",
+      "summary": "OpenAI poaches Meta exec as AI fight reaches Australia &nbsp;&nbsp; thewest.com.au",
+      "categories": [
+        "current"
+      ],
+      "geography": [
+        "National"
+      ],
+      "horizon": "now",
+      "id": "gn-openai-poaches-meta-exec-as-ai-fight-reaches-australia-thewest-com-au"
+    },
+    {
+      "title": "How AI is changing the fan experience - theaustralian.com.au",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQTzhDNjU1QTVMcFdxbHlGR2hjZjN4QU5KMHF4NzlZNzZOLUh6QmI2YUZGNlU5NGlwU0psTVZwVkJoZlVvY244TVg1WjNtX2liejVmX1lSMk5HWVV3ZnNrQmMwdmVNRDd3WlRBTDVmUjJoYlRIeW5taFZkLTViY0ZlNGozejRCWThGYUVyTm4zOHBfY2VmY3BxcW5RR0NlWXZxdXNycHBWVm1uM3FZOW1ncGtabGRqeFBKWE4xTzBjdGt1Z090UjduV0xvS3ZQdkh6d0U2Wjd30gHbAUFVX3lxTE9TRDZ4QXN3Y3Z3cG1FVEs0QWV1MWlHcUhaLXBJMGpGQjJSUzQxTzd4WmlJbXp3aDFEVnNfbmZMYS15OWpQVG5HTDc1R2hhS3IwTHRwRGZGNlc5bHBwVEgwMWhaUWExVnRjdEl3UkR0T3dLNWhkSVRkeEdfbktoQzBNcWdEaGtienotLVNJRGh1VHlaZWhSVnIxQ2tBdVc4LVBZZ3N1MW0xT2dlY3NpUVBFbmpXdzRvZ2J2N3l3TW5Nc3h4V3lEZ2MwLVlJU1BZeWhIRERsUVYwSW5qZw?oc=5",
+      "source": "theaustralian.com.au",
+      "date": "2026-08-30",
+      "summary": "How AI is changing the fan experience &nbsp;&nbsp; theaustralian.com.au",
+      "categories": [
+        "current"
+      ],
+      "geography": [
+        "National"
+      ],
+      "horizon": "now",
+      "id": "gn-how-ai-is-changing-the-fan-experience-theaustralian-com-au"
+    },
+    {
+      "title": "As rising inequality demands reform, business is 'circling the wagons' - abc.net.au",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQcDZGSngwam1EVUF2R0dIX1JHZFhzanh0YS1INGFvUTRuSUw2aFN5NjN1M245QTN0Y1RTOXZJaThTVF83UEhyTEZiM0Fld2Z3ZzJZR290VmlmdG50a09GcUdUTVM0VG80WU8wR3lLWFoxMjljc241UzlaOFZPX1g3SU5tWkloNDZCajZSc2Q5V0dDaC1OcXBF?oc=5",
+      "source": "abc.net.au",
+      "date": "2026-08-30",
+      "summary": "As rising inequality demands reform, business is 'circling the wagons' &nbsp;&nbsp; abc.net.au",
+      "categories": [
+        "current"
+      ],
+      "geography": [
+        "National"
+      ],
+      "horizon": "now",
+      "id": "gn-as-rising-inequality-demands-reform-business-is-circling-the-wagons-abc-net-au"
+    },
+    {
       "title": "South Korea’s digital shipyards could keep Australia’s navy afloat - East Asia Forum",
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOeTNwc0lkMXpWQlVsdlpjNEVhWV80Wk9XcDQyTnhoR0JSWHQwaThPRlk2M0pkMFpyb1ZMNE53VXlOaWF5eFBHX01QTEkzNEo2VlhzbGVfcDNuUXFrRDQzVU9aS0JZVlZQaV9Rcjdnb3dHaVBDbjNHd1dLLWs3bTZhX29Cb1hiN0FwNHhwMmtKazUzQWF4UW02SnlqU1RXUWUwYW1WVg?oc=5",
       "source": "East Asia Forum",
@@ -1593,6 +1863,21 @@
       ],
       "horizon": "now",
       "id": "gn-australia-mandates-data-centre-power-rules-7x-demand-rise-2026-tech-insider-org"
+    },
+    {
+      "title": "Residents prepare to fight AI data centre approval - abc.net.au",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPNHVTOTR2Mm5JOFQ5c3BsNmJWWDNnWXFrMVJjMzZEV2VvdVJUTmNuN1RBQ19oVVMxUHFJWmtGQ2JxejBteXBDM0RfTkQ3U1hSM3dSRkVjcTVIaW9kN0pzbUxDYTRUOFZZcUdva3FXUlBsQkttc0tSUDdBUlNiU0hJSXA0ZnRmSF9EOS1wZ01VbHpCU3J5d09NZ0o4WUZkZjYwM1pqaw?oc=5",
+      "source": "abc.net.au",
+      "date": "2026-08-29",
+      "summary": "Residents prepare to fight AI data centre approval &nbsp;&nbsp; abc.net.au",
+      "categories": [
+        "buildouts"
+      ],
+      "geography": [
+        "National"
+      ],
+      "horizon": "now",
+      "id": "gn-residents-prepare-to-fight-ai-data-centre-approval-abc-net-au"
     },
     {
       "title": "Responsible ESG AI enablement could become Australia's next great export if we start now - iTWire",
@@ -2830,6 +3115,36 @@
       "id": "gn-australian-ai-training-gap-becomes-cost-productivity-burden-itbrief-com-au"
     },
     {
+      "title": "PM gives ground on data centre renewable energy plan - ia.acs.org.au",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNZENLT0dCUGdpcXlhRGdPZDZDOUZqSUEta0dvZWpKc0R1WExaNTlNS0N3Um42UjdOLVdVNXJUNHlpUVRMTnFVR01oakhEYUlrZV9PNTA5dkxuTUg3ckQzaHhvS1JqT21tMV83a01EUjVZMThLTW81Q2VOd01Md011UFZIcy01UjlvTTFTSXdvbnZOMHZlNmFV?oc=5",
+      "source": "ia.acs.org.au",
+      "date": "2026-08-27",
+      "summary": "PM gives ground on data centre renewable energy plan &nbsp;&nbsp; ia.acs.org.au",
+      "categories": [
+        "buildouts"
+      ],
+      "geography": [
+        "National"
+      ],
+      "horizon": "now",
+      "id": "gn-pm-gives-ground-on-data-centre-renewable-energy-plan-ia-acs-org-au"
+    },
+    {
+      "title": "Plans to cool AI data centre using trucked-in water and rainwater - abc.net.au",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNazVZTl84SjRaLUhWR2lRdlItdXpmeE1vc0s5UkQxZ0ZtRElHYlNWUUExc2g1RnVtSjAtS1MwSjd1c094Uy00bEZUNGEyVk1jOHF0MFFHc0RxV2Z3dk1sc19URUdsMjdnZXZyMjNtUlkxNWQ5UjBDQ1p1ZHhHQ0lfNVdhX0tuOVdyMUFmbHYtT21wVkM1SXluRXNzZnc3am9Ham1tWkYyOHZrdXY0X3c?oc=5",
+      "source": "abc.net.au",
+      "date": "2026-08-27",
+      "summary": "Plans to cool AI data centre using trucked-in water and rainwater &nbsp;&nbsp; abc.net.au",
+      "categories": [
+        "buildouts"
+      ],
+      "geography": [
+        "National"
+      ],
+      "horizon": "future",
+      "id": "gn-plans-to-cool-ai-data-centre-using-trucked-in-water-and-rainwater-abc-net-au"
+    },
+    {
       "title": "Australia bans music made entirely by artificial intelligence from charts, awards show - KXAN Austin",
       "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1ZbzBBWENGNkx4SnR2dFAwdUZuSG1FU1RiQWZvNzRfcU1oRG5xbUdGbDA2b05xM1h2WHFVcHBBbld4a1JUeWxXbTBTVVBrTWhSTjZXTkVhNko0b1c3c2NCcEhyOGJmMl9WR2M3Und5UzBUQdIBd0FVX3lxTFBEQ2tFblVJdXE3Z0JFZk9yOVVaTWdEa1Y1UjV0a0Vnc2RkYmNYbV9RZWVnVlpabnFsVTVEUWpaUGZQbFFCZWdFN0otNlp4YmlRaFBGbXdGOWlhRHI2RGVqVjd2c2NRYkdnZ3lHblZCM2ZzRmdCem5j?oc=5",
       "source": "KXAN Austin",
@@ -3448,323 +3763,6 @@
       ],
       "horizon": "now",
       "id": "gn-3-ai-healthcare-stocks-retail-investors-are-watching-in-australia-simplywall-st"
-    },
-    {
-      "title": "Former Ford Falcon factory site’s future data centre objected by government agency - torquecafe.com",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1zaVY3bkkzYmhjcE1DaE5XcmF2b040QUcyc3J5a0xrXzFrM1pLbXFFc3pfUVprWHpMbTJNR2FqNDJ4TVdNaXNKdVVrT0ZoU1NVaE00ZklYaTRUeTMzeE5jU0hTSTh2Mm1NS2ZwV3dTb1RTUWt1S191S1hpbw?oc=5",
-      "source": "torquecafe.com",
-      "date": "2026-08-26",
-      "summary": "Former Ford Falcon factory site’s future data centre objected by government agency &nbsp;&nbsp; torquecafe.com",
-      "categories": [
-        "buildouts"
-      ],
-      "geography": [
-        "National"
-      ],
-      "horizon": "now",
-      "id": "gn-former-ford-falcon-factory-site-s-future-data-centre-objected-by-government-agen"
-    },
-    {
-      "title": "Hyundai to launch 100 models by 2030 amid company-wide AI transition - CarExpert",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNRE1uTUEwSlZYYUFnNGs2MFJIbmpxOExUOHNja3cxY1ZQelVuZlU0U2N0SU5KUlgzbGtoRmVDWFZzRTl5Z05Ua0JPQmk0a1BzTUdBMk1DMUZjeUhLdzd1SHJ0R0F3QmNZcDl1Tk1MTDY3Qno5VmY4VFdyV0haYUwyRkhxQ1RvcFZXMHNVYlIxWTlyekF4N25yMm1HUDRPSE5DbFdyUmFKcXdkZw?oc=5",
-      "source": "CarExpert",
-      "date": "2026-08-26",
-      "summary": "Hyundai to launch 100 models by 2030 amid company-wide AI transition &nbsp;&nbsp; CarExpert",
-      "categories": [
-        "current"
-      ],
-      "geography": [
-        "National"
-      ],
-      "horizon": "future",
-      "id": "gn-hyundai-to-launch-100-models-by-2030-amid-company-wide-ai-transition-carexpert"
-    },
-    {
-      "title": "Young Aussies reach for AI research as advice remains inaccessible - ifa.com.au",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQSENvcHgwU3Rpc19ibHV6N09RVjM2enV4T0Z0V0pxU0E0b3BaTVpobXV5N1BUNFZaeTNac0cxQXc0QWpZQWRPeTY5cE1OcnpveDdQR2N6TjhvY3FockFxd0RiTzdoRjRPV21hbnhvZVpYU3hIMW5kRUJPTm5Ta3hfem5Tb3IwLVRkYXk5Vnhmd0hsVlk5?oc=5",
-      "source": "ifa.com.au",
-      "date": "2026-08-25",
-      "summary": "Young Aussies reach for AI research as advice remains inaccessible &nbsp;&nbsp; ifa.com.au",
-      "categories": [
-        "current"
-      ],
-      "geography": [
-        "National"
-      ],
-      "horizon": "now",
-      "id": "gn-young-aussies-reach-for-ai-research-as-advice-remains-inaccessible-ifa-com-au"
-    },
-    {
-      "title": "Australia’s Data Centre Boom (the Counterview) - Livewire Markets",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPZnh4bjRXdHc4VDNqVlR0TkFhN0NJUFJUUC12SjFkY0xPRXR0NDYtYmxJbkR0ODBMd1NJaGZZc1RXRXVaYlE3TGgtbnQ3QlNsU0o3UUEzSEVvT05oQ1pJTUt0ZndVaFlaUWp1WDlKdk9vV3hNejV3cHF4VTVfX3cycjNwMDdOWFhpb1E?oc=5",
-      "source": "Livewire Markets",
-      "date": "2026-08-25",
-      "summary": "Australia’s Data Centre Boom (the Counterview) &nbsp;&nbsp; Livewire Markets",
-      "categories": [
-        "buildouts",
-        "markets"
-      ],
-      "geography": [
-        "National"
-      ],
-      "horizon": "now",
-      "id": "gn-australia-s-data-centre-boom-the-counterview-livewire-markets"
-    },
-    {
-      "title": "Songs created by AI banned from Australia's music charts - BBC",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFByV3JHa0VibHZPa3RUdTZPRVFBdDlwZE53Sm5nUmpyXzRENTh0ejJmbDZZTDF0LTBlYUZFZE9jdllPYXB4TDhUbW9hWFdjUHhTeklzN1EzYk85QQ?oc=5",
-      "source": "BBC",
-      "date": "2026-08-25",
-      "summary": "Songs created by AI banned from Australia's music charts &nbsp;&nbsp; BBC",
-      "categories": [
-        "current"
-      ],
-      "geography": [
-        "National"
-      ],
-      "horizon": "now",
-      "id": "gn-songs-created-by-ai-banned-from-australia-s-music-charts-bbc"
-    },
-    {
-      "title": "Australia’s top music charts ban AI songs - News.com.au",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPRWNCZk5SSkdUVnZPbFlpYWNHNFp3aHF0X0ZQaUNKS1JkMk1JLUNHVG9YTHpDMElzdlY5NHE4N1FiVDhSMTNJM1RuQTEzdWY3VmtHemNXVzJQNDVpYm9QM3BZTGU0c0FGS3llRUNsUkdQTjVJSG02aDQ1NERaU21wZXNrOUpCX19GeTEtWV9ObTlOaGotaExvV3BwaG1yN3BkcVhYdE15ZXNoQzJNblJsVGN4LXo5Wm9GTUpKMXo0WdIBxAFBVV95cUxNalpKRTl1VWR3Qm5CQWFnWlNhR3JsYmE3UXJPenFSNjFmZk5KNXM5cmVrQTdCT05mYW9IeThITzJaYUdOWkRRVXR2WUNBN3hWeXFmTjJrUWFyZlhvOTZxbGJjSGI3WXpadnFQX3pzZGN4QnZDYm1vRUNrZWVMdGlwa0M3SXA3b0ZldGhsUXNCbmU3eHlrbGNfajBSTVZkS3dyVndWOXV6T1loX0ZOWENWREVMVTRzd09lSzNEOHBQb2RlQjR6?oc=5",
-      "source": "News.com.au",
-      "date": "2026-08-25",
-      "summary": "Australia’s top music charts ban AI songs &nbsp;&nbsp; News.com.au",
-      "categories": [
-        "current"
-      ],
-      "geography": [
-        "National"
-      ],
-      "horizon": "now",
-      "id": "gn-australia-s-top-music-charts-ban-ai-songs-news-com-au"
-    },
-    {
-      "title": "ARIA Bans Fully AI-Generated Music From Australian Charts - Rolling Stone Australia",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQYUhZSkJaeEpiNFlVRlFYU216WFE2OXpuQWhHbUE4RDBxWlRKRUtvb081SnpEWHotNGd0YjlqTG8ycGFoNGcxOHY1NndxYlZPN1hMMnE4Zk9Xd1ktSWYtX1JvaTNwOVB1Z2tzVC15aE5vWGpzbV9ONUNWY25kcGg2TDBlTUpWM3FnNjBVdkdJMWJzcEFyQmtvRUZ6VkNEUXhwYURmNkVuZzFuc3dIbWtN?oc=5",
-      "source": "Rolling Stone Australia",
-      "date": "2026-08-25",
-      "summary": "ARIA Bans Fully AI-Generated Music From Australian Charts &nbsp;&nbsp; Rolling Stone Australia",
-      "categories": [
-        "current"
-      ],
-      "geography": [
-        "National"
-      ],
-      "horizon": "now",
-      "id": "gn-aria-bans-fully-ai-generated-music-from-australian-charts-rolling-stone-australi"
-    },
-    {
-      "title": "AI fuels targeted scams against Australian small firms - SecurityBrief Australia",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNSElnRlNqalhpeHhQWXFXZ1NSTFZrUkpuSGFCWS1vNzh5LWZwWUVnU2hBS1dvM29qN2dBekJGYUlyQXAyYmVxY0NQVFUtRlBiRUhvTlJEaEk5MDdQWWE0TWppYkxET0ZsWWZQd1ZVS09zQS1nU1V3NGJ2OGY1NkNHcXVteUtsQmMxTXRHdkxYZG5yRVk?oc=5",
-      "source": "SecurityBrief Australia",
-      "date": "2026-08-25",
-      "summary": "AI fuels targeted scams against Australian small firms &nbsp;&nbsp; SecurityBrief Australia",
-      "categories": [
-        "current"
-      ],
-      "geography": [
-        "National"
-      ],
-      "horizon": "now",
-      "id": "gn-ai-fuels-targeted-scams-against-australian-small-firms-securitybrief-australia"
-    },
-    {
-      "title": "Australia’s schools take different paths to manage artificial intelligence - tanea.com.au",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOWnZzOUZLaHR5YWZ4RG51a1BEejlvSXA2ZnhtbHBWc0J0RzZfYjlGS2RhOHZFZGlVWC1MZVpSQXZxU1ljdmFZVnJhVzlKUjFkTXRzQjBFb3p0TnNOUDQ5S2lBakJ1c0pPMG1sZl92Ukk0NV9zRHpfWGZrMGQtMS1hQWxzSm00ek9LdG9oNXllUlRmQUk3U3dGZ2FkOHE5Z0U?oc=5",
-      "source": "tanea.com.au",
-      "date": "2026-08-25",
-      "summary": "Australia’s schools take different paths to manage artificial intelligence &nbsp;&nbsp; tanea.com.au",
-      "categories": [
-        "current"
-      ],
-      "geography": [
-        "National"
-      ],
-      "horizon": "now",
-      "id": "gn-australia-s-schools-take-different-paths-to-manage-artificial-intelligence-tanea"
-    },
-    {
-      "title": "'Get it out': ARIA to ban AI-generated music from Australian charts - SBS",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOZWZKUVZScXZwUVB1SFUxWUFHZnhMRE5CcGVzajcwbDZLbi1GMnd6aE9SMG1ZaVNycUNURl80U19wZEZTeVZGZGxLUFN1SERzcDFKNzZpNFZCSjQ4MldKNUJxRWN3T3daaGludUE3b2Q3TllXUUU4MkJ1MHc4VVFuT0k1b2FEdzNza2NkOVowVTJKWFF5VXVmQ0Vn?oc=5",
-      "source": "SBS",
-      "date": "2026-08-25",
-      "summary": "'Get it out': ARIA to ban AI-generated music from Australian charts &nbsp;&nbsp; SBS",
-      "categories": [
-        "current"
-      ],
-      "geography": [
-        "National"
-      ],
-      "horizon": "now",
-      "id": "gn-get-it-out-aria-to-ban-ai-generated-music-from-australian-charts-sbs"
-    },
-    {
-      "title": "AI jobs 'uncertainty' sees worker's injury payout rise - Information Age | ACS",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPV3EwZ3lSRERPLVRmdGhueGpwNHNwZVVLbmdFNkNRVWRnLWZfU0VWZU1KNVVNN1RSMmdyMkFvVkpiVk1MdlBaLUNPckFZV0hpckFiVHNlek5uaGlpSE82Wlk3dnI1MDI4Zmc4cWlQcExOdmFmRWZzMlhRRWwzSS1USUlaaXZvMERnTTJmc1JnTXBCbmxCaGgzOUFR?oc=5",
-      "source": "Information Age | ACS",
-      "date": "2026-08-25",
-      "summary": "AI jobs 'uncertainty' sees worker's injury payout rise &nbsp;&nbsp; Information Age | ACS",
-      "categories": [
-        "current"
-      ],
-      "geography": [
-        "National"
-      ],
-      "horizon": "now",
-      "id": "gn-ai-jobs-uncertainty-sees-worker-s-injury-payout-rise-information-age-acs"
-    },
-    {
-      "title": "Australia’s music charts ban AI-made songs amid backlash over Madonna cover - Al Jazeera",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNWXpORmNtTld2UWdhcXI0eDY0dFpaMXV5T1ZXakxiVy1MRDMwUlpjdGxOYnR5NzZ3NVFrN0hCVlBTTEo0cnBNWDRRaG44WU0yWkMyendHbHY2WDJ6RWF3eEZ2MDFzT19SYzhaSXp2eVFDazJSelpYc3h1TmNTOTY0Q2FnZzFRRm41YlR4YUd1RHVCSTNNNmpjZm9RUDBERTlBMzdMUFRJX3QzMWpnTUFNamg2M2FQX25hSkHSAb8BQVVfeXFMTjg2UDlaQkpjN29nbm5oOXQ3LVZQYkktdHFMSDVhZHJwV29lVTFJUnl3R3h4bEFsbUoxeGplZUZpSHRvcXpiVmx4NWZ3ZkVXbE9SZVhVRGtlNGxVa05pZVNfbkJkRmp5UzdIaVBQa0dhU1lfdFBROVZXSXR4dlBFTTFRSkZnVW9zMGwtZWp1VlpmbVR3SVNaUHNoX0ZEanU5SjhYVWtUZkx6eEd3MFdXOUJBaWZEeG1EOGhab0VvMDA?oc=5",
-      "source": "Al Jazeera",
-      "date": "2026-08-25",
-      "summary": "Australia’s music charts ban AI-made songs amid backlash over Madonna cover &nbsp;&nbsp; Al Jazeera",
-      "categories": [
-        "current"
-      ],
-      "geography": [
-        "National"
-      ],
-      "horizon": "now",
-      "id": "gn-australia-s-music-charts-ban-ai-made-songs-amid-backlash-over-madonna-cover-al-j"
-    },
-    {
-      "title": "SCX.ai’s opportunity across the AI value chain - ARNnet",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQU0NKbTdKemdFRnhqOVNkWmJNUV82eUk3QUJWV2F1M2lla2c1eDdNdlo2blg5ZVlTQVVUSW5pcU54U2FZYjVFb2owcEtJd0FVaXFtb01zT1Fuc0I4MkVHbUFBTDNNYkstTjdyY1ZmQTZ0OE1pNFRTV3kydUtWdkcxQTI5RVNtT1NOX0FJUmFJUVNMMmVHVm1Z?oc=5",
-      "source": "ARNnet",
-      "date": "2026-08-25",
-      "summary": "SCX.ai’s opportunity across the AI value chain &nbsp;&nbsp; ARNnet",
-      "categories": [
-        "current"
-      ],
-      "geography": [
-        "National"
-      ],
-      "horizon": "now",
-      "id": "gn-scx-ai-s-opportunity-across-the-ai-value-chain-arnnet"
-    },
-    {
-      "title": "Australia's music chart bars fully AI-generated music - dw.com",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPZXhrUU9UYmphVmx3WkNsQmNjR1Y2cndZX3J4ODBNSndTYzNHX2lKUE0wSVVRWWtnLTdNVnVoYlRQbjVnOUowWHl0NVJSVDBLeXp5S2hCdi15X3EyYjVhcGZYV1lyWnZUV3l3N0RhTDBlb2FNRnRMRGhNQ3VlUUw0MERoNjg2ZS1kaHE2d3Fn0gGOAUFVX3lxTE5UZ1J5TVpVUTVHbUNUTWhReDNVb0lUa2c0clg3RDB6ZUxsckVBWFN4bHJIYksxRGlOSHRfMFV3YTJFM3dxN1FQMTR3Sm1mN1lVVzFQTy1va05vQTYzZW9tWDIzUllJYkl2aGJONGR3NGx0WllTYXF1YWNROXJuWDk4ZDExTmVRMXZfS0VzeWc?oc=5",
-      "source": "dw.com",
-      "date": "2026-08-25",
-      "summary": "Australia's music chart bars fully AI-generated music &nbsp;&nbsp; dw.com",
-      "categories": [
-        "current"
-      ],
-      "geography": [
-        "National"
-      ],
-      "horizon": "now",
-      "id": "gn-australia-s-music-chart-bars-fully-ai-generated-music-dw-com"
-    },
-    {
-      "title": "Australia’s top music charts ban AI songs to protect human artists - South China Morning Post",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQZ3BnWVlkcWs2d2N2ekwtRy1WM2ZhejlUOXpaTHQ2SlNzMDFpVW42U09uRU9UWjdXaTRMVlFfZDNKTl9CdkRadFpiS21XSjVxV0JNRDRZeWVIa28tT2c2aXZvclhQbnMwSzUxdm5EbVpxU09udUE3QUp3S1NmbXRpRXhQLVpjUnk5ODdQemJ2RG9WdEI3Z1lsSkZUS2FBWXRhVS1yNXJ3NjBFT1ZDZXFqYjlKdGxtVzZXV1Rqbnh30gG-AUFVX3lxTE1ISm1fak9zTlFVUFdKdXFEeGRaMVJaOFFVaTI5N01GRkQwb1ZRWFZOdTBsdUE2RG9rTFQ4TDBMcEdmYUlsR1JJTFFiNzhndXhjY2o3Q2ZodWhWZnZVYy1MS0VobVkyOVdFRFpNeXEwemd5RUxZV2hac1dzWEtRWkNrVG96RnlCVjVaWHgtVVBqTlZFZ1lkU3NlLWh5MjhIMUtISHZ0QVQ2QUxTZ1BObGt3a3ZzOTBzNll3U3d4M0E?oc=5",
-      "source": "South China Morning Post",
-      "date": "2026-08-25",
-      "summary": "Australia’s top music charts ban AI songs to protect human artists &nbsp;&nbsp; South China Morning Post",
-      "categories": [
-        "current"
-      ],
-      "geography": [
-        "National"
-      ],
-      "horizon": "now",
-      "id": "gn-australia-s-top-music-charts-ban-ai-songs-to-protect-human-artists-south-china-m"
-    },
-    {
-      "title": "Chris Bowen declares nuclear to power data centres a ‘pipe dream’ ahead of National Cabinet clash over energy - The Nightly",
-      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPWElBcnJFQThhaUdOaXVuaFNLX0p4Y2pNcjVlVTBMNS1YNFVSdF9sbHI3Smh5eTVvV0h3S3MxQ01CZEZPbUxNbmRWWDFpXzA4UXhQLVNDT0NESVhteWhBdVZfaERQRV9vWVN4NVpqbEEwNE80TWRrOEZPSFJXemdiQUI2X0NxRHlPUGU5ZjFmaVN4cXFOanRDUUxHNkg2UGljZV9DX0VhdE1rOHo2bXZsWXl4dEJIWWVmZ2F1ZnE2Yms0ZXJTb182TGw1TEE4Q0pyRk5LVWV4eHoyTmhvaXRLVl9NWjZURmpr?oc=5",
-      "source": "The Nightly",
-      "date": "2026-08-25",
-      "summary": "Chris Bowen declares nuclear to power data centres a ‘pipe dream’ ahead of National Cabinet clash over energy &nbsp;&nbsp; The Nightly",
-      "categories": [
-        "buildouts"
-      ],
-      "geography": [
-        "National"
-      ],
-      "horizon": "now",
-      "id": "gn-chris-bowen-declares-nuclear-to-power-data-centres-a-pipe-dream-ahead-of-nationa"
-    },
-    {
-      "title": "Most Australian portfolios are on the wrong side of the AI trade - investordaily.com.au",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNcTdrcW4xc0t6LTNaRWVZdkxqajNyTnhWTEJRd25tT0w4S1FIUTBzUzNNZkFNaDRjbDZNa0VNR20xR0FRV1ZXbk5JenZRSzhEUFVwNUNuQS1uRm5CUmZsTFl1NlFyT1BSOHVhQWY4ZGJkb3ZXaGJqU1RKY2t3aFhaUF94ZTI5XzUwS01BaTVKbkZsaFpDWkNYZWhWYjFQWW8?oc=5",
-      "source": "investordaily.com.au",
-      "date": "2026-08-25",
-      "summary": "Most Australian portfolios are on the wrong side of the AI trade &nbsp;&nbsp; investordaily.com.au",
-      "categories": [
-        "investments"
-      ],
-      "geography": [
-        "National"
-      ],
-      "horizon": "now",
-      "id": "gn-most-australian-portfolios-are-on-the-wrong-side-of-the-ai-trade-investordaily-c"
-    },
-    {
-      "title": "Canva bet millions on data centre play Sharon AI before becoming its ‘major customer’ - Forbes Australia",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOS3E0V2JYRzRBaWQ5Yml6bTFZZlEzOVNJeE1NNHBtZTdnaEd5MDd1MWhFSkRIb2s0Y0t3b2tOMHdSejM4UlhmamJLUDk1THlBVnVINFJQcVFSQzFuUWhnUTBqUlBXSXRuM1hTTFdHWHpOblY5ZHF1YWVHRm5teE92TDdEVV9LbEJ4MWMtOEJOdGZXQjI3V0stMVRrR3l4TU1tZDVBcnAtM1Q0aFdwYmE1enctODFmdDlJSldwR2dYZUVkem81?oc=5",
-      "source": "Forbes Australia",
-      "date": "2026-08-25",
-      "summary": "Canva bet millions on data centre play Sharon AI before becoming its ‘major customer’ &nbsp;&nbsp; Forbes Australia",
-      "categories": [
-        "buildouts",
-        "investments"
-      ],
-      "geography": [
-        "National"
-      ],
-      "horizon": "now",
-      "id": "gn-canva-bet-millions-on-data-centre-play-sharon-ai-before-becoming-its-major-custo"
-    },
-    {
-      "title": "New event targets Australia’s data centre construction boom - Utility Magazine",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPX1VGRlR2YmR4VGVxRFc0QW9ta1A3UHZVdHJDUWxXWFJROFFjODFTNU1lZjFob1ZTWU5rNnlJVjMxaGozNkRLQ2ZmejdqRmF4WjREbTdjSnVDSmJaRURYTTkxSG00SUd4OHNIVmYyY3dEcTdveThkVWdTeEdmZWJEcEptZExPVW1LSjF2azl4Vkp1c0Zn?oc=5",
-      "source": "Utility Magazine",
-      "date": "2026-08-25",
-      "summary": "New event targets Australia’s data centre construction boom &nbsp;&nbsp; Utility Magazine",
-      "categories": [
-        "buildouts"
-      ],
-      "geography": [
-        "National"
-      ],
-      "horizon": "now",
-      "id": "gn-new-event-targets-australia-s-data-centre-construction-boom-utility-magazine"
-    },
-    {
-      "title": "Albanese tells Queensland to get with the program on AI revolution - SMH.com.au",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNcy1ZdXY2TXozS1B5OWJsNWw0bjZ1ZUVQcEFWUFFhOEUtczQ1MTJjeXFubG9WV1psaFc0MF9SWEUtbEdVS2swS19CaU56Y3ZLR3dqYTkwYlgwaWlUeW9DdjZvVjVPS3Izd0hpOG9RUE5rb3ZIbU5mS2dxVlBmNmtVSGxmbGtRS1ZjbVE0R0VMd2FZSnNsYzRTX05QbURZa29mSzdEa1NSZmZ6RFZ0cjVqdFFMUVZ4c0N0OEZHSjl6dzVGb0JCenc?oc=5",
-      "source": "SMH.com.au",
-      "date": "2026-08-25",
-      "summary": "Albanese tells Queensland to get with the program on AI revolution &nbsp;&nbsp; SMH.com.au",
-      "categories": [
-        "current"
-      ],
-      "geography": [
-        "QLD"
-      ],
-      "horizon": "now",
-      "id": "gn-albanese-tells-queensland-to-get-with-the-program-on-ai-revolution-smh-com-au"
-    },
-    {
-      "title": "Nuclear brawl erupts over powering Australia’s AI data boom - AFR",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPdUlGa3phT1ctUzBlUlI0a2Y5bWctbS16MVFfc3BvU0lLMi14cTRKSDlrbm42OUtIbndYeTRTQVFWSFJqaHh3cHdtVElQSkxrbFBoWnhVZFNoUGRKWTRfRE9jZktTUjV2QmN3dHFnbU16OEc3TmczaXpHTEJ5eEVmaTB0a0JKdlBVajZZdWhxRExVWHZvc3ZhaDZKZWRLVDRMS24zOWpCNmhkdHNicVRTcFJB?oc=5",
-      "source": "AFR",
-      "date": "2026-08-25",
-      "summary": "Nuclear brawl erupts over powering Australia’s AI data boom &nbsp;&nbsp; AFR",
-      "categories": [
-        "current"
-      ],
-      "geography": [
-        "National"
-      ],
-      "horizon": "now",
-      "id": "gn-nuclear-brawl-erupts-over-powering-australia-s-ai-data-boom-afr"
     },
     {
       "id": "seed-nsw-pipeline",
