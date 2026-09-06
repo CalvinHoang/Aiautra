@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-06T09:45:34+00:00",
+  "updated": "2026-09-06T14:28:32+00:00",
   "items": [
     {
       "title": "Alarming AI ads are flooding social media in the lead-up to Victoria’s election. But who is behind them? - The Guardian",
@@ -30,6 +30,36 @@
       ],
       "horizon": "now",
       "id": "gn-goodman-wins-approval-for-project-apollo-data-centre-in-sydney-mingtiandi"
+    },
+    {
+      "title": "GenAI policies and trends at Australian and New Zealand universities - Bioengineer.org",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQRVc4LWRycnpKbUhGMk9OM05tZkJsV0pydllqU2I4RVoxUDRnc1VNaWhzNVQyNk5JekxlQW1QaUliNTVCd243ZmpQdGNCRmpSY09EcmdxbXpRdURqbkhsQm90Y2drMUZLdlV6SFdOZ2ZZZXNYU0FOLVhzX0pkYmVmQjNhUGI5MUZHR1puVm5xdTZIT2RLZ2Nsaw?oc=5",
+      "source": "Bioengineer.org",
+      "date": "2026-09-06",
+      "summary": "GenAI policies and trends at Australian and New Zealand universities &nbsp;&nbsp; Bioengineer.org",
+      "categories": [
+        "current"
+      ],
+      "geography": [
+        "National"
+      ],
+      "horizon": "now",
+      "id": "gn-genai-policies-and-trends-at-australian-and-new-zealand-universities-bioengineer"
+    },
+    {
+      "title": "ALP mission to Silicon Valley returns with high hopes, no promises - The Australian",
+      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOcThTQXNWSEZWV3JKUkVwTERKU0hrekQ2LTZRdmk1UlhXbWZhaXNWaF9oSTFPV0MySnRZeURRcVhnd0JzQ00yVThPOXZKZGRvd1ItQ04tREE1dlROUHdPTHd0LUFJYVA3UGIxM3lMWVU4TUFUanZROHNJZFBuUGFEMDVqeFpiRkZLUzVwMzVIOHdwdVJTQVJlYjRYYTFTNGxFYWdCRHhYdU9RejNhRkpBZ1JXYzhYWWx6MVdmUFZ2WmpTQmt3YWZxQW5ScmZxeDh6X1A3c1lBUW1KUnI0SktGNXRhRl9mV0NZR3VYZGNZcXDSAfABQVVfeXFMTnE4U0FzVkhGVldySlJFcExESlNIa3pENi02UXZpNVJYV21mYWlzVmhfaEkxT1dDMkp0WXlEUXFYZ3dCc0NNMlU4Tzl2SmRkb3dSLUNOLURBNXZUTlB3T0x3dC1BSWFQN1BiMTN5TFlVOE1BVGp2UThzSWRQblBhRDA1anhaYkZGS1M1cDM1SDh3cHVSU0FSZWI0WGExUzRsRWFnQkR4WHVPUXozYUZKQWdSV2M4WFlsejFXZlBWdlpqU0Jrd2FmcUFuUnJmcXg4el9QN3NZQVFtSlJyNEpLRjV0YUZfZldDWUd1WGRjWXFw?oc=5",
+      "source": "The Australian",
+      "date": "2026-09-06",
+      "summary": "ALP mission to Silicon Valley returns with high hopes, no promises &nbsp;&nbsp; The Australian",
+      "categories": [
+        "investments"
+      ],
+      "geography": [
+        "National"
+      ],
+      "horizon": "now",
+      "id": "gn-alp-mission-to-silicon-valley-returns-with-high-hopes-no-promises-the-australian"
     },
     {
       "title": "Crisafulli’s US Mission: California agreement, critical minerals and AI investment - The Australia Today",
@@ -3735,36 +3765,6 @@
       ],
       "horizon": "now",
       "id": "gn-kyabram-free-press-kyfreepress-com-au"
-    },
-    {
-      "title": "Sydney’s backlash over new AI data centre hot spots - dailytelegraph.com.au",
-      "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxNeXBaeVpOajY1SDRqeXFIbkttZWZpWmozWE4tXzBrOVdwekZZd2xFcXljTlY5S2p3VndZYkdOZWhPVGpsLTY5cDRjSkpHMjNRcDJpZUpMbmx4eW9PYVdHdTc4WEQ5ek9meTR1WDJuc3hsXzVUendRdmtCMC1xVm9xcnpWeHVFRUVGcjl3a3E0SGdwc2hjSmlWMXE3MkFpTEFEWm15TkkwRlYybjUzMXlZQ3J6N1VOSUt4VXJ3cVJwdWJ2RHVpYTVKZFhMS0xGbXhPbjlpQ0stOGh6b1F6R2tZUzhyd3RTZlhLdTZUd3IxRDVGVVFxWVpPMGhQaTdEdzU5UHfSAYcCQVVfeXFMTW5CVVBYVUg3TXJqR3kzQ1NLWGd2LWdVLWx3eVowWUIzbmlSQ0VON2RCUEtVWWNCa0tTWlhucU14ZEZEakNneEJHeU96NksxZmpDWnJyNmktWFV5bUFUcUpMcjVWdXR6dEF1WElQU0dvLVQtXzVIcWxvVFAycktUX1p2V2NCTFJObmIxZVEtZHhhRE42REFsZW12dkpkMUdQRGhzdXBWQXJ6bFZ4dkU2VVZsRWwwa2hNeGlfZlhFX2NQcTRwZnFfU1lKOVBiclIyY2NOMlk0OXo1RDh6V0d1X0xzV1lOTnpPT2Q2T0pqUVVpT3VWNUdQUUo2Z2luSWxHRWhnQVpLYmc?oc=5",
-      "source": "dailytelegraph.com.au",
-      "date": "2026-08-31",
-      "summary": "Sydney’s backlash over new AI data centre hot spots &nbsp;&nbsp; dailytelegraph.com.au",
-      "categories": [
-        "buildouts"
-      ],
-      "geography": [
-        "NSW"
-      ],
-      "horizon": "now",
-      "id": "gn-sydney-s-backlash-over-new-ai-data-centre-hot-spots-dailytelegraph-com-au"
-    },
-    {
-      "title": "AI may be ‘biggest transformation in our lifetime’ - newsreel.com.au",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOb0tXajMtZDVBa2RMSTNKSC11OE9jd1oxT1hjcGl5QlcxRmZFMkUzS09fQWFtQXpDeElaclJSZHoxQU1fUEJlWHRwSzVpYW5YbjNodW1kamNQTG9qX253ZXJEVEJnOXFrYVA2NmkzdnhrV3cxMDZSRU5wRHRtYmdITndCVlc3Z3p0ZjNiUFNsbDdUSXoyTFQ4?oc=5",
-      "source": "newsreel.com.au",
-      "date": "2026-08-31",
-      "summary": "AI may be ‘biggest transformation in our lifetime’ &nbsp;&nbsp; newsreel.com.au",
-      "categories": [
-        "current"
-      ],
-      "geography": [
-        "National"
-      ],
-      "horizon": "now",
-      "id": "gn-ai-may-be-biggest-transformation-in-our-lifetime-newsreel-com-au"
     },
     {
       "id": "seed-nsw-pipeline",
