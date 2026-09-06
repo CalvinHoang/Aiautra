@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-06T14:28:32+00:00",
+  "updated": "2026-09-06T19:39:24+00:00",
   "items": [
     {
       "title": "Alarming AI ads are flooding social media in the lead-up to Victoria’s election. But who is behind them? - The Guardian",
@@ -60,6 +60,81 @@
       ],
       "horizon": "now",
       "id": "gn-alp-mission-to-silicon-valley-returns-with-high-hopes-no-promises-the-australian"
+    },
+    {
+      "title": "Patient data privacy: A guide for Australian doctors using AI - InSight+",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNR29GLTI5ZUNnUmhPRDY1WUd3c3pEall6VDRZbktrVVNCSlF4d0Fra2d2TDBXdnhnejRYZXpuczJqQ3pIcjU4TmI4MERHelExTFBYRVk3MjZiTzZuQTJfSWRoUkhmcWtlWmpaTmZvY001eUFLREp6UlkyX205N3FOczJyTFc1T0JfbmVCcXdnanpqZnd2bkFMM01YOU1OZ2Y5YmdITmd1OWF2Z09Rc2NydUQ0OWdPMnF1TDhGUGE2Wmp2UExiX2FJ?oc=5",
+      "source": "InSight+",
+      "date": "2026-09-06",
+      "summary": "Patient data privacy: A guide for Australian doctors using AI &nbsp;&nbsp; InSight+",
+      "categories": [
+        "current"
+      ],
+      "geography": [
+        "National"
+      ],
+      "horizon": "now",
+      "id": "gn-patient-data-privacy-a-guide-for-australian-doctors-using-ai-insight"
+    },
+    {
+      "title": "Treasury’s AI blind spot: growth without capability gain - InnovationAus.com",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPdldVZVdmZTFrNWJHcjBmSkJhanRQUXJWVTVlUHJvVWY5WDhTTXhlRjYzYmJjYjVLNGV1WWVZNVJveXRoYzJtaGI0UFpyZEpwbkRkNUxYc2ZNWVNIZldXN2RjNmdWVkVVZlBGVktKMWRFVjR4UUtrS0xwYVJKdmNMUUZERjJ6ajc0cXNiRGx3?oc=5",
+      "source": "InnovationAus.com",
+      "date": "2026-09-06",
+      "summary": "Treasury’s AI blind spot: growth without capability gain &nbsp;&nbsp; InnovationAus.com",
+      "categories": [
+        "current"
+      ],
+      "geography": [
+        "National"
+      ],
+      "horizon": "now",
+      "id": "gn-treasury-s-ai-blind-spot-growth-without-capability-gain-innovationaus-com"
+    },
+    {
+      "title": "Do We Accept This Intelligence Imbalance Without a Fight? - Psychology Today",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPUUFvckxMTTNtb0Q4dnpqYlMyazAwYUFEekRkaUhSN3VyaUlyZWpKb0hmeTN5YUJORHhrNFVDMHJDTTRTMzB5cUk5cmlNRnQ2dzFUS0FzOWRBU1RMY1RYbG8temtXdVhGQnRnVks2aWFWUU1Udng2WHhpLXA5cVRRdXFPbmdUX1BEeFREdGN3ZWp5bklkdHZUSHhHWWdJcWl1aHpXeXNLYjJkMVRRTzVDVmFlNEJ3c0VfVk04QWRUX0dRS1dncUJBby1zM0k4NU0?oc=5",
+      "source": "Psychology Today",
+      "date": "2026-09-06",
+      "summary": "Do We Accept This Intelligence Imbalance Without a Fight? &nbsp;&nbsp; Psychology Today",
+      "categories": [
+        "current"
+      ],
+      "geography": [
+        "National"
+      ],
+      "horizon": "now",
+      "id": "gn-do-we-accept-this-intelligence-imbalance-without-a-fight-psychology-today"
+    },
+    {
+      "title": "'Now measured in the millions': The common process being used to scam Australians - sbs.com.au",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPNGJaYnJWSDlXbmM1b3VlZmJnN291cGN5akVwNEdURlRtU0tSajFSS1JCV3JhLW9uRlI0QVZQZ0wtMjFjWGhZNkYyOXdWVHBxZE9mbzJfRUhiUzBiZ2M5Yjk4Vkd3RlJndzhtc0V4Q3dXMVh6V0wzOWcwcUM4aTdCV1ZFN1hyajhlSjNKRFlfakU3c0xQVi00Zw?oc=5",
+      "source": "sbs.com.au",
+      "date": "2026-09-06",
+      "summary": "'Now measured in the millions': The common process being used to scam Australians &nbsp;&nbsp; sbs.com.au",
+      "categories": [
+        "investments"
+      ],
+      "geography": [
+        "National"
+      ],
+      "horizon": "now",
+      "id": "gn-now-measured-in-the-millions-the-common-process-being-used-to-scam-australians"
+    },
+    {
+      "title": "Goodman Group Wins Government Approval for $1B Data Centre in Sydney’s North - Mingtiandi",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPdXYzay03MEZnankzV1RqY0N2YzBJY3BFdVlrVmt6TXZvQnlTWlFQb1hVOGdWZGFUdE1YSHZHa1pad2RWVjY5dlFBMlBoR2hlRGhvU2laSHlvek1KdmRoLXI0NHpEVS1PalZFZzM0TDZMSFdaWlVGVE1YUnpxazlWbkVSM2RLa0l4UUhpbDAxRW0yaEZ0RXB6bEhqSmFpU0xsdm9HU2tHaGJIdHNzWHJVVWZ2dnE1ZDBDcmtYSi1WNExiTlZzRXc?oc=5",
+      "source": "Mingtiandi",
+      "date": "2026-09-06",
+      "summary": "Goodman Group Wins Government Approval for $1B Data Centre in Sydney’s North &nbsp;&nbsp; Mingtiandi",
+      "categories": [
+        "buildouts"
+      ],
+      "geography": [
+        "NSW"
+      ],
+      "horizon": "now",
+      "id": "gn-goodman-group-wins-government-approval-for-1b-data-centre-in-sydney-s-north-ming"
     },
     {
       "title": "Crisafulli’s US Mission: California agreement, critical minerals and AI investment - The Australia Today",
@@ -560,6 +635,21 @@
       "id": "gn-australia-needs-to-pick-a-side-in-global-ai-race-hastie-says-afr-com"
     },
     {
+      "title": "Why most small businesses using AI still aren’t seeing productivity gains - dynamicbusiness.com",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOQTA5WkJ2STZ5WjlEd0xFd0VlRHAyc0JVcFpkblVqLWpwdnh6Q1lRWElEdWdvTmk2cFNJSVJ6c2ZKOXlweU1GazBsOUtSZ1I5THZSYk5aNXpxcV9xeEFObW41TUZ6ZTRyQldIQkVVVUdnT1k5d2huUEo5NW5DbkNGelBHTVdIb0czZ0RndVRnNlBmNi10TzZZMmpZUTJldld6eGM2TzhFVHY0WGpXU3otUF9vSExMcEhl?oc=5",
+      "source": "dynamicbusiness.com",
+      "date": "2026-09-04",
+      "summary": "Why most small businesses using AI still aren’t seeing productivity gains &nbsp;&nbsp; dynamicbusiness.com",
+      "categories": [
+        "current"
+      ],
+      "geography": [
+        "National"
+      ],
+      "horizon": "now",
+      "id": "gn-why-most-small-businesses-using-ai-still-aren-t-seeing-productivity-gains-dynami"
+    },
+    {
       "title": "H2O.ai Completes IRAP Assessment at PROTECTED Level, Advancing Secure Sovereign AI for Australian Government - Business Wire",
       "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPSXZPaFh2TnZSalhQODVQRGd6WXFtN1cwbGdYTUcybXlHODRGWHc5R2loeXlLMHY5UkxNdHlnTzRrMmFwY0lPcWhrVU1mV2tGTS1sdHdwM2FYTkc2M0F1UFV5Z25uMXNnQnMyU2VKaUdBQkNTbS1TSGY0bWtrTGFkeUhocUlWNnpXWFF3VWl4MDdtWnRwclkxcHB4dTRqZzEwUzZTUUI3ellrTTRNYXdpNjdILWZIMHMtUzR1U3lHRlVDa21iUW9BOXdXYXhrV2pFRVlYRGdIOUFLNTNHaGhMbDNLVFo1aWczYnp3eERTcTZFR2gzN1g4?oc=5",
       "source": "Business Wire",
@@ -1009,6 +1099,21 @@
       ],
       "horizon": "now",
       "id": "gn-how-ai-amplifies-what-we-believe-about-ourselves-others-and-the-world-psychology"
+    },
+    {
+      "title": "‘Agency’: Warning amid AI warfare fears - au.news.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9NdU80Z0FINzBaeDlBOUhsU2dOTTNVSFhTRmRERnpaTUhWdjgzSGMtaHIxcWw2UHJXWXgtWWV4amtNQ1Rhc2VGclk0aXVjSTlLc29yVzZWclNTRTB1SE4yd0JERXQxOVVWX0pDbUxwaGJRbkN6U1lwY0I0Yw?oc=5",
+      "source": "au.news.yahoo.com",
+      "date": "2026-09-03",
+      "summary": "‘Agency’: Warning amid AI warfare fears &nbsp;&nbsp; au.news.yahoo.com",
+      "categories": [
+        "current"
+      ],
+      "geography": [
+        "National"
+      ],
+      "horizon": "now",
+      "id": "gn-agency-warning-amid-ai-warfare-fears-au-news-yahoo-com"
     },
     {
       "title": "Australia's general insurers scale up AI as regulators urge risk management - S&P Global",
@@ -1673,6 +1778,22 @@
       ],
       "horizon": "now",
       "id": "gn-australian-universities-embrace-ai-assisted-marking-afr-com"
+    },
+    {
+      "title": "Blanket bans on AI could cause 'data centre panic' - au.news.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9CNGFtNjNrNEVlRHV6cEJoV05HWkFaS2lCc3dfYzNPYlZZVW85VG5WbGdxbVNwMzN6UzV6WHB3NlQ1S0s1ZDdrTmhBNW9vN2U1alEwU09PRHExLUY5N29TcW5XQkdoRTlVSzhnTkt2VFB1c0ZxTzZN?oc=5",
+      "source": "au.news.yahoo.com",
+      "date": "2026-09-02",
+      "summary": "Blanket bans on AI could cause 'data centre panic' &nbsp;&nbsp; au.news.yahoo.com",
+      "categories": [
+        "buildouts",
+        "investments"
+      ],
+      "geography": [
+        "National"
+      ],
+      "horizon": "now",
+      "id": "gn-blanket-bans-on-ai-could-cause-data-centre-panic-au-news-yahoo-com"
     },
     {
       "title": "3 Australian AI Stocks With Up To 52% Earnings Growth - simplywall.st",
@@ -3645,126 +3766,6 @@
       ],
       "horizon": "now",
       "id": "gn-10-000-qld-doctors-adopt-ai-note-taking-tool-theaustralian-com-au"
-    },
-    {
-      "title": "The Matter of Facts: Should we regulate AI? - abc.net.au",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQZnBDVXlQc1pKa2lWSGx3UXBJOXhNZmZMMkMzN0xUQnlNRHRhZUZMM292aG94cXBaX1ZQRFU3LWZGTDFDbi03OW5QWUlDYzQzQW1tNnplZEowQlc3YllEbm9jNkJ6Q0ZYajRVbmZiZmJWTThOd3FyQmk0Z1llQW9XQTFBNjR0OEx2a3VXaw?oc=5",
-      "source": "abc.net.au",
-      "date": "2026-08-31",
-      "summary": "The Matter of Facts: Should we regulate AI? &nbsp;&nbsp; abc.net.au",
-      "categories": [
-        "policy"
-      ],
-      "geography": [
-        "National"
-      ],
-      "horizon": "now",
-      "id": "gn-the-matter-of-facts-should-we-regulate-ai-abc-net-au"
-    },
-    {
-      "title": "Australia risks missing out on AI economic boom due to 'slow' uptake - ABC News & Headlines – Australian Broadcasting Corporation",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOTzRGY20ybDZoelRwR2xsSlA5b0k5bVZmaXpMakZPNVp4Z2huR0NOSkNuRnRDNWJXYVgtY1JnOUQ5dndUWThja3hLM251LTZOZEI5ejNnWXFzV2pRNk5ad2t6UFpHZWpfYlFmNXp4TnlNOVg2UEJXcU5PUkV6N1lldUhHOGp5Z3Z4ZldoUmxzYTh6bDdaT3JOQmVONXV1blo1VU92QUlyS1d4aTBk?oc=5",
-      "source": "ABC News & Headlines – Australian Broadcasting Corporation",
-      "date": "2026-08-31",
-      "summary": "Australia risks missing out on AI economic boom due to 'slow' uptake &nbsp;&nbsp; ABC News & Headlines – Australian Broadcasting Corporation",
-      "categories": [
-        "current"
-      ],
-      "geography": [
-        "National"
-      ],
-      "horizon": "now",
-      "id": "gn-australia-risks-missing-out-on-ai-economic-boom-due-to-slow-uptake-abc-news-head"
-    },
-    {
-      "title": "Sydney’s backlash over new AI data centre hot spots - The Daily Telegraph",
-      "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxNeXBaeVpOajY1SDRqeXFIbkttZWZpWmozWE4tXzBrOVdwekZZd2xFcXljTlY5S2p3VndZYkdOZWhPVGpsLTY5cDRjSkpHMjNRcDJpZUpMbmx4eW9PYVdHdTc4WEQ5ek9meTR1WDJuc3hsXzVUendRdmtCMC1xVm9xcnpWeHVFRUVGcjl3a3E0SGdwc2hjSmlWMXE3MkFpTEFEWm15TkkwRlYybjUzMXlZQ3J6N1VOSUt4VXJ3cVJwdWJ2RHVpYTVKZFhMS0xGbXhPbjlpQ0stOGh6b1F6R2tZUzhyd3RTZlhLdTZUd3IxRDVGVVFxWVpPMGhQaTdEdzU5UHfSAYcCQVVfeXFMTW5CVVBYVUg3TXJqR3kzQ1NLWGd2LWdVLWx3eVowWUIzbmlSQ0VON2RCUEtVWWNCa0tTWlhucU14ZEZEakNneEJHeU96NksxZmpDWnJyNmktWFV5bUFUcUpMcjVWdXR6dEF1WElQU0dvLVQtXzVIcWxvVFAycktUX1p2V2NCTFJObmIxZVEtZHhhRE42REFsZW12dkpkMUdQRGhzdXBWQXJ6bFZ4dkU2VVZsRWwwa2hNeGlfZlhFX2NQcTRwZnFfU1lKOVBiclIyY2NOMlk0OXo1RDh6V0d1X0xzV1lOTnpPT2Q2T0pqUVVpT3VWNUdQUUo2Z2luSWxHRWhnQVpLYmc?oc=5",
-      "source": "The Daily Telegraph",
-      "date": "2026-08-31",
-      "summary": "Sydney’s backlash over new AI data centre hot spots &nbsp;&nbsp; The Daily Telegraph",
-      "categories": [
-        "buildouts"
-      ],
-      "geography": [
-        "NSW"
-      ],
-      "horizon": "now",
-      "id": "gn-sydney-s-backlash-over-new-ai-data-centre-hot-spots-the-daily-telegraph"
-    },
-    {
-      "title": "AI Getting Boring? You’re Probably Doing It Right - psychologytoday.com",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNRXVCUU5laEFMN0NHd0FCRk1Fdm9JZWlhLThPakhxRkMycDY0UVRBQ1l0aE82ZFplT2lJRHh3ZVlDOFNnR2JCSkJNSG15RG9tVi1MVTh4S3Y0a0NDNFJCT0k1RzBkSkY0V1pqaGF3M2d1UjlzNkVqV3g3clBvdmpNNlZjY3hfTDIzZUxBNjdFMlNxUC12UnFTV1RWTFMwUXV0bW00bjZaTlFtSjRwamlRTzBoVnlfbDFq?oc=5",
-      "source": "psychologytoday.com",
-      "date": "2026-08-31",
-      "summary": "AI Getting Boring? You’re Probably Doing It Right &nbsp;&nbsp; psychologytoday.com",
-      "categories": [
-        "current"
-      ],
-      "geography": [
-        "National"
-      ],
-      "horizon": "now",
-      "id": "gn-ai-getting-boring-you-re-probably-doing-it-right-psychologytoday-com"
-    },
-    {
-      "title": "Childhood friends from regional NSW hit the AI big league - AFR",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOOUUxWG50U3hIbGlPNUN1Q3ljVWRpMG5KbjlDTl9DSlhSYy1rS0FuUXJmVElNSlRJS0JMMloyRFo0a294M1p0SnUyLUg5WVk0WFhoaFFxbjhTbXMyTmo1dkF3TXA3cnN3UWxYZHZzdU5GTEVvM3JTNG5SdWtlQlJ0X28wcndXQTRXVVMzNnI0dko2UkM1N3BqdzZGWHdyN2tsWXBRU2pnX2NSSnQ4NlRSVFlpVVhOb0RK?oc=5",
-      "source": "AFR",
-      "date": "2026-08-31",
-      "summary": "Childhood friends from regional NSW hit the AI big league &nbsp;&nbsp; AFR",
-      "categories": [
-        "current"
-      ],
-      "geography": [
-        "NSW"
-      ],
-      "horizon": "now",
-      "id": "gn-childhood-friends-from-regional-nsw-hit-the-ai-big-league-afr"
-    },
-    {
-      "title": "ACCC warns AI making it easier for \"dodgy operators\" to impersonate real businesses online - SmartCompany",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQTU1MR09BR0VhNC1QWUlNWV9tbHpNekRCRzViNjBFSVBoQXhzdFZCSTJzZGNLN1pRaHFWMlhXTDJQNkZQMnBkZEF4Z0xTUzd0MmU0dEpXLXMtVF83LUpVckhHMHFXMkdfQ25Kd0hpczFvQzR0eHAtLTd5VmgwRnEwTi11ME5oUDlYaEtRZDhYeDRuNENJSXNZbE5YUTQzNWR0?oc=5",
-      "source": "SmartCompany",
-      "date": "2026-08-31",
-      "summary": "ACCC warns AI making it easier for \"dodgy operators\" to impersonate real businesses online &nbsp;&nbsp; SmartCompany",
-      "categories": [
-        "current"
-      ],
-      "geography": [
-        "National"
-      ],
-      "horizon": "now",
-      "id": "gn-accc-warns-ai-making-it-easier-for-dodgy-operators-to-impersonate-real-businesse"
-    },
-    {
-      "title": "BCI combines adaptive AI with human learning for better performance. - psychologytoday.com",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNcWNEb0tlLVZ6UFhlNWdqeWZZYThDLVgyVk0zTWkyUlkxS3VqZHlCdGtIMG1Kejhfek1mYWVYV3JpY2F0UlBVNEk0dU94Si16RHlxTS1wVGRiVlR3YUJmZ2lxM2NfTkRSUm1vQzJEWkRmVHNPdXhkRDdTRVdnSDh1QkJYM3d6d2tmbFduRTdYcUY5U3UxeDAyeFRzLW53bXdfRnpvYW45UFBoTUpzMDluRU1kSDItbS1uY1BIbGxn0gHDAUFVX3lxTE9vVTQ0MW41eGtrY0kxVWFKTTlTSGRPYnQ0THVWMFV2aFZSN2l0MFdDc2NDY3ZQV25xdDR6aU1yeHlzYVZ2VGUwZHRfSEdlenp3RFd5OHgycEw4V1lFbG9SRTRVTHJWcHBIb1RkdlJncDZpcjBCdzVkTU1PM0Z6VVZYblNtTFFrUFJaVXFJV28taUZaV3I5bGpBTVN2TFV6VHAtd2RhR1Z6aDRqM1VBVE02XzV4SVAtb0JxYkxQdjJEcENvWQ?oc=5",
-      "source": "psychologytoday.com",
-      "date": "2026-08-31",
-      "summary": "BCI combines adaptive AI with human learning for better performance. &nbsp;&nbsp; psychologytoday.com",
-      "categories": [
-        "current"
-      ],
-      "geography": [
-        "National"
-      ],
-      "horizon": "now",
-      "id": "gn-bci-combines-adaptive-ai-with-human-learning-for-better-performance-psychologyto"
-    },
-    {
-      "title": "| Kyabram Free Press - kyfreepress.com.au",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNS2dwUXRfSFg0SjRhbEZOMnNrTkljRHpROS1sMFdVbTZsbW40S2NPcnBSU3VZdlBrbG9Yd3FCdUxIN1p1Mnc3djVRTE90VERBRkI4SURDSk8xYzJ1b29SUTZUN0M1ZTI1dE8xTkY3ZHRRQXVGWXA4SVZ6OVp2bTdhM1JqTDVjN3ZwOXU5UU0wUDRBVjdrU0dmbGl2QQ?oc=5",
-      "source": "kyfreepress.com.au",
-      "date": "2026-08-31",
-      "summary": "| Kyabram Free Press &nbsp;&nbsp; kyfreepress.com.au",
-      "categories": [
-        "current"
-      ],
-      "geography": [
-        "National"
-      ],
-      "horizon": "now",
-      "id": "gn-kyabram-free-press-kyfreepress-com-au"
     },
     {
       "id": "seed-nsw-pipeline",
