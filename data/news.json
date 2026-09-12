@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-12T09:40:11+00:00",
+  "updated": "2026-09-12T14:28:03+00:00",
   "items": [
     {
       "title": "Worker fury at Aus NFL game over AI threat - theaustralian.com.au",
@@ -1042,6 +1042,36 @@
       "id": "gn-australia-now-the-world-s-third-largest-data-centre-market-ia-acs-org-au"
     },
     {
+      "title": "Google Cloud and Flinders University train up next gen of AI graduates - arnnet.com.au",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPVFJySk1sdHIxOFFvTjZjMmVtUGhJakg2RFFyaTBIMHB6WW5UR2VGTXRUNm9SSzFzOEpOaWREeng4M2hqOHN0RXhzQ0tTMXJSejZQeVZST3NRYjNKblBrQmNGZWg1aVlsM1BWcHhIYTl5RHVlel9iSE02aFFhSlNFb0RxMTlab29QaTNfeUR1WndYaVdFMTIzUnJrNFdlM2dPT0g0UG9mMEdhZEhkbVB0YUhEU1ZteExW?oc=5",
+      "source": "arnnet.com.au",
+      "date": "2026-09-10",
+      "summary": "Google Cloud and Flinders University train up next gen of AI graduates &nbsp;&nbsp; arnnet.com.au",
+      "categories": [
+        "current"
+      ],
+      "geography": [
+        "National"
+      ],
+      "horizon": "now",
+      "id": "gn-google-cloud-and-flinders-university-train-up-next-gen-of-ai-graduates-arnnet-co"
+    },
+    {
+      "title": "Nvidia Just Made an Australia AI Move That Could Be Much Bigger Than Investors Think - TradingView",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQM0Noc1d5WFI5UkJCTUhraFRkOTI2Y2h3NzkyTVZiakJweHdzclF1U1ZHdWtyNmdmZHIzUllwVnNvdUdJN0IxUXFRTjhJbS1XSlZaamhwMV9uU25ROWFWUGdnc1hMNnk4MHJDdDhWazJnaHdNczRScTJXODdXMmVnOVFBNDBYX0hjYXJQSzUzSjR5QVVpUzZib1l2N0RLWk9Gd2Q0WFY0bG9aRDI1X2JoR3UwSDkweWV3ajVjd21FVHA4ZXBkbVh4S3hfOUZjN3RqTEFLdXlaaGoyVXNY?oc=5",
+      "source": "TradingView",
+      "date": "2026-09-10",
+      "summary": "Nvidia Just Made an Australia AI Move That Could Be Much Bigger Than Investors Think &nbsp;&nbsp; TradingView",
+      "categories": [
+        "investments"
+      ],
+      "geography": [
+        "National"
+      ],
+      "horizon": "now",
+      "id": "gn-nvidia-just-made-an-australia-ai-move-that-could-be-much-bigger-than-investors-t"
+    },
+    {
       "title": "SCX.ai (ASX:SCX): Sovereign AI Infrastructure Targets Australian Enterprises Demanding Local Data Control - Kalkine",
       "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQNjVNZzdZalowNjJ6SEZkLWRQZ0dHUDVHZ1BCTUZPTVYtZGZvN01tN1BFNTFkd1RUYktBYk1RZHVqRzhOYkxrRzlWTHpLckUydVVDZzAwZFlubTRCell4VmRxWkV1ZEFtMGN0c0NFekZxQVVXYzNVTmFVMzJfb2RHNE1Ed3VDaFVjUE5NWW5lcE9lQy1BYm0wMjZGSVVrTlFUMk9SMlpDU0VsUGRITjkyVEZZODFaTmtjV2NMVU9aTXZybnNvaXoya0x4NW1iUjROeDNvbm5R?oc=5",
       "source": "Kalkine",
@@ -1966,6 +1996,21 @@
       ],
       "horizon": "now",
       "id": "gn-anthropic-researcher-says-some-developers-believe-ai-could-kill-us-all-abc-net-a"
+    },
+    {
+      "title": "Tech Bytes: Mistral’s record €3 billion raise turns sovereign AI into a global investment race - Proactive financial news",
+      "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxOM1FrdUZPdHM4eVdqNllsWU5zTko5WFJBc1FjLVZoaFFjQkFjanRpSE85VWR5dENhejFMN2xvYlJhOGVWdnJuTFExU3VUTFJ1ZzcxZ2pkWXQ0ZkZJQkVnV0ctWEVhaUwtbW1nQmdmNFZndDhFR3RHX1ZhNTdQeEVrWXNsU0prWlJsX05VN3ZEUFdSNTZjVXg2NkxzZC1qNFh0Tmp2ekNVYVlibWdBc05VN3NVMy1ZUk1NV0pDS2lERUcyNnh6VHUyQ0J6amNZdy01Sm5EMV9RbjhKaGt6bUtZcjRCZFBmM2tPeUtwamNqX1JwWUJ0M3lMcU9B?oc=5",
+      "source": "Proactive financial news",
+      "date": "2026-09-09",
+      "summary": "Tech Bytes: Mistral’s record €3 billion raise turns sovereign AI into a global investment race &nbsp;&nbsp; Proactive financial news",
+      "categories": [
+        "investments"
+      ],
+      "geography": [
+        "National"
+      ],
+      "horizon": "now",
+      "id": "gn-tech-bytes-mistral-s-record-3-billion-raise-turns-sovereign-ai-into-a-global-inv"
     },
     {
       "title": "Firmus inks massive OpenAI deal ahead of ASX float - The Australian",
@@ -3733,51 +3778,6 @@
       ],
       "horizon": "now",
       "id": "gn-workers-should-be-consulted-over-ai-and-they-should-fear-one-nation-says-new-act"
-    },
-    {
-      "title": "AI chatbots like Buddy at Bunnings years from becoming norm for shoppers - ABC News & Headlines – Australian Broadcasting Corporation",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNbG1qVFJMRXRsNG53a2tOS3NWdlNvOUNlRFFPNldHc1ptV0haOGxnSVJWbFRycmx2bm95dDEyc2dERlBoT0lqejY1cGhSYWluR1dNX1hMS2dOS1dqNC1XLUJiY1R6V3RodllvaUdiU1ZNSzVLRmtKZGJTLXdxSkx1cnJnLW1mTWpEOFR4c0R4bTRqVC1ZenpiaUZ3N1BsNjdJd0R2TXNB?oc=5",
-      "source": "ABC News & Headlines – Australian Broadcasting Corporation",
-      "date": "2026-09-05",
-      "summary": "AI chatbots like Buddy at Bunnings years from becoming norm for shoppers &nbsp;&nbsp; ABC News & Headlines – Australian Broadcasting Corporation",
-      "categories": [
-        "investments"
-      ],
-      "geography": [
-        "National"
-      ],
-      "horizon": "now",
-      "id": "gn-ai-chatbots-like-buddy-at-bunnings-years-from-becoming-norm-for-shoppers-abc-new"
-    },
-    {
-      "title": "Growth in home-brand products could impact affordability, experts say - ABC News & Headlines – Australian Broadcasting Corporation",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNbG1qVFJMRXRsNG53a2tOS3NWdlNvOUNlRFFPNldHc1ptV0haOGxnSVJWbFRycmx2bm95dDEyc2dERlBoT0lqejY1cGhSYWluR1dNX1hMS2dOS1dqNC1XLUJiY1R6V3RodllvaUdiU1ZNSzVLRmtKZGJTLXdxSkx1cnJnLW1mTWpEOFR4c0R4bTRqVC1ZenpiaUZ3N1BsNjdJd0R2TXNB?oc=5",
-      "source": "ABC News & Headlines – Australian Broadcasting Corporation",
-      "date": "2026-09-05",
-      "summary": "Growth in home-brand products could impact affordability, experts say &nbsp;&nbsp; ABC News & Headlines – Australian Broadcasting Corporation",
-      "categories": [
-        "investments"
-      ],
-      "geography": [
-        "National"
-      ],
-      "horizon": "now",
-      "id": "gn-growth-in-home-brand-products-could-impact-affordability-experts-say-abc-news-he"
-    },
-    {
-      "title": "AI, digital platform ties bring competition risks, Australian regulator says - mlex.com",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPemNlWmJCOUhEc2VpdEVyU1gtTE1NY01xYmZMZjVMaE1MWmtENzRsa0VPbHJlVXR5YzBiYnVkNXZyVVp1cFFwSEd1bWxHclh6SDFyU0NaNE8xaE5sWXNDX2pGVjEzT2owSWljV2N5NE5rYXhfR3RnY1VyUG14aXZYaDdOYmhvVl83OWtkb21IMFd3SHc2TG1Mbzc4MEctUVVrOWRJdzRUQmNKeGF4TUdndXVyM084QU540gFaQVVfeXFMUEF6NUpyTW5uc2ZJV20teTB1M3VXMUQ5eXEzZE1wcEVyeXUtcmhPZHprTjRHNGg3Y1BpVWZSeU84TDItOGI5aU45VmtzRzJUenYzY2ZqUXpSNzl3?oc=5",
-      "source": "mlex.com",
-      "date": "2026-09-04",
-      "summary": "AI, digital platform ties bring competition risks, Australian regulator says &nbsp;&nbsp; mlex.com",
-      "categories": [
-        "current"
-      ],
-      "geography": [
-        "National"
-      ],
-      "horizon": "now",
-      "id": "gn-ai-digital-platform-ties-bring-competition-risks-australian-regulator-says-mlex"
     },
     {
       "id": "seed-nsw-pipeline",
