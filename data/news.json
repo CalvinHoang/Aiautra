@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-12T01:44:37+00:00",
+  "updated": "2026-09-12T09:40:11+00:00",
   "items": [
     {
       "title": "Worker fury at Aus NFL game over AI threat - theaustralian.com.au",
@@ -965,6 +965,83 @@
       "id": "gn-how-a-swarm-of-ai-agents-hacked-another-company-in-the-ai-s-own-words-abc-news-h"
     },
     {
+      "title": "Quartet secures millions for research into AI, emissions, influencers and more | News at Curtin - Curtin University",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQOFNnWExlaVFPd1hDLTJtanpOVzdhdFQyakd6bVp6MWNvOGhIV2hNZm11eUk1bEY5QWJJeEVCTmp0OWlxMDNRZk1jTXF4YXV3cmhYUFNyLVBoazdJOGxSUV9CZzdkdEZneEtMdXN4R3J6Q1pLelRzQWJXN3l4Ty1JaFZrVThDOVFPS19xemo5blA3YU5XbFpYemMzQzZhdDJTTnUtQjdaWHN5b1hhSnlyb21xSE9BRTh2NmFfYi16SQ?oc=5",
+      "source": "Curtin University",
+      "date": "2026-09-10",
+      "summary": "Quartet secures millions for research into AI, emissions, influencers and more | News at Curtin &nbsp;&nbsp; Curtin University",
+      "categories": [
+        "investments"
+      ],
+      "geography": [
+        "National"
+      ],
+      "horizon": "now",
+      "id": "gn-quartet-secures-millions-for-research-into-ai-emissions-influencers-and-more-new"
+    },
+    {
+      "title": "AI no match for skin cancer specialists in detecting melanomas - news.csu.edu.au",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQdFpJRnZ2aENldEt2b0VVTTZFeG03X3RLOXAwV2VOWEZTX2JZSjVTZURKM3RDRktEdWdJenk0cWFXYXNhbTdFRjJKNmNROHp6RURUaUh1dk9INEhCVkl3cGR4V3UtUmN4S3d3NjA3SkxTZGNmdXJzUF9HM09qVDZUNjdyd3F3TG95c1FVN1owYk1lZTFrM1NOeUVKdUpXTGs?oc=5",
+      "source": "news.csu.edu.au",
+      "date": "2026-09-10",
+      "summary": "AI no match for skin cancer specialists in detecting melanomas &nbsp;&nbsp; news.csu.edu.au",
+      "categories": [
+        "current"
+      ],
+      "geography": [
+        "National"
+      ],
+      "horizon": "now",
+      "id": "gn-ai-no-match-for-skin-cancer-specialists-in-detecting-melanomas-news-csu-edu-au"
+    },
+    {
+      "title": "How a ‘swarm’ of AI agents hacked another company, in the AI’s own words - abc.net.au",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPX2s1ZVBRQ3BZR1VzcWZBUDhjcE52VWROUW9VbVloYlJRdzlpQmNZWG5iOTdlWWVMS2R0U2lpNUg1V243UWpLVmpjOGdQSGM1S3R0NmRweWdVY1NOY1RFd3lGZkZXTDZwYmxUUXhZVnBUWkFucGx1T25OQmtnLWhKbXhXMF9fOXczSjg4NmhtWi1zQ2ZqWVJwcnQwcWJpMnk4SUE5c1o1QQ?oc=5",
+      "source": "abc.net.au",
+      "date": "2026-09-10",
+      "summary": "How a ‘swarm’ of AI agents hacked another company, in the AI’s own words &nbsp;&nbsp; abc.net.au",
+      "categories": [
+        "current"
+      ],
+      "geography": [
+        "National"
+      ],
+      "horizon": "now",
+      "id": "gn-how-a-swarm-of-ai-agents-hacked-another-company-in-the-ai-s-own-words-abc-net-au"
+    },
+    {
+      "title": "Bigger and hungrier: What we know about 27 proposed new data centres - abc.net.au",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPZTJVQUJhZE45c2RrMUZUZXJyNVdUZ0o1MzJ1cG9OTmZGTjJmb1o4ajZZVlluYVZER2VSOXRRZFZMUWtWa2daeXZJNzZvZmdzNFBlZllUMDhxYkNnOFFXTmxKOUI4NTRxUEt5TFJtc1d6c2dZbXYwWENXNzBEdF8tcDQwYTlfbjRpUEFXb1ZxSllYcFJwaGZEUllvX1gtR09Ea2hIdmJn?oc=5",
+      "source": "abc.net.au",
+      "date": "2026-09-10",
+      "summary": "Bigger and hungrier: What we know about 27 proposed new data centres &nbsp;&nbsp; abc.net.au",
+      "categories": [
+        "buildouts",
+        "investments"
+      ],
+      "geography": [
+        "National"
+      ],
+      "horizon": "future",
+      "id": "gn-bigger-and-hungrier-what-we-know-about-27-proposed-new-data-centres-abc-net-au"
+    },
+    {
+      "title": "Australia now the world’s third-largest data centre market - ia.acs.org.au",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxObW1SYW9xR3pNdjB3ZW9MM3NmbHdQRjJpb0pXdjFXQ2VaMUF4Z1g2akRzY3FTVnVrTXNjaVJUX2RuRDdkRFJhcXhFdUtiSXZySktUUTVQQlpnVTF1d09FM3JKUmc3Q3VidkdBdkFJSjhrRTZCTW0yY1JkYjBHUUtmTjg5Y0YtVVFON0tSc1htQnBBTTdITUl1YnJpQ2lOZ2s?oc=5",
+      "source": "ia.acs.org.au",
+      "date": "2026-09-10",
+      "summary": "Australia now the world’s third-largest data centre market &nbsp;&nbsp; ia.acs.org.au",
+      "categories": [
+        "buildouts",
+        "markets"
+      ],
+      "geography": [
+        "National"
+      ],
+      "horizon": "now",
+      "id": "gn-australia-now-the-world-s-third-largest-data-centre-market-ia-acs-org-au"
+    },
+    {
       "title": "SCX.ai (ASX:SCX): Sovereign AI Infrastructure Targets Australian Enterprises Demanding Local Data Control - Kalkine",
       "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQNjVNZzdZalowNjJ6SEZkLWRQZ0dHUDVHZ1BCTUZPTVYtZGZvN01tN1BFNTFkd1RUYktBYk1RZHVqRzhOYkxrRzlWTHpLckUydVVDZzAwZFlubTRCell4VmRxWkV1ZEFtMGN0c0NFekZxQVVXYzNVTmFVMzJfb2RHNE1Ed3VDaFVjUE5NWW5lcE9lQy1BYm0wMjZGSVVrTlFUMk9SMlpDU0VsUGRITjkyVEZZODFaTmtjV2NMVU9aTXZybnNvaXoya0x4NW1iUjROeDNvbm5R?oc=5",
       "source": "Kalkine",
@@ -1874,6 +1951,21 @@
       ],
       "horizon": "now",
       "id": "gn-largest-number-of-finalists-unveiled-for-australian-ai-awards-accountingtimes-co"
+    },
+    {
+      "title": "Anthropic researcher says some developers believe AI 'could kill us all' - abc.net.au",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQZUJkdy1PS2Uwc2g0bWV0ZWN1dTF1Vm45aThTNThILWV1ZEtvaWV1TVJtMzh4eGRNU3BDbDRjMmtUQlJqUHRQYzdodkJ3Q1kxNERvYWZhYVJIWE1Xc0k1VE1FUXNJRlZrQ0Rfa3QtR1k5SFlLQlNlSVF0TFBwZzVzczFDaEp3cTdGeE16RnViY2tkTmJDM0JlTG1IeFVob0JD?oc=5",
+      "source": "abc.net.au",
+      "date": "2026-09-09",
+      "summary": "Anthropic researcher says some developers believe AI 'could kill us all' &nbsp;&nbsp; abc.net.au",
+      "categories": [
+        "current"
+      ],
+      "geography": [
+        "National"
+      ],
+      "horizon": "now",
+      "id": "gn-anthropic-researcher-says-some-developers-believe-ai-could-kill-us-all-abc-net-a"
     },
     {
       "title": "Firmus inks massive OpenAI deal ahead of ASX float - The Australian",
@@ -3253,6 +3345,21 @@
       "id": "gn-australia-s-ai-boom-risks-demand-surge-and-higher-rates-be-says-bloomberg"
     },
     {
+      "title": "Aussie startup cuts staff, pivots to US after $32m government outlay - abc.net.au",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNTmE2OUczZy05aFZmN1NaLVZaM1U4VG15WWthb2pabHZ6Z0FtWHM2cHBVRXFaRHFYaHdzOG1oUU9LN0ZFZFJNMHpNMUdlNWxGbl9ya1dHVUlqWHhCSVdLWE14Mzd4QTZVU2pINkhfbXpCaVJsQWJrSUZSaTR4dEpybjVpVk5qd2dZNDdZNVU3d0tWMHNyV00xY1E3LVh6MHdaYlBPakhnaWtKaEk?oc=5",
+      "source": "abc.net.au",
+      "date": "2026-09-07",
+      "summary": "Aussie startup cuts staff, pivots to US after $32m government outlay &nbsp;&nbsp; abc.net.au",
+      "categories": [
+        "investments"
+      ],
+      "geography": [
+        "National"
+      ],
+      "horizon": "now",
+      "id": "gn-aussie-startup-cuts-staff-pivots-to-us-after-32m-government-outlay-abc-net-au"
+    },
+    {
       "title": "Alarming AI ads are flooding social media in the lead-up to Victoria’s election. But who is behind them? - The Guardian",
       "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQT2JYclVkdUF6TDI1TGhQaU16d0ZXNXRaMzZuVmRIOVhSYnVfXzJ1NTAxTW5ib3NuWFdQamR0QjdfYU1fTnFNemJwclM4VmtqY1Z1MjBZa2RKcmNDX2tkTm5hdlI2eVB6NGhhb3k5cW12MDZOTTNvbExxd3lQaEpPSnhWZUdId3FTYUswdnp1VzJLUGVKdEUzZmhMWmJ3R2J5REg1dU5KRWFfaDhiSUplQlRXUDVlYzVwMG1LX1NPaHNHdw?oc=5",
       "source": "The Guardian",
@@ -3671,112 +3778,6 @@
       ],
       "horizon": "now",
       "id": "gn-ai-digital-platform-ties-bring-competition-risks-australian-regulator-says-mlex"
-    },
-    {
-      "title": "Data centres add pressure to construction workforce - Infrastructure Magazine",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPaWt6YjhCOV9oMGhNOFlDcUdoZ0dFS3BKN3cyQmY2UGVmZ1lwRkpPV0t0dlZ0cDVFRHdOamlmckE3UVA2YTZ5bERBc3JsX0prNXN4Y29tRVVRY3liem5IM2JURG9qZ0p1Q1ZaV2hPUnpLNUxqMi11azVTU2tNeE1tVTR6M1MzWndVdXhRWDBLZVh4d1I0?oc=5",
-      "source": "Infrastructure Magazine",
-      "date": "2026-09-04",
-      "summary": "Data centres add pressure to construction workforce &nbsp;&nbsp; Infrastructure Magazine",
-      "categories": [
-        "buildouts"
-      ],
-      "geography": [
-        "National"
-      ],
-      "horizon": "now",
-      "id": "gn-data-centres-add-pressure-to-construction-workforce-infrastructure-magazine"
-    },
-    {
-      "title": "15 ANZ startups that raised $67.2 million this week - SmartCompany",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQVkRDWHdreWZtYURQQzhLbFAzYXBiZ2wzRmxwLTlvMzNPQWN6UnlNSDhuRVdCUDFoUGF5VEhzT0tta2VzYUk5YkNDNng1ak9DNHFNM3dQUkJ1NDdxV0hudTc0NFY0RFZRNEtJNlJqaDhQcmt0VFRsRXlnUG9GRjdoaDBJWDZ5VlRoSWNZQ1dZRVhyc0hzUHc?oc=5",
-      "source": "SmartCompany",
-      "date": "2026-09-04",
-      "summary": "15 ANZ startups that raised $67.2 million this week &nbsp;&nbsp; SmartCompany",
-      "categories": [
-        "investments",
-        "markets"
-      ],
-      "geography": [
-        "National"
-      ],
-      "horizon": "now",
-      "id": "gn-15-anz-startups-that-raised-67-2-million-this-week-smartcompany"
-    },
-    {
-      "title": "Australia needs to pick a side in global AI race, Hastie says - AFR",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOTmoxWDVXcjJNZ01SUHAzc1pNN0RDc0Ezam00YTBCZ2x3RUNodkZZSkhPc1lUdjgyVFV3OG5iNkFtM25DazZ5MU9YN2d1bnBiMEo5aXhSd2tGSkpfMHl4anhqOWxFdDlCS1g4ejNuUkZnOFp2c2IyQWlSTjlkZ1ZCZ05BeWNLb3I2VkNWcndKRGpRLXA2NTlreG80WkM0TGYwejR5bnI5empxUXM?oc=5",
-      "source": "AFR",
-      "date": "2026-09-04",
-      "summary": "Australia needs to pick a side in global AI race, Hastie says &nbsp;&nbsp; AFR",
-      "categories": [
-        "current"
-      ],
-      "geography": [
-        "National"
-      ],
-      "horizon": "now",
-      "id": "gn-australia-needs-to-pick-a-side-in-global-ai-race-hastie-says-afr"
-    },
-    {
-      "title": "South Korean and Australian business leaders expand cooperation on AI, space, and defence - Cyber Daily",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxORm1oQmRRMUViZ3dTQ05Ob2wyWV95MUNVQnVMQm9nWWl5RkozZWhCNlhFNG5pdGI0Zi1tSHh2TTMzM0lwSzhjUEF3WEx6WnFzRUdKNnJXWVVKSnBBYU9pcFFfcFdkRDdkUExpZTZXSlRlR2NndFZ3TE9LNDlDQ2Ixa1hVQzZ0Y2ZPMHhXcFc1SXhhNUxOMnRvNXdEOHpEbENaaGM0TlQ0ZlVYUnhXQzEtNmpYelFldFN3WEV5cTdaNHg0dw?oc=5",
-      "source": "Cyber Daily",
-      "date": "2026-09-04",
-      "summary": "South Korean and Australian business leaders expand cooperation on AI, space, and defence &nbsp;&nbsp; Cyber Daily",
-      "categories": [
-        "current"
-      ],
-      "geography": [
-        "National"
-      ],
-      "horizon": "now",
-      "id": "gn-south-korean-and-australian-business-leaders-expand-cooperation-on-ai-space-and"
-    },
-    {
-      "title": "Agentic commerce is moving from concept to reality - Inside Retail Australia",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQVURNbzhhX0pCd3FicU9ZR3k2NHN2Z0N1UHZxV1VvRmVJVHY2UmVRZldoTWVPeVNJZ0VMT0RUV2xDdFhmbk1xR05FX0RVbDBOUnBEWGFoY2J5c0sxWndWWDNIay1qZFhQQ015ZFpqSExNVHU2WUxrOGdPS2VRUUdpd0tqRk96LXkxYk5fYXg4N0ltSmNzZEQ2Rg?oc=5",
-      "source": "Inside Retail Australia",
-      "date": "2026-09-04",
-      "summary": "Agentic commerce is moving from concept to reality &nbsp;&nbsp; Inside Retail Australia",
-      "categories": [
-        "current"
-      ],
-      "geography": [
-        "National"
-      ],
-      "horizon": "now",
-      "id": "gn-agentic-commerce-is-moving-from-concept-to-reality-inside-retail-australia"
-    },
-    {
-      "title": "Top 3 Australian AI Healthcare Stocks To Watch In September 2026 - simplywall.st",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOYi1RQzMyZEVtV1JLSy1LNy1FenZXdFVBU2JhNzJGTzhrTXBsRWNSb241Mm92UnhMTzlWOVF5NzU4UnNrOW1PNTg5LVcyQ0VrdXhpWHNaaTFEckY5RnQyRVhMNEV0R3A4eUptRHR3NnFnTjR4WjUwWWo1dzZ1VmJhU3RJa21SZlZMaWVkT2ZHbDV3R25ZUFFTSnBsRlJHeEd3d3V5czFlbVhnSmdkM1BCZV8ycDJSZmR4dmUyWHJkbGxFWEFGdi1pctIBzgFBVV95cUxNTnNsdWM2VmozQTVPOEVubTliWjViNTF5V1N2UjZ4X2c1S2JiR2NQRmtjWXpIZ0NMWWV0bXd6NEhmU1hWOTJ0T1NvdFNEUEVUUnVyd3l2WmJCYnY3VlpzSkZsdU9JZTZXNGZRRkZXTGx5aEFyZ1dCbWM1U09PTmNnZ0FnSC1sNzJKMWNNdWk4SmoxUFdhX0pMSTRXNnNwWFdyd19rT3J5OVBjUEJXbFZhX1JyS0piR09QVHJnSHhWaUxIVl9kNFRiQnloa2k5dw?oc=5",
-      "source": "simplywall.st",
-      "date": "2026-09-04",
-      "summary": "Top 3 Australian AI Healthcare Stocks To Watch In September 2026 &nbsp;&nbsp; simplywall.st",
-      "categories": [
-        "markets"
-      ],
-      "geography": [
-        "National"
-      ],
-      "horizon": "now",
-      "id": "gn-top-3-australian-ai-healthcare-stocks-to-watch-in-september-2026-simplywall-st"
-    },
-    {
-      "title": "Top 3 Australian AI Healthcare Stocks To Watch In September 2026 - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOSUIxbF9qYWw2bzBueWtNRkdtaENOdlVtLW9UNGtycTMyUjkySHBCdXNNekVGdzZUazAtZkpzYlg2bm5UalhDakJEYm11bmFpVERGX21NVW5Vb0xQUE9qU1Bfa2F5R1BSV0Z3dU1Ea29ORWgwVGRzaUVQeGEyNTVYZTBLeHdhS0FocTFkQ0hlMV9UNGZPWkQzdThB?oc=5",
-      "source": "Yahoo Finance",
-      "date": "2026-09-04",
-      "summary": "Top 3 Australian AI Healthcare Stocks To Watch In September 2026 &nbsp;&nbsp; Yahoo Finance",
-      "categories": [
-        "markets"
-      ],
-      "geography": [
-        "National"
-      ],
-      "horizon": "now",
-      "id": "gn-top-3-australian-ai-healthcare-stocks-to-watch-in-september-2026-yahoo-finance"
     },
     {
       "id": "seed-nsw-pipeline",
