@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-13T15:09:20+00:00",
+  "updated": "2026-09-13T19:55:07+00:00",
   "items": [
     {
       "title": "‘It’s alarming’: governments urged to step up oversight of AI safety - AFR",
@@ -45,6 +45,36 @@
       ],
       "horizon": "now",
       "id": "gn-it-s-alarming-governments-urged-to-step-up-oversight-of-ai-safety-afr-com"
+    },
+    {
+      "title": "Chorus of concern over AI is growing louder - ABC News & Headlines – Australian Broadcasting Corporation",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQNno3MkduZjZrbmZkcDZHRVpxa0s1MWFCVFZqVDlWcG5iUkZCQ214UGRqT05vSS1Hd1ZvMmJqWkVjR1lYX3RoaFdhUUlEMlBkX0pjVXRaaWNPMjRJOWU4VnRra1ZSdHlMcXhndlVQd2lHX3RaTlNRdTBVT0NmWjY0anVxUDZrREpMc2VQRVlRZS1jUnY3cVdlRg?oc=5",
+      "source": "ABC News & Headlines – Australian Broadcasting Corporation",
+      "date": "2026-09-13",
+      "summary": "Chorus of concern over AI is growing louder &nbsp;&nbsp; ABC News & Headlines – Australian Broadcasting Corporation",
+      "categories": [
+        "current"
+      ],
+      "geography": [
+        "National"
+      ],
+      "horizon": "now",
+      "id": "gn-chorus-of-concern-over-ai-is-growing-louder-abc-news-headlines-australian-broadc"
+    },
+    {
+      "title": "Data centres are ‘bad neighbours’ – here’s the fix - dailytelegraph.com.au",
+      "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxNLURvUFNoR0F0MExscTVydmNTWXBPX1l3dkJfZEYyRTZ0R2NUcTY1MHdOWENtN0NyVEE3dnozQVFzT2NheFlHa29tUTRHZ0xXVnBhOVppVmw2YklmYjA0ZVFzMjVMb0wycWxqcElrUENqOVZiNHNrRTRyWmdmY2pUQjdlVUMzZE1IY0NQZGF4cnU4c29GckhDV0tNZl85cE1tSGNBLXltdU5KRGplQzVpcHJhWk03RjdfR2NDTkJLaks0Njk4TWxrYTJZRlRQTG9hOGZIOFM3SGNhQ2pjWHBUMmtXc256Y3ZQTzdNTkJWcHJYMUZzRXdrQ08wOTZhNmc?oc=5",
+      "source": "dailytelegraph.com.au",
+      "date": "2026-09-13",
+      "summary": "Data centres are ‘bad neighbours’ – here’s the fix &nbsp;&nbsp; dailytelegraph.com.au",
+      "categories": [
+        "buildouts"
+      ],
+      "geography": [
+        "National"
+      ],
+      "horizon": "now",
+      "id": "gn-data-centres-are-bad-neighbours-here-s-the-fix-dailytelegraph-com-au"
     },
     {
       "title": "Is AI Undermining the Human Foundations of Innovation? - Psychology Today",
@@ -240,6 +270,21 @@
       ],
       "horizon": "now",
       "id": "gn-kevin-rudd-calls-for-australian-car-manufacturing-revival-carexpert"
+    },
+    {
+      "title": "What Australia's AI Regulation Means For Your Risk Register - itwire.com",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPLUpOdDdHREhuZ0VTQkNxdm00ZnpyajZnZnhkbEY0RnNXVFROeDZ5aHE3QjJLQ0ZLS2ltWHFrejNQdldSNXFPaXJMYXNZN193VVZNTFpKVFpJZXU3WExoYUQyWWpJd2QyZUo5ZjhjYUpja0tnaVNrc2MyNWlidkE1SFJZNldncVY3eXpSUGpKT0Q1MlhwTW9EZkl4SUMzMGlSZHRXTVVocE9MQQ?oc=5",
+      "source": "itwire.com",
+      "date": "2026-09-11",
+      "summary": "What Australia's AI Regulation Means For Your Risk Register &nbsp;&nbsp; itwire.com",
+      "categories": [
+        "policy"
+      ],
+      "geography": [
+        "National"
+      ],
+      "horizon": "now",
+      "id": "gn-what-australia-s-ai-regulation-means-for-your-risk-register-itwire-com"
     },
     {
       "title": "‘Build AI at home’: Nvidia’s $US5 trillion Aussie deal - The Australian",
@@ -3735,51 +3780,6 @@
       ],
       "horizon": "now",
       "id": "gn-alp-mission-to-silicon-valley-returns-with-high-hopes-no-promises-the-australian"
-    },
-    {
-      "title": "Patient data privacy: A guide for Australian doctors using AI - InSight+",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNR29GLTI5ZUNnUmhPRDY1WUd3c3pEall6VDRZbktrVVNCSlF4d0Fra2d2TDBXdnhnejRYZXpuczJqQ3pIcjU4TmI4MERHelExTFBYRVk3MjZiTzZuQTJfSWRoUkhmcWtlWmpaTmZvY001eUFLREp6UlkyX205N3FOczJyTFc1T0JfbmVCcXdnanpqZnd2bkFMM01YOU1OZ2Y5YmdITmd1OWF2Z09Rc2NydUQ0OWdPMnF1TDhGUGE2Wmp2UExiX2FJ?oc=5",
-      "source": "InSight+",
-      "date": "2026-09-06",
-      "summary": "Patient data privacy: A guide for Australian doctors using AI &nbsp;&nbsp; InSight+",
-      "categories": [
-        "current"
-      ],
-      "geography": [
-        "National"
-      ],
-      "horizon": "now",
-      "id": "gn-patient-data-privacy-a-guide-for-australian-doctors-using-ai-insight"
-    },
-    {
-      "title": "Treasury’s AI blind spot: growth without capability gain - InnovationAus.com",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPdldVZVdmZTFrNWJHcjBmSkJhanRQUXJWVTVlUHJvVWY5WDhTTXhlRjYzYmJjYjVLNGV1WWVZNVJveXRoYzJtaGI0UFpyZEpwbkRkNUxYc2ZNWVNIZldXN2RjNmdWVkVVZlBGVktKMWRFVjR4UUtrS0xwYVJKdmNMUUZERjJ6ajc0cXNiRGx3?oc=5",
-      "source": "InnovationAus.com",
-      "date": "2026-09-06",
-      "summary": "Treasury’s AI blind spot: growth without capability gain &nbsp;&nbsp; InnovationAus.com",
-      "categories": [
-        "current"
-      ],
-      "geography": [
-        "National"
-      ],
-      "horizon": "now",
-      "id": "gn-treasury-s-ai-blind-spot-growth-without-capability-gain-innovationaus-com"
-    },
-    {
-      "title": "Do We Accept This Intelligence Imbalance Without a Fight? - Psychology Today",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPUUFvckxMTTNtb0Q4dnpqYlMyazAwYUFEekRkaUhSN3VyaUlyZWpKb0hmeTN5YUJORHhrNFVDMHJDTTRTMzB5cUk5cmlNRnQ2dzFUS0FzOWRBU1RMY1RYbG8temtXdVhGQnRnVks2aWFWUU1Udng2WHhpLXA5cVRRdXFPbmdUX1BEeFREdGN3ZWp5bklkdHZUSHhHWWdJcWl1aHpXeXNLYjJkMVRRTzVDVmFlNEJ3c0VfVk04QWRUX0dRS1dncUJBby1zM0k4NU0?oc=5",
-      "source": "Psychology Today",
-      "date": "2026-09-06",
-      "summary": "Do We Accept This Intelligence Imbalance Without a Fight? &nbsp;&nbsp; Psychology Today",
-      "categories": [
-        "current"
-      ],
-      "geography": [
-        "National"
-      ],
-      "horizon": "now",
-      "id": "gn-do-we-accept-this-intelligence-imbalance-without-a-fight-psychology-today"
     },
     {
       "id": "seed-nsw-pipeline",
