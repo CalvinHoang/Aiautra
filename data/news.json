@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-13T10:41:17+00:00",
+  "updated": "2026-09-13T15:09:20+00:00",
   "items": [
     {
       "title": "‘It’s alarming’: governments urged to step up oversight of AI safety - AFR",
@@ -30,6 +30,21 @@
       ],
       "horizon": "now",
       "id": "gn-data-centres-are-bad-neighbours-here-s-the-fix-the-daily-telegraph"
+    },
+    {
+      "title": "‘It’s alarming’: governments urged to step up oversight of AI safety - afr.com",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOa0ZRRm0zREtCVVQxVlB2Y1lpRm9SdGJNcVFuSVFHOEcxSVh5TFpucU1KT1c0SnJabV9aUkQwT2l6ei1ZX0lfclFaRzBYTmFMSWZqejUyNms5QlA4NF9GVk82Mk1VOHdxVjhlZ2RYRHdtUEJpWnhsN2RzaS03SzdUNEhJSnRnajNaMVhScHpOSDJvUzhlNjl0enVldFdiTUZhR2w2Q0txVGtPb2VuWS1TYUNn?oc=5",
+      "source": "afr.com",
+      "date": "2026-09-13",
+      "summary": "‘It’s alarming’: governments urged to step up oversight of AI safety &nbsp;&nbsp; afr.com",
+      "categories": [
+        "current"
+      ],
+      "geography": [
+        "National"
+      ],
+      "horizon": "now",
+      "id": "gn-it-s-alarming-governments-urged-to-step-up-oversight-of-ai-safety-afr-com"
     },
     {
       "title": "Is AI Undermining the Human Foundations of Innovation? - Psychology Today",
@@ -1205,6 +1220,37 @@
       ],
       "horizon": "now",
       "id": "gn-tsmc-mediatek-sales-surge-as-ai-chip-demand-stays-strong-capital-brief"
+    },
+    {
+      "title": "AI fire detection camera switched on at Mount Crawford - theindiansun.com.au",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOdENwdGI5N3VwZXVkb2tGQkJHQkN6U3lZYVl1LWxSeWdtV2dCY01CaDF4N2tGdXZwSTVUWHFwUFRlUW1meUNPdW9KZlU4WDc1OVlIaGlFMnZ0b3lWSVZhcGxCZ3E4a3ZPMmVoQWFEaWpvTzR0c0drWHBYaktKUUFoSnJDT0Q3aFhaZndlaUNTeW5fdWMySkkxSUVuaUpjbEU?oc=5",
+      "source": "theindiansun.com.au",
+      "date": "2026-09-10",
+      "summary": "AI fire detection camera switched on at Mount Crawford &nbsp;&nbsp; theindiansun.com.au",
+      "categories": [
+        "current"
+      ],
+      "geography": [
+        "National"
+      ],
+      "horizon": "now",
+      "id": "gn-ai-fire-detection-camera-switched-on-at-mount-crawford-theindiansun-com-au"
+    },
+    {
+      "title": "Four Aussie and Kiwi startups that raised $21.5 million this week - SmartCompany",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNeU5zSmpLbEF6bDNKOUdlY21jUTU2d2VCR1E0QmVCNWR0OXlYWnFMZ2hqRUNHdmR1Z2JpV3hlWTJWenFDUl92aW1nVWFRdnBxU3VpZUpfaTM0d3Q5R3p5VUo1X2VKV3ZwM3VHU0hrQ3NCNzAyT2lWbjJsY2ctZkxfQW8yU0wtRXJQakQxSVlIaFhDOTFqcFdYWVZVWENLcmlXQ0VvNXd0Ymx5U1o1cFJr?oc=5",
+      "source": "SmartCompany",
+      "date": "2026-09-10",
+      "summary": "Four Aussie and Kiwi startups that raised $21.5 million this week &nbsp;&nbsp; SmartCompany",
+      "categories": [
+        "investments",
+        "markets"
+      ],
+      "geography": [
+        "National"
+      ],
+      "horizon": "now",
+      "id": "gn-four-aussie-and-kiwi-startups-that-raised-21-5-million-this-week-smartcompany"
     },
     {
       "title": "SCX.ai (ASX:SCX): Sovereign AI Infrastructure Targets Australian Enterprises Demanding Local Data Control - Kalkine",
@@ -3734,51 +3780,6 @@
       ],
       "horizon": "now",
       "id": "gn-do-we-accept-this-intelligence-imbalance-without-a-fight-psychology-today"
-    },
-    {
-      "title": "'Now measured in the millions': The common process being used to scam Australians - sbs.com.au",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPNGJaYnJWSDlXbmM1b3VlZmJnN291cGN5akVwNEdURlRtU0tSajFSS1JCV3JhLW9uRlI0QVZQZ0wtMjFjWGhZNkYyOXdWVHBxZE9mbzJfRUhiUzBiZ2M5Yjk4Vkd3RlJndzhtc0V4Q3dXMVh6V0wzOWcwcUM4aTdCV1ZFN1hyajhlSjNKRFlfakU3c0xQVi00Zw?oc=5",
-      "source": "sbs.com.au",
-      "date": "2026-09-06",
-      "summary": "'Now measured in the millions': The common process being used to scam Australians &nbsp;&nbsp; sbs.com.au",
-      "categories": [
-        "investments"
-      ],
-      "geography": [
-        "National"
-      ],
-      "horizon": "now",
-      "id": "gn-now-measured-in-the-millions-the-common-process-being-used-to-scam-australians"
-    },
-    {
-      "title": "Goodman Group Wins Government Approval for $1B Data Centre in Sydney’s North - Mingtiandi",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPdXYzay03MEZnankzV1RqY0N2YzBJY3BFdVlrVmt6TXZvQnlTWlFQb1hVOGdWZGFUdE1YSHZHa1pad2RWVjY5dlFBMlBoR2hlRGhvU2laSHlvek1KdmRoLXI0NHpEVS1PalZFZzM0TDZMSFdaWlVGVE1YUnpxazlWbkVSM2RLa0l4UUhpbDAxRW0yaEZ0RXB6bEhqSmFpU0xsdm9HU2tHaGJIdHNzWHJVVWZ2dnE1ZDBDcmtYSi1WNExiTlZzRXc?oc=5",
-      "source": "Mingtiandi",
-      "date": "2026-09-06",
-      "summary": "Goodman Group Wins Government Approval for $1B Data Centre in Sydney’s North &nbsp;&nbsp; Mingtiandi",
-      "categories": [
-        "buildouts"
-      ],
-      "geography": [
-        "NSW"
-      ],
-      "horizon": "now",
-      "id": "gn-goodman-group-wins-government-approval-for-1b-data-centre-in-sydney-s-north-ming"
-    },
-    {
-      "title": "Patient data privacy: A guide for Australian doctors using AI - insightplus.mja.com.au",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNR29GLTI5ZUNnUmhPRDY1WUd3c3pEall6VDRZbktrVVNCSlF4d0Fra2d2TDBXdnhnejRYZXpuczJqQ3pIcjU4TmI4MERHelExTFBYRVk3MjZiTzZuQTJfSWRoUkhmcWtlWmpaTmZvY001eUFLREp6UlkyX205N3FOczJyTFc1T0JfbmVCcXdnanpqZnd2bkFMM01YOU1OZ2Y5YmdITmd1OWF2Z09Rc2NydUQ0OWdPMnF1TDhGUGE2Wmp2UExiX2FJ?oc=5",
-      "source": "insightplus.mja.com.au",
-      "date": "2026-09-06",
-      "summary": "Patient data privacy: A guide for Australian doctors using AI &nbsp;&nbsp; insightplus.mja.com.au",
-      "categories": [
-        "current"
-      ],
-      "geography": [
-        "National"
-      ],
-      "horizon": "now",
-      "id": "gn-patient-data-privacy-a-guide-for-australian-doctors-using-ai-insightplus-mja-com"
     },
     {
       "id": "seed-nsw-pipeline",
