@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-16T15:37:48+00:00",
+  "updated": "2026-09-16T20:30:03+00:00",
   "items": [
     {
       "title": "Australia news LIVE: Interest rates, inflation fears grow ahead of integeneration report release; Nvidia boss Jensen Huang rejects AI regulation; Trump attacks US Supreme Court after mail-in voting changes rejection - The Age",
@@ -453,6 +453,111 @@
       ],
       "horizon": "future",
       "id": "gn-leaked-ai-copyright-proposal-triggers-political-firestorm-abc-net-au"
+    },
+    {
+      "title": "Everything Australians put online could be scraped for AI under proposed new rules. How will you be affected? - The Guardian",
+      "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPQ0dCRTJDb3pYZGtOb3ZvRHA1Tjc3VDFGRGNkX245RHJ4UkFEOEVyaXIwc2lLU0EwM3gxRDZOWkljNURRelJHLTY0MzJlQ1hLZ2syMG8yZ2FfUEoyYklyYW5TVDdIQkJJdzdnUUNoYkxEdzZDUkI3ME5jMGtIRTR2di0zNVpSRGluOUROZGhPNEdNd3NldFQtR3dfdlBrcE9iMDkxWEt2WlBKU1VJQWcwQkgzWEdFMWRodVRVNzFmZ3BMSHcxZG82bFRfQ1BraUdOTHh5LWF5Y1FOeGNwWTRaVHBSSlQwNERIQUI1MnYxcmpKNVps?oc=5",
+      "source": "The Guardian",
+      "date": "2026-09-16",
+      "summary": "Everything Australians put online could be scraped for AI under proposed new rules. How will you be affected? &nbsp;&nbsp; The Guardian    Labor accused of throwing creatives ‘under the bus’ with proposal to ease copyright protections for AI giants &nbsp;&nbsp; The Guardian    Au",
+      "categories": [
+        "current"
+      ],
+      "geography": [
+        "National"
+      ],
+      "horizon": "future",
+      "id": "gn-everything-australians-put-online-could-be-scraped-for-ai-under-proposed-new-rul"
+    },
+    {
+      "title": "Tech leaders’ safety alert our last chance to reset AI trajectory - AFR",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQTFA5UTlzNzdfcU9BeXFRZjVBcnRjY1k0WnBHY0V2M0xXcjlaaHpKaWNUZnFsY3R5blJMVHN2OUM3b1VqWV9yMnp4RjBuTk41SHhTa205S0EtamNjdG5qYkFpTTZrR29teFpLU19UWUdFZmdMREZUYlZ2VVRUaUlFSEl0M0k3MEVaR3ZmT2Y2YUZpa2dNRGctZWs3WG1JX09BTmxSWGJhWHhxUXhRaVFnVA?oc=5",
+      "source": "AFR",
+      "date": "2026-09-16",
+      "summary": "Tech leaders’ safety alert our last chance to reset AI trajectory &nbsp;&nbsp; AFR",
+      "categories": [
+        "current"
+      ],
+      "geography": [
+        "National"
+      ],
+      "horizon": "now",
+      "id": "gn-tech-leaders-safety-alert-our-last-chance-to-reset-ai-trajectory-afr"
+    },
+    {
+      "title": "VIDEO: Christopher Pyne and Bill Shorten analyse artificial intelligence - ABC News & Headlines – Australian Broadcasting Corporation",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOUHBaTzd4XzMxS3Z2bmZyNGV6TDJrdU81dVM5aUNRdU9CWmlmTDVIcV83UnpGUF81NXhxakZHMXZHb3lnb04tSFVIekRsNlVXRUVnaHZMRWctbm0zSHhQMS15b1pSYzFOSDFBVEYxM194dGxlNzI1RVRmdHFoZDFoYXNiYUhJTXM4YkI5dnladm5SRW1LS2FBbDFYQUNfc2tjMnBra1dZUFhOQk8tOXpZ?oc=5",
+      "source": "ABC News & Headlines – Australian Broadcasting Corporation",
+      "date": "2026-09-16",
+      "summary": "VIDEO: Christopher Pyne and Bill Shorten analyse artificial intelligence &nbsp;&nbsp; ABC News & Headlines – Australian Broadcasting Corporation",
+      "categories": [
+        "current"
+      ],
+      "geography": [
+        "National"
+      ],
+      "horizon": "now",
+      "id": "gn-video-christopher-pyne-and-bill-shorten-analyse-artificial-intelligence-abc-news"
+    },
+    {
+      "title": "Experts welcome tech bill, call for global AI rules - canberratimes.com.au",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQU2JqOU1NRDQxSk1JdmxibEs4Z1FWNkdzZDZiUXJHQWpSUk5HUEQxQzlTNFJNYkFHTHhsVXB2WS1PODByRkxzR1RGbHI2NVBXQXdQdHF0VGVTT0I5T3FBSGtJNXE2R0RpVG9TVk1GemdVNjhmX2syeDhjbVRJQXNMd3NFYmFVU0o4X0tsZmJnWkVNbGxyQ1hFTVRJLUt0cjg?oc=5",
+      "source": "canberratimes.com.au",
+      "date": "2026-09-16",
+      "summary": "Experts welcome tech bill, call for global AI rules &nbsp;&nbsp; canberratimes.com.au",
+      "categories": [
+        "current"
+      ],
+      "geography": [
+        "ACT"
+      ],
+      "horizon": "now",
+      "id": "gn-experts-welcome-tech-bill-call-for-global-ai-rules-canberratimes-com-au"
+    },
+    {
+      "title": "The challenge of dealing with the opportunities- and threats- of AI - SBS",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPazhwWGlEN1lZU3lJdGs4Y19tY2Z0aDZ3bUc3SG15TUIxT2J1WkJocXRPUkxTeUVJbERzUEJWaUpaNWdDUkpWYUJaVXNUUWpnTlNrazBJT2NWWG9zZVJQZHVhaEtmcmNPa21kTlNQb3Zhanp1T0xMRXZaS0FiOC04R1JfX2JlSVBFOGtKb1d6U2tISEtjX0tTVzlBZkJKd3U3SmNadEhETTNLbzhZVHVXZDRydTZaLTRad1ZF?oc=5",
+      "source": "SBS",
+      "date": "2026-09-16",
+      "summary": "The challenge of dealing with the opportunities- and threats- of AI &nbsp;&nbsp; SBS",
+      "categories": [
+        "current"
+      ],
+      "geography": [
+        "National"
+      ],
+      "horizon": "now",
+      "id": "gn-the-challenge-of-dealing-with-the-opportunities-and-threats-of-ai-sbs"
+    },
+    {
+      "title": "Anthropic signs first Australia data centre agreement - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQSEhGaHJBc1VaTTFUb2VvQ1h0X0NWNVJwVl9sc0pCU1dEcmxkS2pHZnlGNUlyNmEzby1uUDBqb1draWJqNHV3c1RRVWx1T0tNMjVweXk1REJXaVNJUEtiTUVkbVlpMy1fZUZZMnBGOXNGVmNrLVYtdXZydmdnbGxRcWNPTmJRVnAyVjMyVldtLWRhcnVSQ0xRRHZ0ek9PV09SZV8zdjVLcF9BeEFp?oc=5",
+      "source": "Reuters",
+      "date": "2026-09-16",
+      "summary": "Anthropic signs first Australia data centre agreement &nbsp;&nbsp; Reuters",
+      "categories": [
+        "buildouts"
+      ],
+      "geography": [
+        "National"
+      ],
+      "horizon": "now",
+      "id": "gn-anthropic-signs-first-australia-data-centre-agreement-reuters"
+    },
+    {
+      "title": "Anthropic signs deal for Australia data centre: Government - straitstimes.com",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPbFhkY3hieU1CWE1hNjBPRGMxWmJiRGhURWNPdW42eHdCck5NZzRWUEszMGJQTVdYLTk3b2R3RzNQZWtIOWZpT0JnUzBURnYtRmN1TmdXUFVqN2ZwbzNsSExnTWhQNFJQSmJmT0NqSVhMakUweWpYNEJ0eTJHakgyYkNjS19yOFI2RzRxY253R2VfSm55QmZkQUpiMTFBY3VhVFRScTNR?oc=5",
+      "source": "straitstimes.com",
+      "date": "2026-09-16",
+      "summary": "Anthropic signs deal for Australia data centre: Government &nbsp;&nbsp; straitstimes.com",
+      "categories": [
+        "buildouts"
+      ],
+      "geography": [
+        "National"
+      ],
+      "horizon": "now",
+      "id": "gn-anthropic-signs-deal-for-australia-data-centre-government-straitstimes-com"
     },
     {
       "title": "AI risk is ‘deadly serious’, not far from ‘real-world crisis’: Rudd - AFR",
@@ -2115,6 +2220,37 @@
       "id": "gn-submission-to-joint-select-committee-on-artificial-intelligence-digital-rights-w"
     },
     {
+      "title": "AI boom to drive long-term growth, but it won’t be linear - professionalplanner.com.au",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQZUNERlpNQkFUNGFyWXlIWXBKRDFHTk9BV0ttcjB5cTFqNkdxeEFwQWZPMC1zNUc0alR0S0pKYV9CdUg5SERFM0xqMnFDZ1pnRlhtUy1vUXNqOTFmYlRjMm53VWNnZm5Xa2hTQnprZUpFTm1ORXI5WWl3NHVLdzZ6OTc4elFvSlNFUnEyUjQ1VnhCY2g2WGFYTV90NHhNT242X0E3Uk1B?oc=5",
+      "source": "professionalplanner.com.au",
+      "date": "2026-09-14",
+      "summary": "AI boom to drive long-term growth, but it won’t be linear &nbsp;&nbsp; professionalplanner.com.au",
+      "categories": [
+        "investments"
+      ],
+      "geography": [
+        "National"
+      ],
+      "horizon": "now",
+      "id": "gn-ai-boom-to-drive-long-term-growth-but-it-won-t-be-linear-professionalplanner-com"
+    },
+    {
+      "title": "Data centres in Australia: your questions answered - The University of Western Australia",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQd1hMNjBzVVpEdEpYbTVkWDF2RVhGekREQWVoeHVWTzFwcFZoaV9ia1ZwSDVFNkc4RWRDNlJuQ25ySlNjWVFaOV9YZTJSajZXdVVUQWZpOUdDem5zRllfSjJNSjFqLWNVR1pCc0RXazZ3NjNRRW9PQ3pNbmF3UXJSQ28wTFVYRFU1SjEzWHZNYVBhRno3OFBpNnhEcnZOTk5DTFE?oc=5",
+      "source": "The University of Western Australia",
+      "date": "2026-09-14",
+      "summary": "Data centres in Australia: your questions answered &nbsp;&nbsp; The University of Western Australia",
+      "categories": [
+        "buildouts"
+      ],
+      "geography": [
+        "NSW",
+        "WA"
+      ],
+      "horizon": "now",
+      "id": "gn-data-centres-in-australia-your-questions-answered-the-university-of-western-aust"
+    },
+    {
       "title": "‘It’s alarming’: governments urged to step up oversight of AI safety - AFR",
       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOa0ZRRm0zREtCVVQxVlB2Y1lpRm9SdGJNcVFuSVFHOEcxSVh5TFpucU1KT1c0SnJabV9aUkQwT2l6ei1ZX0lfclFaRzBYTmFMSWZqejUyNms5QlA4NF9GVk82Mk1VOHdxVjhlZ2RYRHdtUEJpWnhsN2RzaS03SzdUNEhJSnRnajNaMVhScHpOSDJvUzhlNjl0enVldFdiTUZhR2w2Q0txVGtPb2VuWS1TYUNn?oc=5",
       "source": "AFR",
@@ -2353,6 +2489,37 @@
       ],
       "horizon": "now",
       "id": "gn-data-centres-in-australia-your-questions-answered-the-conversation"
+    },
+    {
+      "title": "Data centres have existed for decades. So why are they so controversial now? - theconversation.com",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxObVg2eXdJUjVSZ0pncG1mRXl6WVhINTc2MUVtdDJqVWEzWG1lRHlUQm56T1ZYY1NrSGRsV0ltR0dRU2Nwd25aSm5uNTY0ZEo3QnJKcTlPbERFTmJjajV3MWpfOUlVbW55a25lWmZBZnJpbTZSVk5keHZERVhkLW1DdFVwNF9mRndSN1ppbTlwTmM4NnlDMUFKaDkzbGVyOHE5NDVhRmZwRjNZQmR5U0E?oc=5",
+      "source": "theconversation.com",
+      "date": "2026-09-13",
+      "summary": "Data centres have existed for decades. So why are they so controversial now? &nbsp;&nbsp; theconversation.com",
+      "categories": [
+        "buildouts"
+      ],
+      "geography": [
+        "National"
+      ],
+      "horizon": "now",
+      "id": "gn-data-centres-have-existed-for-decades-so-why-are-they-so-controversial-now-theco"
+    },
+    {
+      "title": "Data centres in Australia: your questions answered - theconversation.com",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNM0JFWTdyX0lWS3JEUklUOHIwMUlRM0VVZVlFYnVCNlRSVl9jdk1QTkdJRlQ1eTBlUEFOR0VNVFBmVmdHWlVVeWczSVBJY0JTY3JlUzJ4eDY4QlNta2taRHdGb0w5ZTJNOUVsclJEM1E0aGwwVHNZUjk0M2NMNkFLYTJ3Y0VVUEQ3ZlJmbw?oc=5",
+      "source": "theconversation.com",
+      "date": "2026-09-13",
+      "summary": "Data centres in Australia: your questions answered &nbsp;&nbsp; theconversation.com",
+      "categories": [
+        "buildouts",
+        "policy"
+      ],
+      "geography": [
+        "NSW"
+      ],
+      "horizon": "now",
+      "id": "gn-data-centres-in-australia-your-questions-answered-theconversation-com"
     },
     {
       "title": "Is AI Undermining the Human Foundations of Innovation? - Psychology Today",
@@ -3603,176 +3770,6 @@
       ],
       "horizon": "now",
       "id": "gn-tsmc-mediatek-sales-surge-as-ai-chip-demand-stays-strong-capital-brief"
-    },
-    {
-      "title": "AI fire detection camera switched on at Mount Crawford - theindiansun.com.au",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOdENwdGI5N3VwZXVkb2tGQkJHQkN6U3lZYVl1LWxSeWdtV2dCY01CaDF4N2tGdXZwSTVUWHFwUFRlUW1meUNPdW9KZlU4WDc1OVlIaGlFMnZ0b3lWSVZhcGxCZ3E4a3ZPMmVoQWFEaWpvTzR0c0drWHBYaktKUUFoSnJDT0Q3aFhaZndlaUNTeW5fdWMySkkxSUVuaUpjbEU?oc=5",
-      "source": "theindiansun.com.au",
-      "date": "2026-09-10",
-      "summary": "AI fire detection camera switched on at Mount Crawford &nbsp;&nbsp; theindiansun.com.au",
-      "categories": [
-        "current"
-      ],
-      "geography": [
-        "National"
-      ],
-      "horizon": "now",
-      "id": "gn-ai-fire-detection-camera-switched-on-at-mount-crawford-theindiansun-com-au"
-    },
-    {
-      "title": "Four Aussie and Kiwi startups that raised $21.5 million this week - SmartCompany",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNeU5zSmpLbEF6bDNKOUdlY21jUTU2d2VCR1E0QmVCNWR0OXlYWnFMZ2hqRUNHdmR1Z2JpV3hlWTJWenFDUl92aW1nVWFRdnBxU3VpZUpfaTM0d3Q5R3p5VUo1X2VKV3ZwM3VHU0hrQ3NCNzAyT2lWbjJsY2ctZkxfQW8yU0wtRXJQakQxSVlIaFhDOTFqcFdYWVZVWENLcmlXQ0VvNXd0Ymx5U1o1cFJr?oc=5",
-      "source": "SmartCompany",
-      "date": "2026-09-10",
-      "summary": "Four Aussie and Kiwi startups that raised $21.5 million this week &nbsp;&nbsp; SmartCompany",
-      "categories": [
-        "investments",
-        "markets"
-      ],
-      "geography": [
-        "National"
-      ],
-      "horizon": "now",
-      "id": "gn-four-aussie-and-kiwi-startups-that-raised-21-5-million-this-week-smartcompany"
-    },
-    {
-      "title": "Applying a behavioral science view to a doomsday scenario. - psychologytoday.com",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQbzVkVDFvb25CWWNrWkxXWDlQZi05STJnZnZxOTB4LTFnRC1fSFhvWkRXMGIteG04dFh1a1FHQ2h4NnJ3cUh5U1ZMUkNQcFE2dVl3ZjJFbThOMDBtZFJRUmNiQXY3aGJLcHNDNHU5ZGNvZUxOcjg2Qm83YmZUOHdCMXZ4RGM1RzVfN0HSAY8BQVVfeXFMUEh6c0FXNFQtRlFYdmgxQ1dFVkE5bUE0WEVjOXZDVGxjcWdMQTFBN2NHT2YtM1l6WTJGa1FYU1BZd1RKdkNTeEVmVlRGdXJ4b0xBelhZcWtIZjFhN3JlaTFlQU1JYWxhUjE0Q1d2OXNTaGItelhPME04NmVGWkVUVTEwMHNjT1ZtRjRYMmJ6NkU?oc=5",
-      "source": "psychologytoday.com",
-      "date": "2026-09-10",
-      "summary": "Applying a behavioral science view to a doomsday scenario. &nbsp;&nbsp; psychologytoday.com",
-      "categories": [
-        "current"
-      ],
-      "geography": [
-        "National"
-      ],
-      "horizon": "now",
-      "id": "gn-applying-a-behavioral-science-view-to-a-doomsday-scenario-psychologytoday-com"
-    },
-    {
-      "title": "The ASX stocks cashing in on AI’s infrastructure boom - The Nightly",
-      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQWGJROGF6SEhKT3ZWSEFUS01vcEN1ay1Mb3RQa2tkNHRHZnpYX2wzUDI1UjlqbDVKT1JNYUNFT1ZEY2pYNGZEQmtHNDZmSDRoUWNXLW1WM0dtNDktdThSdWlSYkh3UkE1Vk55cVg4bmlvSnVQaDl4NGtVVXJiWTdNVjJZRS1kUTBNUmZuSEhjaHdyNTNWcnVQX3pGbFROeWxabXM3ZW9KbTUzeU9GdUxONUZPdDlSckVfLW83ZEU3RVRmNkdQb3BCaXFFRDNkOTIzXzFGbjI5bGI3dWNoR1RzLXdyQQ?oc=5",
-      "source": "The Nightly",
-      "date": "2026-09-10",
-      "summary": "The ASX stocks cashing in on AI’s infrastructure boom &nbsp;&nbsp; The Nightly",
-      "categories": [
-        "buildouts",
-        "investments",
-        "markets"
-      ],
-      "geography": [
-        "National"
-      ],
-      "horizon": "now",
-      "id": "gn-the-asx-stocks-cashing-in-on-ai-s-infrastructure-boom-the-nightly"
-    },
-    {
-      "title": "News Australia puts trust before AI in travel push - Mediaweek",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQWUx3WUloakQya0ZtSktTT0Qwd1liZFpjRWUyUFpSd3Bobjk3b1ZBMGFfcHctYTFtcExnazAxTFRfSWRaTlR5RkxaOFRoclBJWk5FVmZ4Vk5YT2xMdGZiZllCdEpCeUpYdnpwa1RLa0tYYkEtUEFzUHB5cjE0TXZwRUppU2pPdllCN29Bd0NZN055cXkzdGVIRlhSUmZGVm5ISFd3aXEyVjdnWlV5WXhuSHdNMEY?oc=5",
-      "source": "Mediaweek",
-      "date": "2026-09-10",
-      "summary": "News Australia puts trust before AI in travel push &nbsp;&nbsp; Mediaweek",
-      "categories": [
-        "current"
-      ],
-      "geography": [
-        "National"
-      ],
-      "horizon": "now",
-      "id": "gn-news-australia-puts-trust-before-ai-in-travel-push-mediaweek"
-    },
-    {
-      "title": "Four Aussie and Kiwi startups that raised $21.5 million this week - smartcompany.com.au",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNeU5zSmpLbEF6bDNKOUdlY21jUTU2d2VCR1E0QmVCNWR0OXlYWnFMZ2hqRUNHdmR1Z2JpV3hlWTJWenFDUl92aW1nVWFRdnBxU3VpZUpfaTM0d3Q5R3p5VUo1X2VKV3ZwM3VHU0hrQ3NCNzAyT2lWbjJsY2ctZkxfQW8yU0wtRXJQakQxSVlIaFhDOTFqcFdYWVZVWENLcmlXQ0VvNXd0Ymx5U1o1cFJr?oc=5",
-      "source": "smartcompany.com.au",
-      "date": "2026-09-10",
-      "summary": "Four Aussie and Kiwi startups that raised $21.5 million this week &nbsp;&nbsp; smartcompany.com.au",
-      "categories": [
-        "investments",
-        "markets"
-      ],
-      "geography": [
-        "National"
-      ],
-      "horizon": "now",
-      "id": "gn-four-aussie-and-kiwi-startups-that-raised-21-5-million-this-week-smartcompany-co"
-    },
-    {
-      "title": "SCX.ai (ASX:SCX): Sovereign AI Infrastructure Targets Australian Enterprises Demanding Local Data Control - Kalkine",
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQNjVNZzdZalowNjJ6SEZkLWRQZ0dHUDVHZ1BCTUZPTVYtZGZvN01tN1BFNTFkd1RUYktBYk1RZHVqRzhOYkxrRzlWTHpLckUydVVDZzAwZFlubTRCell4VmRxWkV1ZEFtMGN0c0NFekZxQVVXYzNVTmFVMzJfb2RHNE1Ed3VDaFVjUE5NWW5lcE9lQy1BYm0wMjZGSVVrTlFUMk9SMlpDU0VsUGRITjkyVEZZODFaTmtjV2NMVU9aTXZybnNvaXoya0x4NW1iUjROeDNvbm5R?oc=5",
-      "source": "Kalkine",
-      "date": "2026-09-09",
-      "summary": "SCX.ai (ASX:SCX): Sovereign AI Infrastructure Targets Australian Enterprises Demanding Local Data Control &nbsp;&nbsp; Kalkine",
-      "categories": [
-        "buildouts",
-        "markets"
-      ],
-      "geography": [
-        "National"
-      ],
-      "horizon": "now",
-      "id": "gn-scx-ai-asx-scx-sovereign-ai-infrastructure-targets-australian-enterprises-demand"
-    },
-    {
-      "title": "Why Australia’s $65b quant investing king is an AI sceptic - AFR",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNNUREeE9xd1BfWG5PZnBwQ2NwbUpFenYtbzZtLWJ2QWNCdVJmbnhhbEU2SnFLSFd6clZYTkhoUXkxU3hMNE1vbDJlUWRfUnBxdWpybG4tWTgwX3hoZUVDOG5OZmtrQkdjb2c3WHNwa3RDRklIR3BJWUEwSkNHVXVrTDJHTEpqeEp4aGc3eWRmdFJqMHBfbU1vUmJwdE5NWTdIMzVHM2h0VUE?oc=5",
-      "source": "AFR",
-      "date": "2026-09-09",
-      "summary": "Why Australia’s $65b quant investing king is an AI sceptic &nbsp;&nbsp; AFR",
-      "categories": [
-        "investments"
-      ],
-      "geography": [
-        "National"
-      ],
-      "horizon": "now",
-      "id": "gn-why-australia-s-65b-quant-investing-king-is-an-ai-sceptic-afr"
-    },
-    {
-      "title": "AI Washing Concerns Mount for Australian Companies - Sharecafe",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNdnNIcTFLZnRKanlkdjZxVGNaWndrcUhVYTlIR1YxWUpUY0dOSmFUdHlIUjZldS1aNzNVVURyYnhJa1N2bGMzc25Bc0UxeWtRbWFMNmxSd1JqTk56WWdQUlFuSWlqaWE3UEg5NWRJSTA2ZTNyS3U1c2s2eUVteE4tTkVXTm5ZTGtOWkt2UElUclA2c2plSVE?oc=5",
-      "source": "Sharecafe",
-      "date": "2026-09-09",
-      "summary": "AI Washing Concerns Mount for Australian Companies &nbsp;&nbsp; Sharecafe",
-      "categories": [
-        "current"
-      ],
-      "geography": [
-        "National"
-      ],
-      "horizon": "now",
-      "id": "gn-ai-washing-concerns-mount-for-australian-companies-sharecafe"
-    },
-    {
-      "title": "Grace Chung named grand winner in Women in AI awards - ChannelLife Australia",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPVndDaGo1RW0zbUtna254bnpnVWRRZUVqQ0xsRnJfYW9vYTVwTHlmd0tfNTRJMmFpSFR1R2xSYXdsWkVldEo4MkxYeVI1djBMZVZUTVdLRmVOTlBtQm8xLUFBZmVIRXlDZGxLNktJUkxSS2lrNGdtSWdVd1pDd0dnS2JkRWkyc1hMSFYydlJB?oc=5",
-      "source": "ChannelLife Australia",
-      "date": "2026-09-09",
-      "summary": "Grace Chung named grand winner in Women in AI awards &nbsp;&nbsp; ChannelLife Australia",
-      "categories": [
-        "current"
-      ],
-      "geography": [
-        "National"
-      ],
-      "horizon": "now",
-      "id": "gn-grace-chung-named-grand-winner-in-women-in-ai-awards-channellife-australia"
-    },
-    {
-      "title": "AI data exposure ranks second among AI security incidents in Australia and New Zealand - Australian Cyber Security Magazine",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPZ2NselFJYjZ1eEt0Z1d3MUVOMmFNTXdhamR3ZWcxNVVXMFh2b2JlazhjSlREQW1FeXZaeG1YUGRYTnZOdWN4VnVrM3VDS29pbjhBNXJzemhtODcxT0tfeEVEV1hYTVA4cFJQZW92OU1aT2lrdGY0SElOUkh3b0JrZTdSTW0xSVAyUzNZbWs2YjJlNF9fMnFDeVY0VlR2X01RUjBfeFFReloyVFduYVBtTVg4VzVOS3lSUDRzdmh6VEtRaEVuMWxtRVozTUxidUk?oc=5",
-      "source": "Australian Cyber Security Magazine",
-      "date": "2026-09-09",
-      "summary": "AI data exposure ranks second among AI security incidents in Australia and New Zealand &nbsp;&nbsp; Australian Cyber Security Magazine",
-      "categories": [
-        "current"
-      ],
-      "geography": [
-        "National"
-      ],
-      "horizon": "now",
-      "id": "gn-ai-data-exposure-ranks-second-among-ai-security-incidents-in-australia-and-new-z"
     },
     {
       "id": "seed-nsw-pipeline",
