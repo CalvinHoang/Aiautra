@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-16T20:30:03+00:00",
+  "updated": "2026-09-17T01:57:22+00:00",
   "items": [
     {
       "title": "Australia news LIVE: Interest rates, inflation fears grow ahead of integeneration report release; Nvidia boss Jensen Huang rejects AI regulation; Trump attacks US Supreme Court after mail-in voting changes rejection - The Age",
@@ -558,6 +558,186 @@
       ],
       "horizon": "now",
       "id": "gn-anthropic-signs-deal-for-australia-data-centre-government-straitstimes-com"
+    },
+    {
+      "title": "AI creating more unpaid work - The Australian",
+      "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPaGlYYjdUWUJWTE1jbE93Q2RvaU1lWmlubW5sd1ZJVG9NXy0wUTNyXy16VF85RkVlTFBSQk9TMnRsV0Znb1FUSjR1dE5XMkVRcDNBNXdjR2o1SExGU0tXX2pRQkNQNWEyVjBVcXk2eFp1LXExa3dOWDdVUEM5OG0zcEprSG9fem44TnRUNmdJek9MM0haNVZDbWNYM0lpcTFuWUFQSkJVWUVNZ0w1LUdfWGZSdmk3T01iTUhMMHo1SkxlTk5WMHE5MEJwbkc4a283Q0FCbGVKR2VScWdqS2JIZUNKdGtvVmF6bzUwVjZyM2RPRC04?oc=5",
+      "source": "The Australian",
+      "date": "2026-09-16",
+      "summary": "AI creating more unpaid work &nbsp;&nbsp; The Australian",
+      "categories": [
+        "current"
+      ],
+      "geography": [
+        "National"
+      ],
+      "horizon": "now",
+      "id": "gn-ai-creating-more-unpaid-work-the-australian"
+    },
+    {
+      "title": "Anthropic signs deal for Queensland mega data centre - The Australian",
+      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOdmN2RzhZMjBzX3ZCY3FKY3Y3VWo2MTZOMS1HSXBjM09oeERLdnNGSnhTSEtXQVF2UGk1RDNFYl96cWUzOV9FZEVTbXBMdjZUQlJHVXUzRkthN29QR1hhT0QxMDA1ZnBKYmlzTzBHLWdkWGlraUtLRFFpNjZWSE9lU1MyM21mWVdjdGFPY2ZtUndlS05RNW9xUUVUdDItM1F4Q2Q5NDkySngwRVdjc2JNcnZHR29yV0NwZ0lpUTl0dHZOVmVaRmUwZnRXSFVnd09tUmMxWjJSOGx3WGVCUjBlbnln?oc=5",
+      "source": "The Australian",
+      "date": "2026-09-16",
+      "summary": "Anthropic signs deal for Queensland mega data centre &nbsp;&nbsp; The Australian",
+      "categories": [
+        "buildouts"
+      ],
+      "geography": [
+        "QLD"
+      ],
+      "horizon": "now",
+      "id": "gn-anthropic-signs-deal-for-queensland-mega-data-centre-the-australian"
+    },
+    {
+      "title": "AI speeds up cyber attacks on ageing systems, experts warn - SecurityBrief Australia",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQYWdYekhHYkxvSWJEdVlMcGR4LUVsclFEN0p0dUFWVkRrdUlBZGp1cXA5SWdyaTNGRG9NVkJxSEc0eElVR29ma3lnSVlyY21HQ1Zia3hjR0JYQ2J2TUNDUG1aS2FqejJ4Z1V5bEs3aFJPcmRObEo1M19RRWNwWkpvTUdKQWp4WWVLZVNPdkZadURwVUhjaTR3?oc=5",
+      "source": "SecurityBrief Australia",
+      "date": "2026-09-16",
+      "summary": "AI speeds up cyber attacks on ageing systems, experts warn &nbsp;&nbsp; SecurityBrief Australia",
+      "categories": [
+        "current"
+      ],
+      "geography": [
+        "National"
+      ],
+      "horizon": "now",
+      "id": "gn-ai-speeds-up-cyber-attacks-on-ageing-systems-experts-warn-securitybrief-australi"
+    },
+    {
+      "title": "Experts welcome tech bill, call for global AI rules - The Canberra Times",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQU2JqOU1NRDQxSk1JdmxibEs4Z1FWNkdzZDZiUXJHQWpSUk5HUEQxQzlTNFJNYkFHTHhsVXB2WS1PODByRkxzR1RGbHI2NVBXQXdQdHF0VGVTT0I5T3FBSGtJNXE2R0RpVG9TVk1GemdVNjhmX2syeDhjbVRJQXNMd3NFYmFVU0o4X0tsZmJnWkVNbGxyQ1hFTVRJLUt0cjg?oc=5",
+      "source": "The Canberra Times",
+      "date": "2026-09-16",
+      "summary": "Experts welcome tech bill, call for global AI rules &nbsp;&nbsp; The Canberra Times",
+      "categories": [
+        "current"
+      ],
+      "geography": [
+        "ACT"
+      ],
+      "horizon": "now",
+      "id": "gn-experts-welcome-tech-bill-call-for-global-ai-rules-the-canberra-times"
+    },
+    {
+      "title": "Anthropic signs first Australian data centre agreement - iTnews",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxORlNCY2lLNGt3R09DcVdLSHl4RHpROFZvcWJRU3FPVjE4WUNOT2ZpUERMSkJkM1Rwck9LWGwwdG9zdEQ2NjBYLWJNb1FERHZmVmlpMG1OU0h5OHVJN2ZpTVBKUDYyT29hQ1JTV3NWc1ZYX3V3R3hFQzlWcGdFRkFnRkliamlfQkpNMDF5N3lHTURhelpUQTNZ?oc=5",
+      "source": "iTnews",
+      "date": "2026-09-16",
+      "summary": "Anthropic signs first Australian data centre agreement &nbsp;&nbsp; iTnews",
+      "categories": [
+        "buildouts"
+      ],
+      "geography": [
+        "National"
+      ],
+      "horizon": "now",
+      "id": "gn-anthropic-signs-first-australian-data-centre-agreement-itnews"
+    },
+    {
+      "title": "Cohesity report finds 2% of Australian organisations prepared for frontier AI cyberattacks - Australian Cyber Security Magazine",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQSGNmN0VhN1FWQS1FNVZYTW9tSlRtV0w5TGJIOUFSZDJOVE5Ub2dKNVU2Yi1pWXFobk9WYV9PaHlfc2RfZ0QxRmNVYUE4ZVNTNm80YUoxdERUTTB2M2MwcXlFb0Via0lrdm9MMkRnTlY2VDZMLXpNcmJhTjE3RDNsZHNHSWQ5S3FJU1JfdzBGY3g3WEpRTjBYckhZYzZkX0lLVjRBRGdkSHY4TW5fS3V5VWF3T0VNbHY0dmgxNHRGNndDSGxyYTBxdXVSa0I0R1gtN1c0?oc=5",
+      "source": "Australian Cyber Security Magazine",
+      "date": "2026-09-16",
+      "summary": "Cohesity report finds 2% of Australian organisations prepared for frontier AI cyberattacks &nbsp;&nbsp; Australian Cyber Security Magazine",
+      "categories": [
+        "current"
+      ],
+      "geography": [
+        "National"
+      ],
+      "horizon": "now",
+      "id": "gn-cohesity-report-finds-2-of-australian-organisations-prepared-for-frontier-ai-cyb"
+    },
+    {
+      "title": "The challenge of dealing with the opportunities- and threats- of AI - sbs.com.au",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPazhwWGlEN1lZU3lJdGs4Y19tY2Z0aDZ3bUc3SG15TUIxT2J1WkJocXRPUkxTeUVJbERzUEJWaUpaNWdDUkpWYUJaVXNUUWpnTlNrazBJT2NWWG9zZVJQZHVhaEtmcmNPa21kTlNQb3Zhanp1T0xMRXZaS0FiOC04R1JfX2JlSVBFOGtKb1d6U2tISEtjX0tTVzlBZkJKd3U3SmNadEhETTNLbzhZVHVXZDRydTZaLTRad1ZF?oc=5",
+      "source": "sbs.com.au",
+      "date": "2026-09-16",
+      "summary": "The challenge of dealing with the opportunities- and threats- of AI &nbsp;&nbsp; sbs.com.au",
+      "categories": [
+        "current"
+      ],
+      "geography": [
+        "National"
+      ],
+      "horizon": "now",
+      "id": "gn-the-challenge-of-dealing-with-the-opportunities-and-threats-of-ai-sbs-com-au"
+    },
+    {
+      "title": "Anthropic plans to use Australia's largest data centre in regional Qld - ABC listen - ABC News & Headlines – Australian Broadcasting Corporation",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQRktaeGhiSzM1RDJYWFZoRWxKWE1nSTY0bFJlbzJjcFA3anBweUZ2bUJaRW1NUkxwaUowRUdnd05XNm42UDlmX1FubVBSd1VFVFNpQUw3UFBBZ2tNX1puT0l2bHZfUjhwTUg3Y2FYejRRdGhobVFtMG5yOG5tUGc4bHJwamJCLUZOU1dXYkNnZHZWSERVWGFsYi1sN0JnN3FHaGkxZVpIdVptNDNJUGhlUGxFOXdqTkJhV1h4S3pSSnQ?oc=5",
+      "source": "ABC News & Headlines – Australian Broadcasting Corporation",
+      "date": "2026-09-16",
+      "summary": "Anthropic plans to use Australia's largest data centre in regional Qld - ABC listen &nbsp;&nbsp; ABC News & Headlines – Australian Broadcasting Corporation",
+      "categories": [
+        "buildouts"
+      ],
+      "geography": [
+        "National"
+      ],
+      "horizon": "future",
+      "id": "gn-anthropic-plans-to-use-australia-s-largest-data-centre-in-regional-qld-abc-liste"
+    },
+    {
+      "title": "XChange Australia 2026: Partners look beyond AI hype for profitability - CRN Australia",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOR2xCNXJIUTFWOXUxdlR4V08yNTMydFdNNGRPMmh3ZXRSRmZoMkNScFp1QkIzb3dNV3pMelpab2NoY3Flc25jaHNLTnA5aXVNZmlSMHhVaWljbEZTRUd0czBZLW8yOHNKa1dmNnREdGRMWGlxSEtrem9KMFI5cFV6Z3pZc3VLQllTbkl5OWFfa0t5NTMteFdKRkRXMTBRMEhGUlpFTXF6blpFMFJkV2c0SQ?oc=5",
+      "source": "CRN Australia",
+      "date": "2026-09-16",
+      "summary": "XChange Australia 2026: Partners look beyond AI hype for profitability &nbsp;&nbsp; CRN Australia",
+      "categories": [
+        "current"
+      ],
+      "geography": [
+        "National"
+      ],
+      "horizon": "now",
+      "id": "gn-xchange-australia-2026-partners-look-beyond-ai-hype-for-profitability-crn-austra"
+    },
+    {
+      "title": "‘Under the bus’: Artists sound alarm on latest AI copyright proposal - SMH.com.au",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQdDJFcjJydF9yRmFyeEp1NkFXM3NEaFcxNkpMSlhXdGhIcnI1SkN5alhGZ0dxX3ZwTjBLUE1BaWhWUHJBbEdrNm1pWkc5V0N1V1FJM0VjaFVTczR6QnlUYXVDOVlNRzVBSmFSYzd2N2FzY0U3UGpTcjJubnRRMG9vbjVfanU2VkZqaE15QU1ZR29ETG0yN0dJc3ljRE1fMHQ1d2UyTUFSd29UTXk3MmxNaHU4UGtHUVNUaVJIb19MZw?oc=5",
+      "source": "SMH.com.au",
+      "date": "2026-09-16",
+      "summary": "‘Under the bus’: Artists sound alarm on latest AI copyright proposal &nbsp;&nbsp; SMH.com.au",
+      "categories": [
+        "investments"
+      ],
+      "geography": [
+        "National"
+      ],
+      "horizon": "future",
+      "id": "gn-under-the-bus-artists-sound-alarm-on-latest-ai-copyright-proposal-smh-com-au"
+    },
+    {
+      "title": "Anthropic lands massive Queensland data centre deal as copyright debate heats up - SmartCompany",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPWmtkYUZmU0pVUnhLeWl4dGRSc01CYVllYTFTSjI2SFM3SjVkRjRUQkxYdXFtQjZnb1dlMzR3UUMyVGN2cVVvV2lxWlFuT00wLXQ4dVRubmd2NVllRV9hcklxdVR3c05XbS1NWFBPUEloZl9GMVFLTWViZDJUeHFBdldyT2RkcmMzRllHcXFROWpueU9IcEhGRjJsNzNHd1EtSkJlQ0wzU0Zpb3N5c01QVjYtQUxhRVpQSVQ3UWVnQWZpNFl4djZj?oc=5",
+      "source": "SmartCompany",
+      "date": "2026-09-16",
+      "summary": "Anthropic lands massive Queensland data centre deal as copyright debate heats up &nbsp;&nbsp; SmartCompany",
+      "categories": [
+        "buildouts"
+      ],
+      "geography": [
+        "QLD"
+      ],
+      "horizon": "now",
+      "id": "gn-anthropic-lands-massive-queensland-data-centre-deal-as-copyright-debate-heats-up"
+    },
+    {
+      "title": "Anthropic signs deal for Australia data centre: government - The Peninsula Qatar",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPQUFZNkVfbWJtb0cxYlF6bVVHbll5RnFEdS1JTkVKOWhkc2toUEppbnhhVVYyTjZEYWhLZF9Wd0NhVlFYQURjVklIS2UyaVNJNS1SMW9HM29mRVM3aTVwa3BKODhMSThUVzVJRzJmUHdzV3hkWUt0cG1TVFF6dkI4dy1ZZ1dhc015MXM0Tm9KbU9PTE1MVkR2XzNpODlBcFlseXZMMnRkYUpWZw?oc=5",
+      "source": "The Peninsula Qatar",
+      "date": "2026-09-16",
+      "summary": "Anthropic signs deal for Australia data centre: government &nbsp;&nbsp; The Peninsula Qatar",
+      "categories": [
+        "buildouts"
+      ],
+      "geography": [
+        "National"
+      ],
+      "horizon": "now",
+      "id": "gn-anthropic-signs-deal-for-australia-data-centre-government-the-peninsula-qatar"
     },
     {
       "title": "AI risk is ‘deadly serious’, not far from ‘real-world crisis’: Rudd - AFR",
@@ -2251,6 +2431,21 @@
       "id": "gn-data-centres-in-australia-your-questions-answered-the-university-of-western-aust"
     },
     {
+      "title": "Submission to Joint Select Committee on Artificial Intelligence - digitalrightswatch.org.au",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOLVoySzVsV2xmQk5wRjdDcnNoLUIyRVE4ekZEUnR3aXVDeGM4Sm5fYWJZSDJNNE1NRUdzeHJEU3pBQkd1cUowXzExU09uRFkxSGlxbk1YenRsVWxPSU5MV05fSEVUcms5TWgxRkhVdTV2RXlRR3lNS1lTZHF6YS10ME1IOENhYnMwSDU5ODhyZkMyMUs2aC1OVENQN0NtV0R3SEpOeFpoY0tNc20tcHc?oc=5",
+      "source": "digitalrightswatch.org.au",
+      "date": "2026-09-14",
+      "summary": "Submission to Joint Select Committee on Artificial Intelligence &nbsp;&nbsp; digitalrightswatch.org.au",
+      "categories": [
+        "current"
+      ],
+      "geography": [
+        "National"
+      ],
+      "horizon": "now",
+      "id": "gn-submission-to-joint-select-committee-on-artificial-intelligence-digitalrightswat"
+    },
+    {
       "title": "‘It’s alarming’: governments urged to step up oversight of AI safety - AFR",
       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOa0ZRRm0zREtCVVQxVlB2Y1lpRm9SdGJNcVFuSVFHOEcxSVh5TFpucU1KT1c0SnJabV9aUkQwT2l6ei1ZX0lfclFaRzBYTmFMSWZqejUyNms5QlA4NF9GVk82Mk1VOHdxVjhlZ2RYRHdtUEJpWnhsN2RzaS03SzdUNEhJSnRnajNaMVhScHpOSDJvUzhlNjl0enVldFdiTUZhR2w2Q0txVGtPb2VuWS1TYUNn?oc=5",
       "source": "AFR",
@@ -3573,203 +3768,6 @@
       ],
       "horizon": "now",
       "id": "gn-ai-no-match-for-skin-cancer-specialists-in-detecting-melanomas-charles-sturt-uni"
-    },
-    {
-      "title": "How a ‘swarm’ of AI agents hacked another company, in the AI’s own words - ABC News & Headlines – Australian Broadcasting Corporation",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPX2s1ZVBRQ3BZR1VzcWZBUDhjcE52VWROUW9VbVloYlJRdzlpQmNZWG5iOTdlWWVMS2R0U2lpNUg1V243UWpLVmpjOGdQSGM1S3R0NmRweWdVY1NOY1RFd3lGZkZXTDZwYmxUUXhZVnBUWkFucGx1T25OQmtnLWhKbXhXMF9fOXczSjg4NmhtWi1zQ2ZqWVJwcnQwcWJpMnk4SUE5c1o1QQ?oc=5",
-      "source": "ABC News & Headlines – Australian Broadcasting Corporation",
-      "date": "2026-09-10",
-      "summary": "How a ‘swarm’ of AI agents hacked another company, in the AI’s own words &nbsp;&nbsp; ABC News & Headlines – Australian Broadcasting Corporation",
-      "categories": [
-        "current"
-      ],
-      "geography": [
-        "National"
-      ],
-      "horizon": "now",
-      "id": "gn-how-a-swarm-of-ai-agents-hacked-another-company-in-the-ai-s-own-words-abc-news-h"
-    },
-    {
-      "title": "Quartet secures millions for research into AI, emissions, influencers and more | News at Curtin - Curtin University",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQOFNnWExlaVFPd1hDLTJtanpOVzdhdFQyakd6bVp6MWNvOGhIV2hNZm11eUk1bEY5QWJJeEVCTmp0OWlxMDNRZk1jTXF4YXV3cmhYUFNyLVBoazdJOGxSUV9CZzdkdEZneEtMdXN4R3J6Q1pLelRzQWJXN3l4Ty1JaFZrVThDOVFPS19xemo5blA3YU5XbFpYemMzQzZhdDJTTnUtQjdaWHN5b1hhSnlyb21xSE9BRTh2NmFfYi16SQ?oc=5",
-      "source": "Curtin University",
-      "date": "2026-09-10",
-      "summary": "Quartet secures millions for research into AI, emissions, influencers and more | News at Curtin &nbsp;&nbsp; Curtin University",
-      "categories": [
-        "investments"
-      ],
-      "geography": [
-        "National"
-      ],
-      "horizon": "now",
-      "id": "gn-quartet-secures-millions-for-research-into-ai-emissions-influencers-and-more-new"
-    },
-    {
-      "title": "AI no match for skin cancer specialists in detecting melanomas - news.csu.edu.au",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQdFpJRnZ2aENldEt2b0VVTTZFeG03X3RLOXAwV2VOWEZTX2JZSjVTZURKM3RDRktEdWdJenk0cWFXYXNhbTdFRjJKNmNROHp6RURUaUh1dk9INEhCVkl3cGR4V3UtUmN4S3d3NjA3SkxTZGNmdXJzUF9HM09qVDZUNjdyd3F3TG95c1FVN1owYk1lZTFrM1NOeUVKdUpXTGs?oc=5",
-      "source": "news.csu.edu.au",
-      "date": "2026-09-10",
-      "summary": "AI no match for skin cancer specialists in detecting melanomas &nbsp;&nbsp; news.csu.edu.au",
-      "categories": [
-        "current"
-      ],
-      "geography": [
-        "National"
-      ],
-      "horizon": "now",
-      "id": "gn-ai-no-match-for-skin-cancer-specialists-in-detecting-melanomas-news-csu-edu-au"
-    },
-    {
-      "title": "How a ‘swarm’ of AI agents hacked another company, in the AI’s own words - abc.net.au",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPX2s1ZVBRQ3BZR1VzcWZBUDhjcE52VWROUW9VbVloYlJRdzlpQmNZWG5iOTdlWWVMS2R0U2lpNUg1V243UWpLVmpjOGdQSGM1S3R0NmRweWdVY1NOY1RFd3lGZkZXTDZwYmxUUXhZVnBUWkFucGx1T25OQmtnLWhKbXhXMF9fOXczSjg4NmhtWi1zQ2ZqWVJwcnQwcWJpMnk4SUE5c1o1QQ?oc=5",
-      "source": "abc.net.au",
-      "date": "2026-09-10",
-      "summary": "How a ‘swarm’ of AI agents hacked another company, in the AI’s own words &nbsp;&nbsp; abc.net.au",
-      "categories": [
-        "current"
-      ],
-      "geography": [
-        "National"
-      ],
-      "horizon": "now",
-      "id": "gn-how-a-swarm-of-ai-agents-hacked-another-company-in-the-ai-s-own-words-abc-net-au"
-    },
-    {
-      "title": "Bigger and hungrier: What we know about 27 proposed new data centres - abc.net.au",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPZTJVQUJhZE45c2RrMUZUZXJyNVdUZ0o1MzJ1cG9OTmZGTjJmb1o4ajZZVlluYVZER2VSOXRRZFZMUWtWa2daeXZJNzZvZmdzNFBlZllUMDhxYkNnOFFXTmxKOUI4NTRxUEt5TFJtc1d6c2dZbXYwWENXNzBEdF8tcDQwYTlfbjRpUEFXb1ZxSllYcFJwaGZEUllvX1gtR09Ea2hIdmJn?oc=5",
-      "source": "abc.net.au",
-      "date": "2026-09-10",
-      "summary": "Bigger and hungrier: What we know about 27 proposed new data centres &nbsp;&nbsp; abc.net.au",
-      "categories": [
-        "buildouts",
-        "investments"
-      ],
-      "geography": [
-        "National"
-      ],
-      "horizon": "future",
-      "id": "gn-bigger-and-hungrier-what-we-know-about-27-proposed-new-data-centres-abc-net-au"
-    },
-    {
-      "title": "Australia now the world’s third-largest data centre market - ia.acs.org.au",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxObW1SYW9xR3pNdjB3ZW9MM3NmbHdQRjJpb0pXdjFXQ2VaMUF4Z1g2akRzY3FTVnVrTXNjaVJUX2RuRDdkRFJhcXhFdUtiSXZySktUUTVQQlpnVTF1d09FM3JKUmc3Q3VidkdBdkFJSjhrRTZCTW0yY1JkYjBHUUtmTjg5Y0YtVVFON0tSc1htQnBBTTdITUl1YnJpQ2lOZ2s?oc=5",
-      "source": "ia.acs.org.au",
-      "date": "2026-09-10",
-      "summary": "Australia now the world’s third-largest data centre market &nbsp;&nbsp; ia.acs.org.au",
-      "categories": [
-        "buildouts",
-        "markets"
-      ],
-      "geography": [
-        "National"
-      ],
-      "horizon": "now",
-      "id": "gn-australia-now-the-world-s-third-largest-data-centre-market-ia-acs-org-au"
-    },
-    {
-      "title": "Google Cloud and Flinders University train up next gen of AI graduates - arnnet.com.au",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPVFJySk1sdHIxOFFvTjZjMmVtUGhJakg2RFFyaTBIMHB6WW5UR2VGTXRUNm9SSzFzOEpOaWREeng4M2hqOHN0RXhzQ0tTMXJSejZQeVZST3NRYjNKblBrQmNGZWg1aVlsM1BWcHhIYTl5RHVlel9iSE02aFFhSlNFb0RxMTlab29QaTNfeUR1WndYaVdFMTIzUnJrNFdlM2dPT0g0UG9mMEdhZEhkbVB0YUhEU1ZteExW?oc=5",
-      "source": "arnnet.com.au",
-      "date": "2026-09-10",
-      "summary": "Google Cloud and Flinders University train up next gen of AI graduates &nbsp;&nbsp; arnnet.com.au",
-      "categories": [
-        "current"
-      ],
-      "geography": [
-        "National"
-      ],
-      "horizon": "now",
-      "id": "gn-google-cloud-and-flinders-university-train-up-next-gen-of-ai-graduates-arnnet-co"
-    },
-    {
-      "title": "Nvidia Just Made an Australia AI Move That Could Be Much Bigger Than Investors Think - TradingView",
-      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQM0Noc1d5WFI5UkJCTUhraFRkOTI2Y2h3NzkyTVZiakJweHdzclF1U1ZHdWtyNmdmZHIzUllwVnNvdUdJN0IxUXFRTjhJbS1XSlZaamhwMV9uU25ROWFWUGdnc1hMNnk4MHJDdDhWazJnaHdNczRScTJXODdXMmVnOVFBNDBYX0hjYXJQSzUzSjR5QVVpUzZib1l2N0RLWk9Gd2Q0WFY0bG9aRDI1X2JoR3UwSDkweWV3ajVjd21FVHA4ZXBkbVh4S3hfOUZjN3RqTEFLdXlaaGoyVXNY?oc=5",
-      "source": "TradingView",
-      "date": "2026-09-10",
-      "summary": "Nvidia Just Made an Australia AI Move That Could Be Much Bigger Than Investors Think &nbsp;&nbsp; TradingView",
-      "categories": [
-        "investments"
-      ],
-      "geography": [
-        "National"
-      ],
-      "horizon": "now",
-      "id": "gn-nvidia-just-made-an-australia-ai-move-that-could-be-much-bigger-than-investors-t"
-    },
-    {
-      "title": "How would AI kill us all? What to know about the doomsday debate - The Australian",
-      "url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxPOVI1ZkxiNVVXUEFRZ2ZCVURZM0RRaXRkS042Tld6YjNRbHpwRHNSTWRmWWlFVmxQcmxUOFhLQkRLelpRNHpGTmNBZE0zdTNKblZieFZKU1JPYXBVOFozY214ZG5EbmlSTlR1elFNeU9xeGlCckl3Y2wtU3dRVkJzMTdmUk1VcUZiYnN0eFRjUDN1SmppYnFZNHlmaWNwSnJQbWluNU15OE1kN3hVb0t2Qm9XTi0zTVRYaVhuUnUzNmk3OVdxa3Bra2dSQ2R0YXY2M1BPem9fSXI1UExTSVAwQU5aVEhSbXBoTWRZSTNmMHhyczdpc2ktMGwxcDFCd2ZBOFl5QWZyZkt4cHhEUlFCbFB2b9IBmAJBVV95cUxQNGNEaFNxU2NhVnRuSHMzNVFmYnZGczVINmJxNlVnSFRDak9FV2F4RUdyb1RISDI2RDJhOEI3bE9lZnZ3a3JQSXItaW8wenFRZDNIb1NpVF9pczk0VFVKSEZDREVuY08tV0xsX2Yzd294TmxrQ2p4RjV2S1AyUURSRmxXT2ttYzRaWXlRRkhsNFN0RU8yb0lLU2dhYUp4eUNoaGhvbHhlU2ZsTE5TV2VXQm1tUU1RRHlqbGVYX1BWVnkxRG9PWDRRMHFiTzhycjNuUW8tYWtyVkM1NWthYzNFYTN5SGhUOU53TWgtQUYxenRPLVlwYzU2elJYdThtSEtxc3IxazRkMkcyYzJkcmNURlBoYzFIUU1J?oc=5",
-      "source": "The Australian",
-      "date": "2026-09-10",
-      "summary": "How would AI kill us all? What to know about the doomsday debate &nbsp;&nbsp; The Australian",
-      "categories": [
-        "current"
-      ],
-      "geography": [
-        "National"
-      ],
-      "horizon": "now",
-      "id": "gn-how-would-ai-kill-us-all-what-to-know-about-the-doomsday-debate-the-australian"
-    },
-    {
-      "title": "Nvidia's Australia AI Plan Is Bigger Than It First Looks - TradingView",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPV2dQNERLOVJ1NHFmcmNJMEJRQlFvMHJXNjM3NHZYcEFYSHNxVGtaYTJSMlotUnRJSGgxelJTYnpieWVIYjRDMW02Q1JTTHQwVzl1SUNxbF9nT3pVcGRTVjVIa0ppcno3dXUtX1d2ei14WjVDd2ROX1BSZWw1eE80cmJoaXBSYUlUd2VqY2o2VTQyWkFYSVl6UkRSSmRFVHZvXy12d0NkczVIaXFaeU93TnJEY0xPZ1U?oc=5",
-      "source": "TradingView",
-      "date": "2026-09-10",
-      "summary": "Nvidia's Australia AI Plan Is Bigger Than It First Looks &nbsp;&nbsp; TradingView",
-      "categories": [
-        "current"
-      ],
-      "geography": [
-        "National"
-      ],
-      "horizon": "now",
-      "id": "gn-nvidia-s-australia-ai-plan-is-bigger-than-it-first-looks-tradingview"
-    },
-    {
-      "title": "AI fire detection camera switched on at Mount Crawford - The Indian Sun",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOdENwdGI5N3VwZXVkb2tGQkJHQkN6U3lZYVl1LWxSeWdtV2dCY01CaDF4N2tGdXZwSTVUWHFwUFRlUW1meUNPdW9KZlU4WDc1OVlIaGlFMnZ0b3lWSVZhcGxCZ3E4a3ZPMmVoQWFEaWpvTzR0c0drWHBYaktKUUFoSnJDT0Q3aFhaZndlaUNTeW5fdWMySkkxSUVuaUpjbEU?oc=5",
-      "source": "The Indian Sun",
-      "date": "2026-09-10",
-      "summary": "AI fire detection camera switched on at Mount Crawford &nbsp;&nbsp; The Indian Sun",
-      "categories": [
-        "current"
-      ],
-      "geography": [
-        "National"
-      ],
-      "horizon": "now",
-      "id": "gn-ai-fire-detection-camera-switched-on-at-mount-crawford-the-indian-sun"
-    },
-    {
-      "title": "Nvidia’s mega AI buildout deal with Aussie partners - thewest.com.au",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQZmw4WDJGa1pRWUxod1VnLXJ4Wkl3U2Y2ZGQzVEp6TGpjYWlaZTYxTkhyMHVLMllnd0VnY283bTEwTnQ0bFVKOVgycm5xVl9Pbm41R2lBc3RqM2VxT2xfVXVFYkVETFNqeDNXek1IemJUd1k3TkNDYUoxNDhET2lMRG9PU3lMdnp6NnJPS3N1M3QwNkhaYWN5bnJZX19TRk16OFlpXzMxaGNHX0poQ3ZwbA?oc=5",
-      "source": "thewest.com.au",
-      "date": "2026-09-10",
-      "summary": "Nvidia’s mega AI buildout deal with Aussie partners &nbsp;&nbsp; thewest.com.au",
-      "categories": [
-        "buildouts"
-      ],
-      "geography": [
-        "National"
-      ],
-      "horizon": "now",
-      "id": "gn-nvidia-s-mega-ai-buildout-deal-with-aussie-partners-thewest-com-au"
-    },
-    {
-      "title": "TSMC, MediaTek sales surge as AI chip demand stays strong - Capital Brief",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNN1RWeWYtekdwenUyb1RBVEhObXhmTVlvRUk4dGRqVFJXMlpNNEs1alNZZnh5a3l3Sldwcm9DSWxUaTFHczlHNlpyLWM4cEs1LVAyb2xNQXRfMHpmQTUteHFOVVJ6SDVZUW5pUVNkTG8yU01IeVktMlBtQ1RlbnVvYXZoa2JTWm9HaGkwdzQ4ZmFaeFZMUHppdUdXNjJoUXI4ZmR6X3NZblAyMmxqcnoxekJRLWdIb3U2NDg5dTAwcXM3R011UGFUTlN6RXQ?oc=5",
-      "source": "Capital Brief",
-      "date": "2026-09-10",
-      "summary": "TSMC, MediaTek sales surge as AI chip demand stays strong &nbsp;&nbsp; Capital Brief",
-      "categories": [
-        "investments"
-      ],
-      "geography": [
-        "National"
-      ],
-      "horizon": "now",
-      "id": "gn-tsmc-mediatek-sales-surge-as-ai-chip-demand-stays-strong-capital-brief"
     },
     {
       "id": "seed-nsw-pipeline",
