@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-17T15:43:48+00:00",
+  "updated": "2026-09-17T20:37:27+00:00",
   "items": [
     {
       "title": "No nuclear energy means no sovereign Australian AI - AFR",
@@ -316,6 +316,51 @@
       ],
       "horizon": "now",
       "id": "gn-boom-or-bust-farmers-fear-energy-and-water-data-drain-yahoo-news-australia"
+    },
+    {
+      "title": "'Narrow window' for security threats, AI company warns - Yahoo News Australia",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBURkhPakxkeGNwUFJzNWZNdEZJVkVMVlRTTVFUdUxQWDk5TkNzcmhlUUNuSHMxN0g5bjBPOTVxT2gwY2h0ZGJTUnlNSTJ2ajBhOXRQSko3cVVhMU9TSVk2RVYxN0piQWRxWVRIVW82NWpMUjJtZ1p0R0gyOF9YSVE?oc=5",
+      "source": "Yahoo News Australia",
+      "date": "2026-09-17",
+      "summary": "'Narrow window' for security threats, AI company warns &nbsp;&nbsp; Yahoo News Australia",
+      "categories": [
+        "current"
+      ],
+      "geography": [
+        "National"
+      ],
+      "horizon": "now",
+      "id": "gn-narrow-window-for-security-threats-ai-company-warns-yahoo-news-australia"
+    },
+    {
+      "title": "Richard Flanagan on AI policy: Albanese isn’t just betraying authors like me. He’s selling out Australia to AI colonists - SMH.com.au",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPYTBYTVFQZEpxbGVUQkFvaFMxUVV2bi1uMUJINklWRmZxSmxyMVY1OEczZG1UVkRScDB4ajM3MW1yVTJiUGJtSmJmakxmWWIwMzRwTEhsdWh0WTJpalBHcWlkRUZIQlFFZ0VSZFlDaFpFdks0MmR2MFBGMW1JdF81b3pMd00yUE9scC1pX2pKaXluOHVHelZkdml3dFdFa1h5NlEyV1FSZjFmUFpTS2pnYkd2eXJDMDBaQzhTOGhxU1NXSy1uVFYyZ3JMeDFncGdyb08tQlYxdmI?oc=5",
+      "source": "SMH.com.au",
+      "date": "2026-09-17",
+      "summary": "Richard Flanagan on AI policy: Albanese isn’t just betraying authors like me. He’s selling out Australia to AI colonists &nbsp;&nbsp; SMH.com.au",
+      "categories": [
+        "policy"
+      ],
+      "geography": [
+        "National"
+      ],
+      "horizon": "now",
+      "id": "gn-richard-flanagan-on-ai-policy-albanese-isn-t-just-betraying-authors-like-me-he-s"
+    },
+    {
+      "title": "How Iran recruited AI for surveillance and propaganda - The Australian",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPNkRlMG1BUFNidDhySVlwdnJpeUp1c2VSRnFnVkRkZGk0SGZsMDJqYXFBWXMxY2xhOG9ISXl1V2hVZWNmVm9rVkpkcjZKSGhvM2l0djM1X3lIV1ZxRWd3ZVR4cERzOFdYcHYyTVhxME9PWHBoVGZQZjhKLXZUdC1kU3dTc3pqcDNrMllqVGJIaXJrWWtIVlg2QVF2Vk5xVTB2bGlBQmJKcEZla0wwX29fekxhVjk3S2lMV2NMOXo5Y1J1VFYyX21SSzdpWnFCb0RQak5RZXlPVGs?oc=5",
+      "source": "The Australian",
+      "date": "2026-09-17",
+      "summary": "How Iran recruited AI for surveillance and propaganda &nbsp;&nbsp; The Australian",
+      "categories": [
+        "current"
+      ],
+      "geography": [
+        "National"
+      ],
+      "horizon": "now",
+      "id": "gn-how-iran-recruited-ai-for-surveillance-and-propaganda-the-australian"
     },
     {
       "title": "Australia news LIVE: Interest rates, inflation fears grow ahead of integeneration report release; Nvidia boss Jensen Huang rejects AI regulation; Trump attacks US Supreme Court after mail-in voting changes rejection - The Age",
@@ -1130,6 +1175,37 @@
       ],
       "horizon": "now",
       "id": "gn-openai-says-copyright-policy-critical-to-its-investment-decisions-afr"
+    },
+    {
+      "title": "Morning Mail: AI tipping point warning; concerns about aged care scheme; and a US rate hike - The Guardian",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOUkp4dzE1TU4zYjJfSUcwTUNjV1ZvcUxwVXZHMlR2WTc5QlNrcXBxcFY3bS1mTndGUERmZ0YwcVRhSkhQdmh0dERDekNkR1NVNGJYYTdGMFlFRXFyUkNpWUx0SlNFTUJTbmR2STItYzI3Y194SFpRNXlGeE5vTXpLeWVEUzhJSFhCOEZv?oc=5",
+      "source": "The Guardian",
+      "date": "2026-09-16",
+      "summary": "Morning Mail: AI tipping point warning; concerns about aged care scheme; and a US rate hike &nbsp;&nbsp; The Guardian",
+      "categories": [
+        "current"
+      ],
+      "geography": [
+        "National"
+      ],
+      "horizon": "now",
+      "id": "gn-morning-mail-ai-tipping-point-warning-concerns-about-aged-care-scheme-and-a-us-r"
+    },
+    {
+      "title": "Anthropic signs lease for first Australian data centre; Market’s biggest fear no longer AI bubble; Will private credit cause next GFC? - AFR",
+      "url": "https://news.google.com/rss/articles/CBMimgJBVV95cUxQRmFuR0I4cjRDdFdUN1R0cWUyYVhuS2RxLWdoY1lLZk5uekN6dUptMHpIb2NTb2g2MzRjb2ZnZy15NEhMcWljak54VmNjUGswV0hFUjI1cVgtM01CYmpqS0QySmdtRk5uOWp5NnU2ZHY0TElOYXRRVXFxdUFETjNrUUlLRWNCVVZwaTdjYzViOHBQR2RENlhmdFlwTHV0Smx0ZmNiMDBrVnJVeGcySWcwS2VSYWZYSXNMMU5jWEN5Rm96bnQ0TWo3a0ctemFHZDBKd0tDNUlETFlaM2tjTEM1MXNqQ3RIaG44T1g2SUlyNGZlOVZmRGZYVXJqbnB2QkVocXB1RElkYjlLd2VVWUViVFlTUEEzdnBfdnc?oc=5",
+      "source": "AFR",
+      "date": "2026-09-16",
+      "summary": "Anthropic signs lease for first Australian data centre; Market’s biggest fear no longer AI bubble; Will private credit cause next GFC? &nbsp;&nbsp; AFR",
+      "categories": [
+        "buildouts",
+        "markets"
+      ],
+      "geography": [
+        "National"
+      ],
+      "horizon": "future",
+      "id": "gn-anthropic-signs-lease-for-first-australian-data-centre-market-s-biggest-fear-no"
     },
     {
       "title": "AI risk is ‘deadly serious’, not far from ‘real-world crisis’: Rudd - AFR",
@@ -2886,6 +2962,21 @@
       "id": "gn-openai-issues-copyright-ultimatum-to-anthony-albanese-over-ai-data-center-invest"
     },
     {
+      "title": "Data centres in Australia: your questions answered - uwa.edu.au",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQd1hMNjBzVVpEdEpYbTVkWDF2RVhGekREQWVoeHVWTzFwcFZoaV9ia1ZwSDVFNkc4RWRDNlJuQ25ySlNjWVFaOV9YZTJSajZXdVVUQWZpOUdDem5zRllfSjJNSjFqLWNVR1pCc0RXazZ3NjNRRW9PQ3pNbmF3UXJSQ28wTFVYRFU1SjEzWHZNYVBhRno3OFBpNnhEcnZOTk5DTFE?oc=5",
+      "source": "uwa.edu.au",
+      "date": "2026-09-14",
+      "summary": "Data centres in Australia: your questions answered &nbsp;&nbsp; uwa.edu.au",
+      "categories": [
+        "buildouts"
+      ],
+      "geography": [
+        "NSW"
+      ],
+      "horizon": "now",
+      "id": "gn-data-centres-in-australia-your-questions-answered-uwa-edu-au"
+    },
+    {
       "title": "‘It’s alarming’: governments urged to step up oversight of AI safety - AFR",
       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOa0ZRRm0zREtCVVQxVlB2Y1lpRm9SdGJNcVFuSVFHOEcxSVh5TFpucU1KT1c0SnJabV9aUkQwT2l6ei1ZX0lfclFaRzBYTmFMSWZqejUyNms5QlA4NF9GVk82Mk1VOHdxVjhlZ2RYRHdtUEJpWnhsN2RzaS03SzdUNEhJSnRnajNaMVhScHpOSDJvUzhlNjl0enVldFdiTUZhR2w2Q0txVGtPb2VuWS1TYUNn?oc=5",
       "source": "AFR",
@@ -3680,97 +3771,6 @@
       ],
       "horizon": "now",
       "id": "gn-ai-powerhouse-nvidia-partners-with-eight-aussie-firms-the-canberra-times"
-    },
-    {
-      "title": "Australia's digital duty of care reforms: new obligations for online platforms and AI services - Lander & Rogers",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQQms1X2V1dEtsLXFuWk1yTldNQkNMMXBrTnRqbDlBNGdTdTVHa1VfbFhZaUJpZ1lqRHl6U3dZVmFwNGhuOHFMeWR0a3VVanF1SzhJNkFaYVVfNkNVRHlZQTZRc0JfV0N1WE15YV8wUy1LU3lseFFyOGJNazdnODJldkFjeVhTekRrbGJDa2VEVnpyNEJJbGlUeEt6UElLMFRLQVZteFN6d0M2anp6MTI5Wll3NEFITHFZTVBXeWZhMDdBMHZmQjBvRDZBN1pCQnY0?oc=5",
-      "source": "Lander & Rogers",
-      "date": "2026-09-10",
-      "summary": "Australia's digital duty of care reforms: new obligations for online platforms and AI services &nbsp;&nbsp; Lander & Rogers",
-      "categories": [
-        "current"
-      ],
-      "geography": [
-        "National"
-      ],
-      "horizon": "now",
-      "id": "gn-australia-s-digital-duty-of-care-reforms-new-obligations-for-online-platforms-an"
-    },
-    {
-      "title": "Nvidia Expands AI Infrastructure Capacity in Australia With Up to 2 Gigawatt Buildout - Moomoo",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOMXlSY1paYXp0c2VGcFhhV2hFa0pHQnBtOUo1TWNYRXRfX05xWGRDQVU4VG5yYW1rNkVISjFqWkJNT1dIUWEwa0VCeGdINDVnTURjM3VzWTFQS2YyRUh6cGo5cVBtVmt0cllPQWlyUzRsWjZhenc4ekRtelNxNGtQUktHMGc1d1NOZW5DTWMwcGUwMl9qZ2RHMUNuSzJXVFRUb0dEZFJFOXZJbm8?oc=5",
-      "source": "Moomoo",
-      "date": "2026-09-10",
-      "summary": "Nvidia Expands AI Infrastructure Capacity in Australia With Up to 2 Gigawatt Buildout &nbsp;&nbsp; Moomoo",
-      "categories": [
-        "buildouts"
-      ],
-      "geography": [
-        "National"
-      ],
-      "horizon": "now",
-      "id": "gn-nvidia-expands-ai-infrastructure-capacity-in-australia-with-up-to-2-gigawatt-bui"
-    },
-    {
-      "title": "Nvidia plans major expansion of data centre capacity in Australia to meet AI demand - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQMk5MZDBuUUItQ1c2dnBiWWJudnJhczJ4MUh1azQxTjBBNmhCZHJsWVNEcWFRLUtJX1p6WXFaLVFrZ0tPeHNWWEhYYXZYd3BwNU1XZ2lvSEgxOUdHLW1mZ1dJdkZFYUg5bjZIVm9SbWNHdmw2MjBnenIzekF3UkJJdG5DTnVjc1ZXazR6M3UwZzA0X3c4by1uSUE2Z0o2U2hwTTJRdURmQTRFTzBQSDZWeDUzSENMYjdMYzJ6VUx3?oc=5",
-      "source": "Reuters",
-      "date": "2026-09-10",
-      "summary": "Nvidia plans major expansion of data centre capacity in Australia to meet AI demand &nbsp;&nbsp; Reuters",
-      "categories": [
-        "buildouts"
-      ],
-      "geography": [
-        "National"
-      ],
-      "horizon": "now",
-      "id": "gn-nvidia-plans-major-expansion-of-data-centre-capacity-in-australia-to-meet-ai-dem"
-    },
-    {
-      "title": "NVIDIA (NVDA) Expands AI Factories In Australia As Global Partnerships Deepen - simplywall.st",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOd1RGbzBOUDBkWXFpSFRtdElGZTZORTRRTHA4emdZdzNhMHZWMTlIeThYcEdndnpVSWFjWWdRVkxqaUtoWFVlSlR1RF9ad2Z4THRtTVNnc1I3d2U1dURjblJCZkN0RU91SXd4WTNrRHFETXFfMGh3bUhObWZKanNqeTUwSjkyTF9QeF9NYUJESmd2SEVvTkNsdGpZOTNEUEdoOXpGdWJZMG1hdnZNLUhLUVlQRnZmNG4yeEhBMHpKQ0d3LWR4UElwVEwyc9IB0AFBVV95cUxOT2ItdWFxYnRwN3JMbjhGVzRWZkcyYWJveU9MSm5tcl92MDVtZlp4d2dkVjJBZ1dpallJb3RXRmNvVzV0TzlJWjlHbXNMU0lCRFRPT0ZpTHo3aHNhZVZrV0Z1YnE4czRHODJIdFBXMEFXa0NyQ01nZmdWUzBjVUp6cUpQSjZSRUtDSUl1SzN6WGtuaUZsdEp6X2F4MHlOVVpRYWZMVjVVREN6NjJta1BoUmxXb2p1ZDcySjhwS0hvSmNxZnR3LXkzbXhHX0NOMzBL?oc=5",
-      "source": "simplywall.st",
-      "date": "2026-09-10",
-      "summary": "NVIDIA (NVDA) Expands AI Factories In Australia As Global Partnerships Deepen &nbsp;&nbsp; simplywall.st",
-      "categories": [
-        "current"
-      ],
-      "geography": [
-        "National"
-      ],
-      "horizon": "now",
-      "id": "gn-nvidia-nvda-expands-ai-factories-in-australia-as-global-partnerships-deepen-simp"
-    },
-    {
-      "title": "Australia now the world’s third-largest data centre market - Information Age | ACS",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxObW1SYW9xR3pNdjB3ZW9MM3NmbHdQRjJpb0pXdjFXQ2VaMUF4Z1g2akRzY3FTVnVrTXNjaVJUX2RuRDdkRFJhcXhFdUtiSXZySktUUTVQQlpnVTF1d09FM3JKUmc3Q3VidkdBdkFJSjhrRTZCTW0yY1JkYjBHUUtmTjg5Y0YtVVFON0tSc1htQnBBTTdITUl1YnJpQ2lOZ2s?oc=5",
-      "source": "Information Age | ACS",
-      "date": "2026-09-10",
-      "summary": "Australia now the world’s third-largest data centre market &nbsp;&nbsp; Information Age | ACS",
-      "categories": [
-        "buildouts",
-        "markets"
-      ],
-      "geography": [
-        "National"
-      ],
-      "horizon": "now",
-      "id": "gn-australia-now-the-world-s-third-largest-data-centre-market-information-age-acs"
-    },
-    {
-      "title": "Bürkert Australia announced as Silver Sponsor of Data Centre Build Expo - Utility Magazine",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOODZlNmU5SDJqRGY3VDdSWmc5LU55SXBMX01mRGhZRmptOEszYU9DZDBEYlMtWGZ5X09VbEVFRXZIVW9NckYzRllWQXMtcFZlZWVEaW1CeVRLV3NCTlVTMWl6cDVERFVFZVNzYzg5ZHgwSF9YY1FMUWpzdmJIMXRlWDc1TUFzanlrS1NVMWpyX2pGTGViVno0eTFKZ253SXlXRUh3VDd3?oc=5",
-      "source": "Utility Magazine",
-      "date": "2026-09-10",
-      "summary": "Bürkert Australia announced as Silver Sponsor of Data Centre Build Expo &nbsp;&nbsp; Utility Magazine",
-      "categories": [
-        "buildouts"
-      ],
-      "geography": [
-        "National"
-      ],
-      "horizon": "now",
-      "id": "gn-b-rkert-australia-announced-as-silver-sponsor-of-data-centre-build-expo-utility"
     },
     {
       "id": "seed-nsw-pipeline",
