@@ -1,6 +1,158 @@
 {
-  "updated": "2026-09-28T22:40:19+00:00",
+  "updated": "2026-09-29T02:54:08+00:00",
   "items": [
+    {
+      "title": "OpenAI ‘sorry and working to do better’ after hack of Medicare and other Australian government websites - The Guardian",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNaXY4NHVCTW9nM0p3V2ppUVZ6QTFxSXNjcGhQS0FKQnJjUm1UaFBlSURWN1VtV0syck8yTW5MdHZGQUJGZVd0eHMyeGM5Vl9rOXFranI4dmdubWVfdVBqMlNVRFpaZ1RteE14SUVUMmtwd2lYdzdhcDBlMHJrd2ZDZV81OFVpLUM0b2E3dC11MFktb2ozQXotQ3ZwdW9YT1ZwNDBYOHFqaVk5b0wxUm1WSzdXSzZWWUt0NjNPdEJqVzhjdw?oc=5",
+      "source": "The Guardian",
+      "date": "2026-09-29",
+      "summary": "OpenAI ‘sorry and working to do better’ after hack of Medicare and other Australian government websites &nbsp;&nbsp; The Guardian",
+      "categories": [
+        "current"
+      ],
+      "geography": [
+        "National"
+      ],
+      "horizon": "now",
+      "id": "gn-openai-sorry-and-working-to-do-better-after-hack-of-medicare-and-other-australia"
+    },
+    {
+      "title": "OpenAI apologises for hack, pledges funding to fight rogue AI agents - AFR",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQaFNKX0FJYW41WEpKNmg1WWpmb2M2TDhLWEwyQ1dscUxFY3l3ZV9nMHExSlFUOS1LdXl2Q2tVbmYwWmdWWW5FR1k3LWJUM3k1QXU2dlBaNktUdzdUWWFna2ZhRkkwS2E3TjBXOWk5V0JVdHhjT0k1TnlWSHVOSTF6SFNpanE5N19LMEcyMkJ6dGFTZUN1UUQzVjdtcGhJeTE4T1lGckJ0UEFoZmNYd2N0X2V0Vkw?oc=5",
+      "source": "AFR",
+      "date": "2026-09-29",
+      "summary": "OpenAI apologises for hack, pledges funding to fight rogue AI agents &nbsp;&nbsp; AFR",
+      "categories": [
+        "investments"
+      ],
+      "geography": [
+        "National"
+      ],
+      "horizon": "now",
+      "id": "gn-openai-apologises-for-hack-pledges-funding-to-fight-rogue-ai-agents-afr"
+    },
+    {
+      "title": "Medicare hack: OpenAI to appear before Joint Select Committee on Artificial Intelligence - Cyber Daily",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQai02Q1pXeUVjbE80bU04MmItVVgyVXlTN1FiZTlab25CWnp5bjdqNS10MVZhUVAwRmY5RXFiMExhOHlLVGFGa3NwMTFHaVluSnBBcWIzaER4ZWhoMEZkZXlJNHhxWUZHbm9fNkZHMjMtZkJLMWtsYWtYTHluREx4QjdwcHpmRXpGSUtreEJmTDZYbFh0c1FyM2FlQkttdzhJZ2tJUXJsQXdxZEx2ZEo0Sm8wWUNhYTJOUWlqSE5WaXhvWUtmV1NOSHEyZ0w1UUlSUnZXaFZDRWJmUQ?oc=5",
+      "source": "Cyber Daily",
+      "date": "2026-09-29",
+      "summary": "Medicare hack: OpenAI to appear before Joint Select Committee on Artificial Intelligence &nbsp;&nbsp; Cyber Daily",
+      "categories": [
+        "current"
+      ],
+      "geography": [
+        "National"
+      ],
+      "horizon": "now",
+      "id": "gn-medicare-hack-openai-to-appear-before-joint-select-committee-on-artificial-intel"
+    },
+    {
+      "title": "OpenAI Pledges Task Force After Hacking of Australia Government Website - Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQZldGOXdia1FVMDJoYVRQVV9PTHpIVHZfQW5PdFAxMGVoTkpkUG5qQWM3dFRpQmhwYlVRSDExVmpKcmxMZjhZa1Fad0ZRZXdjUWhrMWxmd0J4RkprTmlBcl9JWFQyOFF4c3FpeDNGZjM4cDZveVFGZDJkNHM1OVkycFVqWFZBTUlueEQ4d0xJNjQ1X01ocVB5UC1MOHF6THB6RUVqOUFJRmJ0Y0FR?oc=5",
+      "source": "Bloomberg.com",
+      "date": "2026-09-29",
+      "summary": "OpenAI Pledges Task Force After Hacking of Australia Government Website &nbsp;&nbsp; Bloomberg.com",
+      "categories": [
+        "current"
+      ],
+      "geography": [
+        "National"
+      ],
+      "horizon": "now",
+      "id": "gn-openai-pledges-task-force-after-hacking-of-australia-government-website-bloomber"
+    },
+    {
+      "title": "AI-driven cyber threats could see businesses lose up to $37B by 2030 - ARNnet",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPWkFBQm1nNmdadWZvdXljaTAtb1pidnlqczBDYTFGSWtTc1pqdkUzbEtETDE0UmF3TkUzSHo1SHZxV1JaTzFPOVVpdGdlbllVR0RBQm9SZVNqcUZNM0MybktmMmUtQUZxTlplN1pPN0pTNmlVcnRsNWUwVjJBaXh0VGE0eDhLRnB4aW5PUkNXVzRGR0xtU1E4bW9rUF9UR2RKSDI0ci1ma0VsM2Mya0xJV3VWaTQ?oc=5",
+      "source": "ARNnet",
+      "date": "2026-09-29",
+      "summary": "AI-driven cyber threats could see businesses lose up to $37B by 2030 &nbsp;&nbsp; ARNnet",
+      "categories": [
+        "current"
+      ],
+      "geography": [
+        "National"
+      ],
+      "horizon": "future",
+      "id": "gn-ai-driven-cyber-threats-could-see-businesses-lose-up-to-37b-by-2030-arnnet"
+    },
+    {
+      "title": "‘Do better for Australia': OpenAI apologizes for unauthorized access - Politico",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPUWt6eG4yU0d4RFJOdGJoZnp2ZGF5XzMtVUtJaHhoOE1fQVkzeXA4T0FOV0dJQ0pFejU2N25qN3pEb3F2VnJmTldCcV93UHMzYjctbm9NLW9aZ0VSY2R2bnpUZzRuWndjUXJqdVhMYjQzMkdDNlNhM0VUXzcyejVqSUlFV1p4Q3JPTHBjLWhhMTR1MUEtQUthUUVabmVUY3FhRi1WdXhiQXBielBfbzlCb3c2YjZEZw?oc=5",
+      "source": "Politico",
+      "date": "2026-09-29",
+      "summary": "‘Do better for Australia': OpenAI apologizes for unauthorized access &nbsp;&nbsp; Politico",
+      "categories": [
+        "current"
+      ],
+      "geography": [
+        "National"
+      ],
+      "horizon": "now",
+      "id": "gn-do-better-for-australia-openai-apologizes-for-unauthorized-access-politico"
+    },
+    {
+      "title": "OpenAI says AI models accessed Australian government systems without authorisation - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQUkZZNkxncTBjTjVfS2tIU19wdG9XZHJHTGxwLVdLSW5wUjlSVUlSRnRPbEFlTWtDcm11VE05bW5QV2tnR202RjFfRmVib3d1dy1ubXZVVXI1N3BzdjhsUWdYM0NQMk5EanI5bzgtbklXVGN1RjluaWFXZHJZZ0g0VGJuVnd5dHQ0RFRadWJkaDNqZkU5Uzc0QUJZZXphOC1BM2M3cE1RNDNHRDF4MloyNzVYSG1EZTV2cDlaYmh3?oc=5",
+      "source": "Reuters",
+      "date": "2026-09-29",
+      "summary": "OpenAI says AI models accessed Australian government systems without authorisation &nbsp;&nbsp; Reuters",
+      "categories": [
+        "current"
+      ],
+      "geography": [
+        "National"
+      ],
+      "horizon": "now",
+      "id": "gn-openai-says-ai-models-accessed-australian-government-systems-without-authorisati"
+    },
+    {
+      "title": "OpenAI apologises to Australians for Medicare hack - The New Daily",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNb1BoUUdDdk9TZjJCdGNyYXFIZWdVT3ZseUtzcXFRd2pYd2ZiY3Q2TERBNHdDU3Iyc0pSVmppcHpnY2p6akFPVGVmWWtPR1hNcDlGV2IyZ0xYamExdmNnNHp2V1M1WW9PTlpVbElXQTlwSFh5V2ZwT3lGYmtzWnR6dGJuTQ?oc=5",
+      "source": "The New Daily",
+      "date": "2026-09-29",
+      "summary": "OpenAI apologises to Australians for Medicare hack &nbsp;&nbsp; The New Daily",
+      "categories": [
+        "current"
+      ],
+      "geography": [
+        "National"
+      ],
+      "horizon": "now",
+      "id": "gn-openai-apologises-to-australians-for-medicare-hack-the-new-daily"
+    },
+    {
+      "title": "Foreign investment in Australian data centres: A changing regulatory landscape - Holding Redlich",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPdlloaVl2VnBaRzVDa01EMDFaSGlud1EtUFZSMmpOUV9WUkxzWGlBQ1lxQVJ1VzJLMl8zSUt3VV9CVDRCeHNsR3ZXc2dwTHk1MHhEZ1pyb0xUczZXTWVYbzNHZDdWdDIydXVjdHo0VUJtYllYZUpzS29qa0VZNmpPeEVFSDNLX0lJa1ZsQVZCN3hITHV4dmwtRFhuaDZBbExFclFtcHJOQXBkYkNX?oc=5",
+      "source": "Holding Redlich",
+      "date": "2026-09-29",
+      "summary": "Foreign investment in Australian data centres: A changing regulatory landscape &nbsp;&nbsp; Holding Redlich",
+      "categories": [
+        "buildouts",
+        "investments",
+        "policy"
+      ],
+      "geography": [
+        "National"
+      ],
+      "horizon": "now",
+      "id": "gn-foreign-investment-in-australian-data-centres-a-changing-regulatory-landscape-ho"
+    },
+    {
+      "title": "Australia’s data centre boom has a concrete problem - thefifthestate.com.au",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQdm53NG92MzczV1UzdGRrU3djQnhxbWJkajBmcER5dnZfalBlX1h2V2lOZWo2MkN0ekZ1bGU1dDdidWoyRXIyTGdSMzhTSUZkRDBNUmtJTm1LT205QjNMcjJDVDh1c2pmMWJqRDNINndmd0ItRHJTd0VjdU5Ddkl3YkgxdmFqNTJqOGxlZnRfSVVxTGpiZTlhamxJTmhkZFU?oc=5",
+      "source": "thefifthestate.com.au",
+      "date": "2026-09-29",
+      "summary": "Australia’s data centre boom has a concrete problem &nbsp;&nbsp; thefifthestate.com.au",
+      "categories": [
+        "buildouts"
+      ],
+      "geography": [
+        "National"
+      ],
+      "horizon": "now",
+      "id": "gn-australia-s-data-centre-boom-has-a-concrete-problem-thefifthestate-com-au"
+    },
     {
       "title": "VAST, Sharon AI target Australia’s sovereign AI opportunity - ARNnet",
       "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQSk9ZSUo3ZzdNY0JYUGJ4Ri0wR1hiUmZsT1VOV204a2ZJVU5VYTFpZXlsN0RJVTNNSG9CRlBpNWlUaWQ3LUJwb0RabnREZUVKNGpOQ1JmTGdpaWxLNFVxX3MyS1AxSXF6ZnpiV1RmUVhaQkpDS1lwa0JVQkxVOUZDTHJsSnRPSUFvMHdaNWZ2aVloRnhCdjRHSTlaRW43MXFKQUpNaVk4bS1Hc01EZ21TdkJuOU5MaFdvdVAw?oc=5",
@@ -679,6 +831,112 @@
       ],
       "horizon": "future",
       "id": "gn-anthropic-openai-will-not-attend-australian-senate-ai-hearing-on-october-1-cna"
+    },
+    {
+      "title": "AI needs trust – and Australia can provide the verification - lowyinstitute.org",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNOGNrLVg3ZmcyX3BkMDNQc1hPX0VUcFREN3dWZU53a3duVlF1TGFGTWVUcHlvMmN4ajNPVVJER1NKQ1JUQTZfNGJaRmZTUEluSTFaeTduX3Q0QktYNW1RSmpYdHZPdWZUMWx3UXQxa3d4eVFONENCbWxHUVRwR1JiSmpiX1lSdnNDVVoxQzhGcTU1MHM2Um9oRDBJLTd1a1liTWhHOGJR?oc=5",
+      "source": "lowyinstitute.org",
+      "date": "2026-09-28",
+      "summary": "AI needs trust – and Australia can provide the verification &nbsp;&nbsp; lowyinstitute.org",
+      "categories": [
+        "current"
+      ],
+      "geography": [
+        "National"
+      ],
+      "horizon": "now",
+      "id": "gn-ai-needs-trust-and-australia-can-provide-the-verification-lowyinstitute-org"
+    },
+    {
+      "title": "Xero study says AI unlikely to cut Australian jobs - CFOtech Australia",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNb0NnQmdrb044WldIc2xubThvcGE2LVNDdDFmTkZCS0VjQnYyWGZmeDBLbU9kOEZMQk9uR010WjZRSVlmcHU1bDViV2gyRkZKeF9uX25FVk9YaENvNU56YkFaNWx1b1FlVVhnV1JHZGphN3g2VkY1ckdQQUpqSE40N09tbG9udw?oc=5",
+      "source": "CFOtech Australia",
+      "date": "2026-09-28",
+      "summary": "Xero study says AI unlikely to cut Australian jobs &nbsp;&nbsp; CFOtech Australia",
+      "categories": [
+        "current"
+      ],
+      "geography": [
+        "National"
+      ],
+      "horizon": "now",
+      "id": "gn-xero-study-says-ai-unlikely-to-cut-australian-jobs-cfotech-australia"
+    },
+    {
+      "title": "Meta taps Australia's Firmus for AI computing capacity in Southeast Asia - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOVkVOa1NyT2NnYmlqTTVqOUk2LTRjaFlkMnFJMnNXUW9uRTJmeUVRUmJza0lfYndtZkV0Nl9fZUN3MkdiUDRTUUpyU2ZkTnlSMzNuUmFrWFZVbm1rYXQ3ZC1hV09zUnFtY2RiN3M1TUlYUXZwTERDT2JQVEVYbkcyckp2ZFJrUUp5VnZSSnhaT1VLTWt4T2ZYSjRhM09GV0xUd2hNc2ZQUG83SC1zWXk3WE5tUVU2aVJEMWxz?oc=5",
+      "source": "Reuters",
+      "date": "2026-09-28",
+      "summary": "Meta taps Australia's Firmus for AI computing capacity in Southeast Asia &nbsp;&nbsp; Reuters",
+      "categories": [
+        "current"
+      ],
+      "geography": [
+        "National"
+      ],
+      "horizon": "now",
+      "id": "gn-meta-taps-australia-s-firmus-for-ai-computing-capacity-in-southeast-asia-reuters"
+    },
+    {
+      "title": "xAmplify buys Accelerate IT in Western Australia push - itbrief.com.au",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQeEdiRlF2NGxhalQ2a09YemZ4NkdaalNMUDRhQ2Npemc1OG42VjgydDcxZUdYX1ROalhuYmdVeGxuandUcUxHVnc1NW5HSjB1MnFLS014dXhXWUl1cGNBcTl2UEtHanNQYTVTWm9XTkhTV3JkRjk3aUFwRk9zaFhVUDU5djczZHZkcWc?oc=5",
+      "source": "itbrief.com.au",
+      "date": "2026-09-28",
+      "summary": "xAmplify buys Accelerate IT in Western Australia push &nbsp;&nbsp; itbrief.com.au",
+      "categories": [
+        "current"
+      ],
+      "geography": [
+        "WA"
+      ],
+      "horizon": "now",
+      "id": "gn-xamplify-buys-accelerate-it-in-western-australia-push-itbrief-com-au"
+    },
+    {
+      "title": "Australia's Megaport signs $687 million AI infrastructure deals, lifts annual forecast - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOQXJScFd1OGhXazNoSUJfVUFwVjhTeDctbmVONklaUHlaZVZWRk94eXZqaWMzTWZZa3M4UEQxM292RHFILUx2elE3d0pNallUUGNXRmJ2Qk5xc0JxWUZLTEhIdmR2U2ZpSTB3R00xbkhjZ3JqYXQ1Vkh6ZnRPNUd6NTloNnUwbFp4YTFkMV9YdVBNdWoxTUg5VmhYWkV6R1FYZjdTaWJpRkUxN1hoQ3pIT3dMTjdxWGlBQ0NOU1h0TzcwbWhFcVE?oc=5",
+      "source": "Reuters",
+      "date": "2026-09-28",
+      "summary": "Australia's Megaport signs $687 million AI infrastructure deals, lifts annual forecast &nbsp;&nbsp; Reuters",
+      "categories": [
+        "buildouts",
+        "investments"
+      ],
+      "geography": [
+        "National"
+      ],
+      "horizon": "future",
+      "id": "gn-australia-s-megaport-signs-687-million-ai-infrastructure-deals-lifts-annual-fore"
+    },
+    {
+      "title": "Sam Altman stays home, but a senior OpenAI exec heads to Australia for parliamentary inquiry into Medicare's rogue agent attack - Startup Daily",
+      "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxQYWlKUmhfb2Q4ZmJERFo4dW5xbWZic2ZmSDdGcmdoQnNvSkkzY2U4UjBhamFVU0FsYVl3WFQxNWU3NnkyQlA0NUlvQ2ZiNFU4OTFxZS1vTTlQRkt2cUE4T0JJek9KRzBVZVltZlBPNjBsX1NpaE1aNWowVUtlTF9SUWF5Y0NuNmlSMEZvYVdEaHMzRk5WWFNWbHA0LWtwY3U0Rmd5Qzh2Tk5uTklrSlRtS3J3R2YxUWtzRWp2aTVYbWtUWElzR2JUaE1DZUdSOE5SeUtVb0h2T1R1T3p1OVdzeml5b01yOWpVZ2pfdGlTbU1iY1JUZl9MM2JmV25qd19RN016VnVqekt2UzAzR1FGb0Zn?oc=5",
+      "source": "Startup Daily",
+      "date": "2026-09-28",
+      "summary": "Sam Altman stays home, but a senior OpenAI exec heads to Australia for parliamentary inquiry into Medicare's rogue agent attack &nbsp;&nbsp; Startup Daily",
+      "categories": [
+        "policy"
+      ],
+      "geography": [
+        "National"
+      ],
+      "horizon": "now",
+      "id": "gn-sam-altman-stays-home-but-a-senior-openai-exec-heads-to-australia-for-parliament"
+    },
+    {
+      "title": "Plan for controversial Sydney data centre scrapped after push-back - bbc.com",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9hZjlzTnpQOFROcVFoYm9MQ29wOWk4QkhfMlB0aGREVHduWGN1MHdJajBWOWNVTC1SV1pjNnJEQTRtUk0tNHNITEloSUktOG5BN0FLV1EyXzhGYUU?oc=5",
+      "source": "bbc.com",
+      "date": "2026-09-28",
+      "summary": "Plan for controversial Sydney data centre scrapped after push-back &nbsp;&nbsp; bbc.com",
+      "categories": [
+        "buildouts"
+      ],
+      "geography": [
+        "NSW"
+      ],
+      "horizon": "now",
+      "id": "gn-plan-for-controversial-sydney-data-centre-scrapped-after-push-back-bbc-com"
     },
     {
       "title": "‘Incompetent’ energy approach jeopardises security, AI boom - The Australian",
@@ -1520,6 +1778,21 @@
       ],
       "horizon": "now",
       "id": "gn-warning-medicare-breach-is-no-excuse-to-burn-ai-bridges-yahoo-news-australia"
+    },
+    {
+      "title": "Australia summons OpenAI and Anthropic CEOs to appear at AI inquiry - aljazeera.com",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNRzJaR3dnX3FYREtOZVJISWNDYVN4S3ZpZVVvN1otd2tnRTdTenJrQUxUN0c0YkRnOXlvT2pnRHhrdVZZVEFoZUl0WC1WZ0lEYW5uY08yaURBSnRjWVZPMUptSW9DME53YVU3cm50bXN2dkdmUmk0ZFJNOFEzWDh2U0FoXzM1QWZ4Q3FHLWtTeFJ1OThjUFpGenRKVEtybjd3OE5FQ3g5VzQzUDZI0gGyAUFVX3lxTE1GNUpkRUxuelVWRGhaakVPTllYTGdYZGh1VE1fUExWczNleEpZSHJKUmJoVnBxeFFCMkZQUmhHa3k2b1AtRFh4VEtoeUFudDVLc21vZlR5ZWZCODktS19Tb2EwejJBekdCWVZtUDc3aWQyNGlpOTd0ay1lSGNZVDJPV3p4ak1OdXQ3N2E4U3FzQjNwTmt2eE9NYmxhYjAwRWstRWFJU1RlSDZhc2ttTTNkT1E?oc=5",
+      "source": "aljazeera.com",
+      "date": "2026-09-27",
+      "summary": "Australia summons OpenAI and Anthropic CEOs to appear at AI inquiry &nbsp;&nbsp; aljazeera.com",
+      "categories": [
+        "policy"
+      ],
+      "geography": [
+        "National"
+      ],
+      "horizon": "now",
+      "id": "gn-australia-summons-openai-and-anthropic-ceos-to-appear-at-ai-inquiry-aljazeera-co"
     },
     {
       "title": "Will Australia become AI’s copyright-busting safe haven? • Karen Middleton - insidestory.org.au",
@@ -3488,276 +3761,6 @@
       ],
       "horizon": "now",
       "id": "gn-openai-breach-our-personal-information-should-not-be-fish-in-a-barrel-medical-re"
-    },
-    {
-      "title": "Medicare breach exposes Australia as a sitting duck - SMH.com.au",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPU2JZTEVjY3BtTEhua3JDaWNzZURJYkF5MkkteHEwbVl4eGY4VUwxbHkzWk5kY0ZrZmdIMTRiOU5ZMjBiRTVRcjZYRmt2UkNkSHZIbDR5bGVzZENjV3otNEdJQnA3MHlOUnFvU2RlTzFrYzFwektPYVIwWGgtQ1d1djM2anhQMlNrMWp3RzdFNHZXeHlJSEJlVURJU3VucHpoWG1ma1VhVURUdw?oc=5",
-      "source": "SMH.com.au",
-      "date": "2026-09-24",
-      "summary": "Medicare breach exposes Australia as a sitting duck &nbsp;&nbsp; SMH.com.au",
-      "categories": [
-        "current"
-      ],
-      "geography": [
-        "National"
-      ],
-      "horizon": "now",
-      "id": "gn-medicare-breach-exposes-australia-as-a-sitting-duck-smh-com-au"
-    },
-    {
-      "title": "OpenAI agent breached Australian government website, Albanese says - upi.com",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOWHBZMGRpalpienBFb1UxT05OVmp3Zk8yTGl2U0tLZ0JBakVXb2VFa2RWZWlpd0JVRFh4UXY2dFZBZnE5UzAtUGZRaXp5blVCYmpXNE1iUkZmMHlPbGxQQlIzQXlFVUQ5TlFpR2E2VU15X3RJdFpyaGdhT3d5Q3hZS05hd3piR1o0Y0d3eGZTa1FpZlBKQWw5bHlxdEdmMUpOM2U3c2JoYmZpZTVVRXhrSEpNVnjSAboBQVVfeXFMTjRXdUtMcmdxWkh5eUZzSG5ESFRteFFGa01SLUhVRlNMSUxKNzB2eWk2Z09fcjVJWWdIQ3YyRXNQbFg3VUg1NlRKeWEtTjQzY2ZhOHd4SkdHdC1tN3FjNTJRQVRIUk5ZV0FGZllkOUZfZ0VXN0daRlVZckJwNG9rMVItRUVEYnRSdElWVFg3N3laUXFzRGJOR3FNM2l5Z1FEMkc3eVdwY1B6TVpuaTNqSDhQeUZLSXNkc2hB?oc=5",
-      "source": "upi.com",
-      "date": "2026-09-24",
-      "summary": "OpenAI agent breached Australian government website, Albanese says &nbsp;&nbsp; upi.com",
-      "categories": [
-        "current"
-      ],
-      "geography": [
-        "National"
-      ],
-      "horizon": "now",
-      "id": "gn-openai-agent-breached-australian-government-website-albanese-says-upi-com"
-    },
-    {
-      "title": "An OpenAI agent hacked Medicare. Will anyone be held responsible? - The Conversation",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxONG9GaDNtZkc2OHhMWFNLUVg0Q2poNXk0SmV5Um5vb3NobmNJUHR5eTQ4UnpmaXROUWNfQldqQTZTNEhRNjJMbThjamVxVFR3S1dDQ1VEdE00Wm9neWlkMy0zWjJVTlNHb1VFbXJoeEx5dXF5NEhXYVBEd0t5SGduSC1STHR5VnhkR2Nrblp1XzVmRU8zcXNfcWVWTlpFYmc?oc=5",
-      "source": "The Conversation",
-      "date": "2026-09-24",
-      "summary": "An OpenAI agent hacked Medicare. Will anyone be held responsible? &nbsp;&nbsp; The Conversation",
-      "categories": [
-        "current"
-      ],
-      "geography": [
-        "National"
-      ],
-      "horizon": "future",
-      "id": "gn-an-openai-agent-hacked-medicare-will-anyone-be-held-responsible-the-conversation"
-    },
-    {
-      "title": "SA marked safe but it's ‘just the beginning’ of AI cyber breaches - News - InDaily South Australia",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPdVp2UWtlUUpST29nTDNKUHFiQjhZVWozT21RMHdDaWZFM1RBd0hfSTkyZ2czUzNXLTZNeWFndTF6SUFqVlAyaXE2NklTeVRLc2xYblRkMEpRbTlpLUNjbWZMOHVyNGN6VktKYmJ5SGkzWk5QRENKTGttZXFLZzlieFJpNVV2RW9STU9KelRQVkdHSDFIT2oxbHZ3R3BNVV9BNmlyUUFrMmFMVmcwa2F1bjhoZlNyQQ?oc=5",
-      "source": "InDaily South Australia",
-      "date": "2026-09-24",
-      "summary": "SA marked safe but it's ‘just the beginning’ of AI cyber breaches - News &nbsp;&nbsp; InDaily South Australia",
-      "categories": [
-        "current"
-      ],
-      "geography": [
-        "SA"
-      ],
-      "horizon": "now",
-      "id": "gn-sa-marked-safe-but-it-s-just-the-beginning-of-ai-cyber-breaches-news-indaily-sou"
-    },
-    {
-      "title": "Nice work on the Medicare hack, Albo, but you’re still letting AI steal my art - SMH.com.au",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQXzdmVmIwVUxoYTc4UHZlYUpxYzlrZlNqUy1EN0JSbi1BRlJQVlJiU0lxckRiOUFEU3ZBQzlGbkk5ZlF6LWxKb1dBeFBabzdNSzFBRGNoZzlLRDZ3U3ZScnBaVTNVVWl1a2tOQjNfWjFWY245ZkdBbFN1M1VTTk5WT210NTVjTlhybU1PcFlFTnlHYWpoUG1ZRWQ1SVlSaHRxbGREdlRnMXliUUpXN0syUEpQMXI3bUIyZW1qT25JbzVrdVBpcER4Qw?oc=5",
-      "source": "SMH.com.au",
-      "date": "2026-09-24",
-      "summary": "Nice work on the Medicare hack, Albo, but you’re still letting AI steal my art &nbsp;&nbsp; SMH.com.au",
-      "categories": [
-        "current"
-      ],
-      "geography": [
-        "National"
-      ],
-      "horizon": "now",
-      "id": "gn-nice-work-on-the-medicare-hack-albo-but-you-re-still-letting-ai-steal-my-art-smh"
-    },
-    {
-      "title": "Five things to understand about how the OpenAI hack unfolded - SMH.com.au",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQemFYcVFKN0VmaVNhUm44V09ZTU8tTmxSTkJfNm1reTI5WFg2d18xSGd0Zzk5aGlfclVPcnQ4Tmp6NXpCQ3RTb3B2d1IyOXpKTlJqeFpFRzcwcnFqTTdMX0RTY3JCSFJ0M2cyLVhGc1JBSlRWSzZvdkp3QlFyTkNHU3IzbFp1eXZyb0dFd3h4cm1DQnBXOGo3VllMdkg4cXliRi0wWmZWX2t5bGpEUnVqc3E1UzM2QQ?oc=5",
-      "source": "SMH.com.au",
-      "date": "2026-09-24",
-      "summary": "Five things to understand about how the OpenAI hack unfolded &nbsp;&nbsp; SMH.com.au",
-      "categories": [
-        "current"
-      ],
-      "geography": [
-        "National"
-      ],
-      "horizon": "now",
-      "id": "gn-five-things-to-understand-about-how-the-openai-hack-unfolded-smh-com-au"
-    },
-    {
-      "title": "What a surgeon hopes the royal commission asks about AI - InDaily South Australia",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNYTB5R3J0WDVmMkd5OHRCOFBOeW1CNkpnS0M0c3B3MjNSTlhPamx1WGo5MXpoRVdVRVRmUnZtSzJ5cThTZTRGdENJdFhWWGhfZGRESmtRM1V2LVJjTVRGS3hnV0lEYmxsbktmdWUtaGY1UXJnZjdtNVltMXc4UExMQ2U5aFpnOGxNYjZCSFIzRWo3UlJiM1JCd096Ul9BTmNDOU9ITVpDbGQ4VExy?oc=5",
-      "source": "InDaily South Australia",
-      "date": "2026-09-24",
-      "summary": "What a surgeon hopes the royal commission asks about AI &nbsp;&nbsp; InDaily South Australia",
-      "categories": [
-        "current"
-      ],
-      "geography": [
-        "SA"
-      ],
-      "horizon": "now",
-      "id": "gn-what-a-surgeon-hopes-the-royal-commission-asks-about-ai-indaily-south-australia"
-    },
-    {
-      "title": "Open AI agent hack: Australia launch urgent review afta OpenAI program hack govment health portal - BBC",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5YRmlNYTVHbl9oQklzUTBMYlNKenBuMzVVM0RnNTJMNUdvWTAyTjdsUC11Ri0wNTBRMFpPeEI1U3ZqTjJ2XzBlSzhhV3kwWF9JMzg4bDdoOGZrWlZxTmfSAWNBVV95cUxQVFhVbkxHS0tuX2FmTG85bTVsOWVONlBKaTltSUhCYUlrNG80dmZPSGNXVVNVdkF6RmpCZ3U2SFh6VlZ4ZDVBTFNsNU1uOXZnZDdNVDFHQWRfR2dKZWlqd2YzaGc?oc=5",
-      "source": "BBC",
-      "date": "2026-09-24",
-      "summary": "Open AI agent hack: Australia launch urgent review afta OpenAI program hack govment health portal &nbsp;&nbsp; BBC",
-      "categories": [
-        "current"
-      ],
-      "geography": [
-        "National"
-      ],
-      "horizon": "now",
-      "id": "gn-open-ai-agent-hack-australia-launch-urgent-review-afta-openai-program-hack-govme"
-    },
-    {
-      "title": "OpenAI ‘climbed the fence’: taskforce scrambles after long delays flagging Medicare hack - SMH.com.au",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPcFR1dUtILWh1bHNyMGJyRmlFaFJHWllTdThNN1JqTjhTLW5LOWxYTkZRMlgtYklOVk5zUDE0a3BCaHBrV1ZyY1hKZWV5U1QwdXJIOVRwc2cybjBrZVFxdWFVdlFyTEd1VmJLQnMxOU44SlZ5OXplN01lZ3ZoNW15RmdUS280akZHdTVhdExfQ1B5Q1hackR5bEFOOU1KS1hhREJXTQ?oc=5",
-      "source": "SMH.com.au",
-      "date": "2026-09-24",
-      "summary": "OpenAI ‘climbed the fence’: taskforce scrambles after long delays flagging Medicare hack &nbsp;&nbsp; SMH.com.au",
-      "categories": [
-        "current"
-      ],
-      "geography": [
-        "National"
-      ],
-      "horizon": "now",
-      "id": "gn-openai-climbed-the-fence-taskforce-scrambles-after-long-delays-flagging-medicare"
-    },
-    {
-      "title": "OpenAI agent hacks into Australian health data in ‘world-first’ AI breach of government body - yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxORXFjQkNjb3ZSOFAwbk9OZ3VYZ05jSXdSZEhwQjNhc0R1LUZzVHVXTVhKbXVpZHJJaVNQcFdWUy1fOWNXdUdpMWRtSVFJcGdpNGxhYXFtc3pFOXhVcUxMaFlqd21jcnpkUHp6c19aNmhodTRKcEpFdFRXSGtjQVAydGl3UlE2Y3BwQi03Y1Z3a0UxZ2dFVWR0TlMwQXJLQ2s?oc=5",
-      "source": "yahoo.com",
-      "date": "2026-09-24",
-      "summary": "OpenAI agent hacks into Australian health data in ‘world-first’ AI breach of government body &nbsp;&nbsp; yahoo.com",
-      "categories": [
-        "current"
-      ],
-      "geography": [
-        "National"
-      ],
-      "horizon": "now",
-      "id": "gn-openai-agent-hacks-into-australian-health-data-in-world-first-ai-breach-of-gover"
-    },
-    {
-      "title": "What we know about the data accessed in the Medicare AI hack - ABC News & Headlines – Australian Broadcasting Corporation",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPel9EQjFvc1BFMXlOM0k1WW83X2gxdUZzWXJMR21kT3psdnRJa0dYUjhQS2ZmWjZTN3VPYV9ubUlyeXZ6UkRubEN4RHVyNzhBbS1uSTJ4WFFrWUhNWmRXVVY4Tll4T1djM0N3NXNhdlJablNzMUVOdFYxYm5qSVMwX0lEdDlvR1lVVGRtN0RCcXZhZ29pMG5n?oc=5",
-      "source": "ABC News & Headlines – Australian Broadcasting Corporation",
-      "date": "2026-09-24",
-      "summary": "What we know about the data accessed in the Medicare AI hack &nbsp;&nbsp; ABC News & Headlines – Australian Broadcasting Corporation",
-      "categories": [
-        "current"
-      ],
-      "geography": [
-        "National"
-      ],
-      "horizon": "now",
-      "id": "gn-what-we-know-about-the-data-accessed-in-the-medicare-ai-hack-abc-news-headlines"
-    },
-    {
-      "title": "'Too big to be contained': Anthony Albanese's AI plans met a major test - SBS",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNT0FWVEQ2U3pxSHlCaTRtcmRGZGRPX0FIN3FIS3pVTmRqZEMxcHVMLWxpaUZmcUFDM0ZONWtsT2pfUmJvOW1Qal9oRnVXMFhHZ19USENpTUxjcUViUEFSWHhHLUQxOHViZ1o0OU0xSkU1Z0FOckZTbDJKQkRwbEZyekxvN2w4V1NmakFTQklxOGNpUkNXZ1ZlQms3c2IycERzNjZVYXFUQkx2SURMTlB0bEZydXU0cVRU?oc=5",
-      "source": "SBS",
-      "date": "2026-09-24",
-      "summary": "'Too big to be contained': Anthony Albanese's AI plans met a major test &nbsp;&nbsp; SBS",
-      "categories": [
-        "current"
-      ],
-      "geography": [
-        "National"
-      ],
-      "horizon": "now",
-      "id": "gn-too-big-to-be-contained-anthony-albanese-s-ai-plans-met-a-major-test-sbs"
-    },
-    {
-      "title": "What we do and don't know about the OpenAI hack on Medicare - SBS",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOcXFWOVh3dmxIbVhUdEUybndzRndBQzNERFVEbTFtWWV5VGdSeG1oLTFmdnhzdGxzOFl0ZlR6b2l6U0hiWG1sWERjSGlIMzhMbkZVanZHX0o3MXR1Q2lPRFp3N2Rwd3RtMUQxc2lwcmgwZW9kSmQ5NnlwN3lDY1c5djN0Yk1zMFozdUluSVBJWjAyc3RseURQLWhR?oc=5",
-      "source": "SBS",
-      "date": "2026-09-24",
-      "summary": "What we do and don't know about the OpenAI hack on Medicare &nbsp;&nbsp; SBS",
-      "categories": [
-        "current"
-      ],
-      "geography": [
-        "National"
-      ],
-      "horizon": "now",
-      "id": "gn-what-we-do-and-don-t-know-about-the-openai-hack-on-medicare-sbs"
-    },
-    {
-      "title": "OpenAI agent ‘hacks Australian government site’ in world first - thetimes.com",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQYzk2OS02UUdPdHJ2dVZzR2E2MzdpNWMwS1ZWVnBWVWZNalVaOXpNcTJ2T0RodWUtVHNxODN3TmlJMzVESkZ5b2M5ZzhCa1FMcGI5RWlyd1RpNks3UkU3eDRRbWhTWHBqdjhlNGZQV2UxcVlRaHFHSmdaaXhUUGpUeE1tX3ZvUWx0akRNazRoaTR6bl9lQmhhNkZGb2VzSXYxSlZkag?oc=5",
-      "source": "thetimes.com",
-      "date": "2026-09-24",
-      "summary": "OpenAI agent ‘hacks Australian government site’ in world first &nbsp;&nbsp; thetimes.com",
-      "categories": [
-        "current"
-      ],
-      "geography": [
-        "National"
-      ],
-      "horizon": "now",
-      "id": "gn-openai-agent-hacks-australian-government-site-in-world-first-thetimes-com"
-    },
-    {
-      "title": "OpenAI agent breaches Australian Medicare portal - Healthcare IT News",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNc29EaXZlY3EzZXJMTVViYy01VWlFMFNaYllyY3FCdnZMVTFIcFlfZ1MwVnRWcEJpTWJubFkyWnFIdTg1UHlFQWJkenF0UG0xSFpiMWc0ZmlDSEp5Wi1xYnJlWHRjRkU0SlRWRkVyYWpwZjRwcUdyWFNmdHphdk1mUU8wZWxGLVl4ZW03MloyVFdDdWZW?oc=5",
-      "source": "Healthcare IT News",
-      "date": "2026-09-24",
-      "summary": "OpenAI agent breaches Australian Medicare portal &nbsp;&nbsp; Healthcare IT News",
-      "categories": [
-        "current"
-      ],
-      "geography": [
-        "National"
-      ],
-      "horizon": "now",
-      "id": "gn-openai-agent-breaches-australian-medicare-portal-healthcare-it-news"
-    },
-    {
-      "title": "Australia’s OpenAI hack just exposed a threat to the AI bubble - AFR",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQQnZnMl9qVHJkTHh1ZlhnbnZtUnRUMnh1OXdCU3lVeFBCVC05clRhbndWaDYwcXBKMGJSZi1YQTRHYVhabS0wbVNNX3B3X0hCLUtWbXpTbHNoWXRzVmRJajlZcjVZaEwxTTY5bnV3cGhVa2pwMVg5RnUySFM0eWYzRHJmdWhjaHl0d2pWOVlvcUZlTzF6bHdlR3JCSjZPX0g1ZmN2dXE5bUx1TnQyUnVn?oc=5",
-      "source": "AFR",
-      "date": "2026-09-24",
-      "summary": "Australia’s OpenAI hack just exposed a threat to the AI bubble &nbsp;&nbsp; AFR",
-      "categories": [
-        "current"
-      ],
-      "geography": [
-        "National"
-      ],
-      "horizon": "now",
-      "id": "gn-australia-s-openai-hack-just-exposed-a-threat-to-the-ai-bubble-afr"
-    },
-    {
-      "title": "OpenAI’s A.I. Tried Breaching Four Other Targets, With No Prompting - The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOZmdNdEU4T2dVMHUwV05rNkZjM0hrcWZRWUlLOTBoOU9BLVl1VTVCR3c5MkQ5QTRkSHFTb0dFUU1lUW56S2R5X3ZRaUR3UFViaGJuTm5FRk5LTmJXanFoUWVEbklfdVI3azB6dEMzbXdwUnhNZUd0UFJDWjFVS21wOXdzRQ?oc=5",
-      "source": "The New York Times",
-      "date": "2026-09-24",
-      "summary": "OpenAI’s A.I. Tried Breaching Four Other Targets, With No Prompting &nbsp;&nbsp; The New York Times",
-      "categories": [
-        "current"
-      ],
-      "geography": [
-        "National"
-      ],
-      "horizon": "now",
-      "id": "gn-openai-s-a-i-tried-breaching-four-other-targets-with-no-prompting-the-new-york-t"
-    },
-    {
-      "title": "Smiles at UN belie stark differences over algorithms and AI - psnews.com.au",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOZEpiSnM2VUxpQUlzTjdzLVRELV9OMVhzYXlVdkNWOGh0WWJ5U1lDcmpvb2hKdnhQLWxEaWN6U0NZdXJqdjNvZEdaNXRFbVljNWJjWVVnTUJCWEMzSWlZZVRNNElZUTB2dVVFNVJTTFBHMkRCUGplR285cmRKcWZzVmpYMXVlR3pLdGgxVkttRVc0bmM?oc=5",
-      "source": "psnews.com.au",
-      "date": "2026-09-24",
-      "summary": "Smiles at UN belie stark differences over algorithms and AI &nbsp;&nbsp; psnews.com.au",
-      "categories": [
-        "current"
-      ],
-      "geography": [
-        "National"
-      ],
-      "horizon": "now",
-      "id": "gn-smiles-at-un-belie-stark-differences-over-algorithms-and-ai-psnews-com-au"
     },
     {
       "id": "seed-nsw-pipeline",
