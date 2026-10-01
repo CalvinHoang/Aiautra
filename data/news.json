@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-01T17:34:09+00:00",
+  "updated": "2026-10-01T22:03:05+00:00",
   "items": [
     {
       "title": "Former judge selected as nation-first AI probe boots up - Yahoo News Australia",
@@ -495,6 +495,96 @@
       ],
       "horizon": "now",
       "id": "gn-nation-first-inquiry-to-probe-impacts-of-ai-genie-the-canberra-times"
+    },
+    {
+      "title": "Australia’s proposed laws could help regulate privacy risks from chatbots – if we get the details right - The Conversation",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQcTg0LTVPNW8xbDRIVGQ4TzktWk04T2FjMUxRWGY4aWMwQXBrS2pIYmd3QkRaRDkzOWNQalVsT3oyRnB0LUR0Uk5aYzRyUFdHOHpubGJFNnJBQnk3TElyVXllS1IwaTJmbjc5dXRpUVBRMG5kMTJBRjZ6QlEzMXFaRzdLM3J5LXlSanFfSzd4bUxTT0VVUjk3ZkJZX3dnNlRMS042UE5JcWFzcGt0ZjBLbjhsbjZmTzE2bDc0T3BTanV1UVp5RU85RFlyV0luY0ZN?oc=5",
+      "source": "The Conversation",
+      "date": "2026-10-01",
+      "summary": "Australia’s proposed laws could help regulate privacy risks from chatbots – if we get the details right &nbsp;&nbsp; The Conversation",
+      "categories": [
+        "current"
+      ],
+      "geography": [
+        "National"
+      ],
+      "horizon": "future",
+      "id": "gn-australia-s-proposed-laws-could-help-regulate-privacy-risks-from-chatbots-if-we"
+    },
+    {
+      "title": "Why AI could be eroding the skills students need most - The Educator",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQZExhNUR2enI1djR2UTE4TmZSQnJWSTJQNHBUOWhLSm9KQ2xONUdVOHg2V1plTGxSU0JIMF9McEMyTzN5Y1NHcTVSU0k4QUQ2VXVTTzJKUVNGenVGV0VCdlJjenpwemFJcHJ5bFFGb3M3WFc2bTZ0UkJqLXpPcmNDMjNKQmU5cEZUR2xra1Vfa2xJcER2WHNSVndiTlB5MkRrWXZHN2Zn?oc=5",
+      "source": "The Educator",
+      "date": "2026-10-01",
+      "summary": "Why AI could be eroding the skills students need most &nbsp;&nbsp; The Educator",
+      "categories": [
+        "current"
+      ],
+      "geography": [
+        "National"
+      ],
+      "horizon": "now",
+      "id": "gn-why-ai-could-be-eroding-the-skills-students-need-most-the-educator"
+    },
+    {
+      "title": "Australia reckons with rogue AI agents - The Economist",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQREdmU0s0MC1YN0NFclVWLWd5dVRZQmxjU0ZrWVlHYVJFc25TanlCOGg2eWNycXBRT0hUcXI0M0VoRWZVeUhwUmFpM1plRFZXU0lkMjJtUzB3a2ZBWG9WRGY5TXRZZFZjZ3hoTlRySHVJT2JMc0NCY1A0R3dYWlB0SGpFNW0tSm11Z2FSVy04dUlZVF9oWUZ3?oc=5",
+      "source": "The Economist",
+      "date": "2026-10-01",
+      "summary": "Australia reckons with rogue AI agents &nbsp;&nbsp; The Economist",
+      "categories": [
+        "current"
+      ],
+      "geography": [
+        "National"
+      ],
+      "horizon": "now",
+      "id": "gn-australia-reckons-with-rogue-ai-agents-the-economist"
+    },
+    {
+      "title": "AI picks up errors in Sheep Producers Australia's Future Flock report - tasmaniancountry.com",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPVFA5cDhLanpmNng4RXN6NVhHSnFuYUJIR1ptZmVtRjZRcjFwQ2p3ZHJuY0dDSC1TLXpVV0NFWmNXRk9vQzNFTHVuYVZva1UyWGhhd25OWW9aM2pGR1doUjdJaWlLX0xIRjZKa010STRHS2UwOE9JdV9qdkktX1ExLUk0ZUZxc3lTYlV5RXNZQ0p1TS1FLUdXSVpuZGNFb202dTRKQzFDY1QyN1RJYU4yd3phblh3SDdkUjVmdkk5cUQ?oc=5",
+      "source": "tasmaniancountry.com",
+      "date": "2026-10-01",
+      "summary": "AI picks up errors in Sheep Producers Australia's Future Flock report &nbsp;&nbsp; tasmaniancountry.com",
+      "categories": [
+        "current"
+      ],
+      "geography": [
+        "TAS"
+      ],
+      "horizon": "now",
+      "id": "gn-ai-picks-up-errors-in-sheep-producers-australia-s-future-flock-report-tasmanianc"
+    },
+    {
+      "title": "Companies now rehiring jobs they cut for AI - ia.acs.org.au",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPb0FtM2Zpdjl2ZlYxRnZVb1IxN3RqNFhDWXdjcVBOR2lSZFNZNTBEcG5ibDFha1dodlI3WFJMSDViangwRDFzZURweGpJSXJYTDg0MWJuYUQ0UE1QclZ2RlBZX3kyOU9oSl94NGw1VnR0Y0IyRWZIV0laclRWa3lNaWNiOUNZUWJuMkpv?oc=5",
+      "source": "ia.acs.org.au",
+      "date": "2026-10-01",
+      "summary": "Companies now rehiring jobs they cut for AI &nbsp;&nbsp; ia.acs.org.au",
+      "categories": [
+        "current"
+      ],
+      "geography": [
+        "National"
+      ],
+      "horizon": "now",
+      "id": "gn-companies-now-rehiring-jobs-they-cut-for-ai-ia-acs-org-au"
+    },
+    {
+      "title": "A timeline of developments in AI safety since the attack on Hugging Face - AP News",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNMURacHFuLUJOMWczTk5zVE1wUXN1TVJaNVFUTGtxU2c5dlRpSVVFT01KX2p4UTd2eUxjNllmSjBoRGFqWkFhT29kUS05SndmVjBlVThoblpjX2VYOXZpWnJ0UmdFUExNdmlwUXlUOVpPWDB4QzZDTmlBVUw5anoxWFlqbzZhNzBqZlhmQ01HQTNLeHMzU05WRGd4dk1vRUZGWmc?oc=5",
+      "source": "AP News",
+      "date": "2026-10-01",
+      "summary": "A timeline of developments in AI safety since the attack on Hugging Face &nbsp;&nbsp; AP News",
+      "categories": [
+        "current"
+      ],
+      "geography": [
+        "National"
+      ],
+      "horizon": "now",
+      "id": "gn-a-timeline-of-developments-in-ai-safety-since-the-attack-on-hugging-face-ap-news"
     },
     {
       "title": "AI breach prompts leaders to hit refresh on old tech - InDaily South Australia",
@@ -1082,6 +1172,51 @@
       ],
       "horizon": "now",
       "id": "gn-ai-breach-prompts-leaders-to-hit-refresh-on-old-tech-indailysa-com-au"
+    },
+    {
+      "title": "How the AI boom is worsening Australia's inflation problem - ia.acs.org.au",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNdVB1N2Z2Nzd1eVdtYlZhMnJWUFlDNEtwSm0xWC1zdnJYR0xDNXVibTFTNkY2S1lGOGc1UjlDTktTWTNEdXJCc0g2VzBUMXYwSlJSaXhyQ0FiN2NCVGNCR1ZDRnBod0NtNVg1aGJxVmNNYXByVER0cHFtd0E3Q1hSSmNoSzI0OUdDemFQdlNuUXZpdkEzZUpfM1RSbHdBLTg?oc=5",
+      "source": "ia.acs.org.au",
+      "date": "2026-09-30",
+      "summary": "How the AI boom is worsening Australia's inflation problem &nbsp;&nbsp; ia.acs.org.au",
+      "categories": [
+        "current"
+      ],
+      "geography": [
+        "National"
+      ],
+      "horizon": "now",
+      "id": "gn-how-the-ai-boom-is-worsening-australia-s-inflation-problem-ia-acs-org-au"
+    },
+    {
+      "title": "Wait, AI is hacking government networks now? - newatlas.com",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNODlBamhUUElhbjFROWZVT0x5MVZNSlVESXRvLUViLTI0UHMwcmRQQjNFTlA2S1hob005RHRYZG0yN1VSU2h3T3NGcDBGdjZtZUxueEh3akhsYl96MnNEZ3ZTS1dlTWx4OVBVQlVfRHpLTGFNenJOWTlXVVVhSEF4dXJFeTZmT0k?oc=5",
+      "source": "newatlas.com",
+      "date": "2026-09-30",
+      "summary": "Wait, AI is hacking government networks now? &nbsp;&nbsp; newatlas.com",
+      "categories": [
+        "current"
+      ],
+      "geography": [
+        "National"
+      ],
+      "horizon": "now",
+      "id": "gn-wait-ai-is-hacking-government-networks-now-newatlas-com"
+    },
+    {
+      "title": "OpenAI says ‘soz, my bad’ to Australia over Medicare debacle - startupdaily.net",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPeDNPV2lVZHU0amwzbUx1SWM0YjRWUHpwaFRtSF84UTdhWTdCRnA0bS0tUlBGaWRrWEU3QkRVZG9lU2FFT0lsOVlCMHNxa0tfM1FweTJOMmdCbFp5aTQwMFRBdUljbWh1SHpQX1c3eFdGcElpQk9nYTkyMU5nY1dOZEFpT1ZjbWNTX2hodTBwTlhQUWdmWnkwOEs2RDlORXJwVTU3eU9vanlGOU95X3hUMVh2QzlvWmI4aVdFaEdSRndlWjNFWUE0NE1RZmxyeG8?oc=5",
+      "source": "startupdaily.net",
+      "date": "2026-09-30",
+      "summary": "OpenAI says ‘soz, my bad’ to Australia over Medicare debacle &nbsp;&nbsp; startupdaily.net",
+      "categories": [
+        "current"
+      ],
+      "geography": [
+        "National"
+      ],
+      "horizon": "now",
+      "id": "gn-openai-says-soz-my-bad-to-australia-over-medicare-debacle-startupdaily-net"
     },
     {
       "title": "OpenAI ‘sorry and working to do better’ after hack of Medicare and other Australian government websites - The Guardian",
@@ -3274,6 +3409,36 @@
       "id": "gn-construction-costs-rise-again-just-as-australia-needs-more-homes-australian-prop"
     },
     {
+      "title": "What can Australia learn from EU's AI laws? - ABC News & Headlines – Australian Broadcasting Corporation",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQODhxTllPYVc2c3NwTi1fYy1vbWtmbG9jck9rQTg4d3B1cU5NT05GcHMzZVAtR3lQcTExTjJQUzdsSmd4R2N1TGVIUl9hVktGYXpMS3hQWmJzYXE5TUlzQ2FZd0RxZ1BHd0YzLURYeDN1dnpPeS1yYlhmbl81aGJfbng3T2k3aUxGdmlTUVFwMkhIWnFkaXl4clY4Y3o4WUxKSzNWcE1KQmV6WnhfWHJwNVVWcw?oc=5",
+      "source": "ABC News & Headlines – Australian Broadcasting Corporation",
+      "date": "2026-09-28",
+      "summary": "What can Australia learn from EU's AI laws? &nbsp;&nbsp; ABC News & Headlines – Australian Broadcasting Corporation",
+      "categories": [
+        "current"
+      ],
+      "geography": [
+        "National"
+      ],
+      "horizon": "now",
+      "id": "gn-what-can-australia-learn-from-eu-s-ai-laws-abc-news-headlines-australian-broadca"
+    },
+    {
+      "title": "Construction costs rise again, just as Australia needs more homes - australianpropertyupdate.com.au",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQNVRKdHJLSTVPSjVhMFJqcWtZazRiclBfbTVybFJXWmZyQ2otMEF4TWlYem9ZZnR1WFNaSWNyeWpfNUsxalBPTzYyREl5a0lmbFBRX0xZUHNwdS1NamthU1pubTd4blVScDNmWDJXNURkMW9NZjByMEEwSUZzNGVtcmF6X2dBWmRSNEp1OHlUMjR6QjZvZ19XTnFTNlN0QjdrczNPUmNFUTl5X0E2?oc=5",
+      "source": "australianpropertyupdate.com.au",
+      "date": "2026-09-28",
+      "summary": "Construction costs rise again, just as Australia needs more homes &nbsp;&nbsp; australianpropertyupdate.com.au",
+      "categories": [
+        "buildouts"
+      ],
+      "geography": [
+        "National"
+      ],
+      "horizon": "now",
+      "id": "gn-construction-costs-rise-again-just-as-australia-needs-more-homes-australianprope"
+    },
+    {
       "title": "‘Incompetent’ energy approach jeopardises security, AI boom - The Australian",
       "url": "https://news.google.com/rss/articles/CBMiowJBVV95cUxOc3NEUVRqQm1Cb1ZhU3dXOWE5TWJWeEdtb3NIa3o1eWlnOU1rQUtyRGZUMVVOamF1N05INHBhbXpfS3djb1l2TUdUOGxEbHJERTRBUTFHRl9XMURkdFdrS3F5eUZsZ2dhSW1WV2VvY25RTW5YcjlUNjJ0c0taZzBibkxna3cyVUNnVm5OS1ZUaEtyYnlLYWNCV0EzUGxpNFhlMFpUUUZRaHRqdU44XzVtbko2NFQ5NERZN0VXUWRIazBsdmFVcVRBQUpjT0xuMVJRc3lnNnAzODZ2NnEtN2tIVnlxVFZsR2s3VlNCc1haR1dFSkswb2JJMTY4Y3FFWVQ0VGxEcHcyZ0NNNzUyRllqXzNPbC1ONUR2N212LUlrc0QtNFU?oc=5",
       "source": "The Australian",
@@ -3603,171 +3768,6 @@
       ],
       "horizon": "now",
       "id": "gn-guide-to-tga-regulation-of-ai-medical-devices-in-australia-insight"
-    },
-    {
-      "title": "‘Collision course’: AI could crush market recovery, says Hamish Douglass - The Australian",
-      "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxPRmpVM0EyaEQ1MzVQRER2WDBaVWRIaDVKcU1rbzRLR053d19xR1JfN0xFWmtZVGR0SXdZRDE0NnZxc0R1ZW1KbGNyWU54SUdJakVJRE5sZ2k1ZzBMVG50NXA2ZkZsUGVQbWIxZGxHWWZSQ3pzZkh1MGhwNnVuaVNsd1NTYjd3NFdTeW9pMjZ4VGZvWk94QVUzdFY3SzVTRkRkYWpGRUZwQ1U5NUZ2WEFYSVlFakVzSTJJX2hVcndrMVR5bzd1MVZhNDZoWWZidklPODBRNU9nbHhtMU9VRUwwTElYZzhoV1QxMnV1LTA2aG93UDlaTy1XU0RMWVdsTVJJdkdyRm1n?oc=5",
-      "source": "The Australian",
-      "date": "2026-09-27",
-      "summary": "‘Collision course’: AI could crush market recovery, says Hamish Douglass &nbsp;&nbsp; The Australian",
-      "categories": [
-        "markets"
-      ],
-      "geography": [
-        "National"
-      ],
-      "horizon": "now",
-      "id": "gn-collision-course-ai-could-crush-market-recovery-says-hamish-douglass-the-austra"
-    },
-    {
-      "title": "OpenAI’s lecture on safety after Medicare hacked - The Australian",
-      "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxPT2VUZVRYal9lcWVlVlI4bXgzMTgtSWJzcVV3b1lVcGR3SzFfWWlUQkItSExZZFAtMmZEYk1sTjg1dno1aTh0VTg1SkJaaWwtREJ1d1hDSVB3YzJOeVh2ZXlhbDVDcXRrNldzc2s5OG92YXFQSy1PMEJKSEpXQ25tRW9TRlpQbDlvWG9GUjQxQjY1cUY0LXcxZzhLQ2tFMFV1LURKOGxtTC1lcmtzejlXdUxHS01EZ3llSWY1SkNkMGk0WXVQTTFyRTJLWEpaMTM5WFlGd0o4UXE1TTlGRzI0b0pvQXpNYVpVOWN3Wkp2YnlzaFhlMloxM2pMZDRBWkRLcG1XMA?oc=5",
-      "source": "The Australian",
-      "date": "2026-09-27",
-      "summary": "OpenAI’s lecture on safety after Medicare hacked &nbsp;&nbsp; The Australian",
-      "categories": [
-        "current"
-      ],
-      "geography": [
-        "National"
-      ],
-      "horizon": "now",
-      "id": "gn-openai-s-lecture-on-safety-after-medicare-hacked-the-australian"
-    },
-    {
-      "title": "British celebrities beat AI companies lobbying to get free use of their work. They have a warning for Australia - The Guardian",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQRVlldVdVM1VwSTJsMy01R0drY3VtTzdQSUhESUU5RmRDMHExMVcxV3IwR0VuR2NyZFdrbGt3WF9lazU0VHBxZlpIR2NLVVVUQlZaVGoxUlVWWndjSV84OEtQbjlzNTk0bXlQLWxYclhCX3htTWdmV29SVHAwdVlnTG9jM3BUaVdvam5pOW81VDEzd1Q2WUdwWjVHZTA0bmI4NWJERg?oc=5",
-      "source": "The Guardian",
-      "date": "2026-09-27",
-      "summary": "British celebrities beat AI companies lobbying to get free use of their work. They have a warning for Australia &nbsp;&nbsp; The Guardian",
-      "categories": [
-        "current"
-      ],
-      "geography": [
-        "National"
-      ],
-      "horizon": "now",
-      "id": "gn-british-celebrities-beat-ai-companies-lobbying-to-get-free-use-of-their-work-the"
-    },
-    {
-      "title": "Australia Senate Requests OpenAI, Anthropic CEOs Face AI Inquiry - Bloomberg",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOZXdVbk9icWx6SFl4QU9wRmd2blc0RTZrZUJ0N1h1czl0OU1xZkQyMXNtbmlFMzRBOFJaTFNTSjRLRjVISEh4dzBCU0tRbHBNbzJrS0FDc18xN2ZVQjNyTkdGa0d3TnljZ2p6c2RHZGJsMDZkVWtxVG5VeGhEb3Ywck1mZ2hLS2JTaU1hOVR1bzRBakcyaFdFaDMweV9mTmJFUU9Id09sQWVTaDdaX0FsM0g3S3M?oc=5",
-      "source": "Bloomberg",
-      "date": "2026-09-27",
-      "summary": "Australia Senate Requests OpenAI, Anthropic CEOs Face AI Inquiry &nbsp;&nbsp; Bloomberg",
-      "categories": [
-        "policy"
-      ],
-      "geography": [
-        "National"
-      ],
-      "horizon": "now",
-      "id": "gn-australia-senate-requests-openai-anthropic-ceos-face-ai-inquiry-bloomberg"
-    },
-    {
-      "title": "Watch 9News Latest Stories - Season 2026 - Artificial intelligence titans called to Canberra - 9Now",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOeHktZXp3WXVTQTE1RG9vUWh4MFlLRDhhYkZEWktLZUp2QUlma2x6Y2l1aHUwV0lGRU1KY1BpWlRRQnFrRDJIOUQ4dGcyTnk0UnVPRlFEV1FUNDk5blNubXIydUJuSkpKT0dLLXB0NEZ2dFVUd1RRQ0t0ZWFoTnkzWDltUWJ1V3hBVXVNQQ?oc=5",
-      "source": "9Now",
-      "date": "2026-09-27",
-      "summary": "Watch 9News Latest Stories - Season 2026 - Artificial intelligence titans called to Canberra &nbsp;&nbsp; 9Now",
-      "categories": [
-        "current"
-      ],
-      "geography": [
-        "ACT"
-      ],
-      "horizon": "now",
-      "id": "gn-watch-9news-latest-stories-season-2026-artificial-intelligence-titans-called-to"
-    },
-    {
-      "title": "OpenAI, Anthropic CEOs called to appear at Australian AI probe - The Straits Times",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQellvVlBUWkg5RHk2S3A2WmJxS3ZFZm9fQWZPSUlDbi1PTndsOTlOaGhYeVZETE9qcE9lTnpBQ2M2X2pLZzlraXNkNFBZUkRxcm1mdFI2d1hNR1hVaXNUcDVaQWpCQS1kS1d3QzFsa0pDR05ndk5zU3RkU0pRWTZ4Wk1ON2R2Mmkxb2ZrTm9QVkNxaXJsT0lEWGQwTm9HNE1yaGl1U3VFdTl5WWs?oc=5",
-      "source": "The Straits Times",
-      "date": "2026-09-27",
-      "summary": "OpenAI, Anthropic CEOs called to appear at Australian AI probe &nbsp;&nbsp; The Straits Times",
-      "categories": [
-        "current"
-      ],
-      "geography": [
-        "National"
-      ],
-      "horizon": "now",
-      "id": "gn-openai-anthropic-ceos-called-to-appear-at-australian-ai-probe-the-straits-times"
-    },
-    {
-      "title": "Albanese wrestles with dilemma of AI ‘Frankenstein’ - The Australian",
-      "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxPS0Y5QXZWWm5UVThMNVFQWVNDNFFUSzBfUm1LOTNrNV8xQkQ1b014LUlyQXlZWkZWSm5kTEE4YUJkLXpOOFo3Y3B3SjhuSGVoSlY0OXAtNVZrOUZCcXlWWE50QXhkeDFaR005eWd5SmNSbW5NQTBXZ1k0Y090cDliNlRnX3pkLUVQYkNadW5WWlRmSHhGLWhQV2ZRaC01UGlXeFBPS29xZ0hUbHVvcDNDVUJia25oU0NGM1NoSVhySmdla0hHeWxqQ3hLNHZMZGdCNjVmODdmQ1VKR3NwNXpDNlZjcFhmNTVfRXNEdVNaZFRBQ1NkNGM5LVppT29yS2tHMU1kZWRNSmxjVktUVUE?oc=5",
-      "source": "The Australian",
-      "date": "2026-09-27",
-      "summary": "Albanese wrestles with dilemma of AI ‘Frankenstein’ &nbsp;&nbsp; The Australian",
-      "categories": [
-        "current"
-      ],
-      "geography": [
-        "National"
-      ],
-      "horizon": "now",
-      "id": "gn-albanese-wrestles-with-dilemma-of-ai-frankenstein-the-australian"
-    },
-    {
-      "title": "'They genuinely believe it': Australian AI researcher on fears in Silicon Valley - Politico",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQZ0RaUlFPcHBQQjRLRGNldk42WGhIdmJhT2dCYUoyX2l4eHlMR1hEMEc5MmFZbnVnVkNUekpfZVM0ZnFBbDFhcWstdDhWVUFmZnJZSFUxOU80OVprUXhXWTJaVnQ1aEY5MkdhOG9UTUZLd2lQYWpDeEtJbGI1U19neEQ2NHRSWmJMVG1WaG9MUHJGakNLMWFuZEhROEVkU0szbDgtQU8wYndkVWN1NzdzQlpxT19hcmlyVDhncFVMWGxTNjdrd3c?oc=5",
-      "source": "Politico",
-      "date": "2026-09-27",
-      "summary": "'They genuinely believe it': Australian AI researcher on fears in Silicon Valley &nbsp;&nbsp; Politico",
-      "categories": [
-        "current"
-      ],
-      "geography": [
-        "National"
-      ],
-      "horizon": "now",
-      "id": "gn-they-genuinely-believe-it-australian-ai-researcher-on-fears-in-silicon-valley-p"
-    },
-    {
-      "title": "‘A new category of threat’: Former ASD boss warns business on AI hack - AFR",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPSEwxeUZpTE91clBFak5lcE52VERQZ2s2eDJ2TU1iNkptZ3pjTXlpNWIxV3NreW1sc2MyM09pTlVOaGZMYk4wYWtrQXZMaE1MSV94UndWdnNvTFhhNEtra2NjMlgzUGsyYzR0ZThNQTgxRWlqdTU0TkE4Z1ozM3RIR3F3U2VDVnJUMHhJSFJ2eXp4UXZXaW9heS1PMDYzR3Z4NHd6UUR5djYtQklQZWE2NkJjOERTSW5IdTlwalRxN0RyaE9CSnFhS0prTEstX3M?oc=5",
-      "source": "AFR",
-      "date": "2026-09-27",
-      "summary": "‘A new category of threat’: Former ASD boss warns business on AI hack &nbsp;&nbsp; AFR",
-      "categories": [
-        "current"
-      ],
-      "geography": [
-        "National"
-      ],
-      "horizon": "now",
-      "id": "gn-a-new-category-of-threat-former-asd-boss-warns-business-on-ai-hack-afr"
-    },
-    {
-      "title": "Why Marvin Minsky was way ahead of his time. - Psychology Today",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPeEdSZ01Sa1laRlZJUEFzSFplcm5YT1k4VGhnTERJZHRDYmlwZmVWUWV6MDFuRGJLMmtsZE9iNnlHMWE1dHdRM04zOHJqbDR3V3FHSExxMWFET3Joc1FaMDBnWTltc0NnMmY2ZXh4aFVka25hMXhnYVZJcTBFbGw4aDZESnFPVTJMcFhCSFZ3NXNNeXhScDQ5ZTI2VW5NQkxzZWpyZENNZTRhOTczLXJTbGhNdEE1MnfSAbwBQVVfeXFMUE5GLW1JTXdjNlhmY0x4UTdDTTAzMFB5cUo5UEx4UGVOOEVxQVBYUnk3dHdsUGJnMGZKbV9ldVFxY2FDek44TWw4d2VleGhPb2FMNWZtMjB1cF9LOHBkZTNQaGVVQmM5bzdZeHR3VzdOVldLbzY3ZTIxSFhFcjBUYTJaUEtsZUpyU3lkR0FXZUJNbTViVzlJdHp6bXVYLVBJVEdVYXhpcjI2a25UYldGZlFPYThMMzF5bWtEaTc?oc=5",
-      "source": "Psychology Today",
-      "date": "2026-09-27",
-      "summary": "Why Marvin Minsky was way ahead of his time. &nbsp;&nbsp; Psychology Today",
-      "categories": [
-        "current"
-      ],
-      "geography": [
-        "National"
-      ],
-      "horizon": "now",
-      "id": "gn-why-marvin-minsky-was-way-ahead-of-his-time-psychology-today"
-    },
-    {
-      "title": "PM should be ensuring systems safe before grandstanding at UN - The Australian",
-      "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQdF9FdDlhcVFtR2dzRkt2SHpWUTl0dFBTdXpReDc2RlMwdGhyRzd4ZEM3QkVHSnpHWjVEVHo2TzI3QUk1V1JfNVFCTTRCTFF0QkRlNjlJSV9ZYTJucWgtaVllUjBadnZkam5BM0ZoWVE5VlMyclktMDNjOFE0Q1VxMFdRdGdJRzFKdDlaektxUXQ5dW9aTGJOTnpnbEtjZlJ1SmItWHBiVGp5U3paYmxELU9xQTJIazVjZFF2dm1zNVJVQlVDNWZIOGZhSHg3cHlDSnNpc2U0TndaV0tGSUlUSnVIMldhVU55SkJHOHF3UFBzWHQ0NzJqMzNQTQ?oc=5",
-      "source": "The Australian",
-      "date": "2026-09-27",
-      "summary": "PM should be ensuring systems safe before grandstanding at UN &nbsp;&nbsp; The Australian",
-      "categories": [
-        "current"
-      ],
-      "geography": [
-        "National"
-      ],
-      "horizon": "now",
-      "id": "gn-pm-should-be-ensuring-systems-safe-before-grandstanding-at-un-the-australian"
     },
     {
       "id": "seed-nsw-pipeline",
