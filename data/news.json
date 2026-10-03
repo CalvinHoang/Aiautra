@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-03T10:42:46+00:00",
+  "updated": "2026-10-03T15:17:23+00:00",
   "items": [
     {
       "title": "AI threatens to destroy so much of our culture. Our greatest loss might be our ability to listen | Shirleene Robinson - The Guardian",
@@ -45,6 +45,22 @@
       ],
       "horizon": "now",
       "id": "gn-eliza-review-an-ambitious-unsettling-play-about-the-birth-of-ai-the-guardian"
+    },
+    {
+      "title": "What does NEXTDC’s large convertible notes raise mean for its AI data centre build-out? - Kalkine Media",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQN2pvU1lsVGtTdncyOGd5ZHN3QmltOXdSeFNKa0oxNHEySzRibVhEVnBoQklXQi1lMk1fSTU3UFRGQTJNSzg0SDNkdVpoenAwX2NaUk4zclNGWVRCLTliT2hVZlVQRlpTSklfWmZ4M3g0aG94NW5UQ0JHNFF5cGU4ZjhyTHRmVjRpZHJhNTJuMmZiNnpMbXA1ZkQ4WDllc2ZzWDhDSFhKczkwdktaYnNuLUx4NFpoeG55Uy1nak1ZNjdQQ0o4Y2RUZWdoVzhVT1JTVldkRlp6VGRMTE9U?oc=5",
+      "source": "Kalkine Media",
+      "date": "2026-10-03",
+      "summary": "What does NEXTDC’s large convertible notes raise mean for its AI data centre build-out? &nbsp;&nbsp; Kalkine Media",
+      "categories": [
+        "buildouts",
+        "investments"
+      ],
+      "geography": [
+        "National"
+      ],
+      "horizon": "now",
+      "id": "gn-what-does-nextdc-s-large-convertible-notes-raise-mean-for-its-ai-data-centre-bui"
     },
     {
       "title": "AI could worsen radicalisation of young Australians. Help parliament understand - The Strategist | ASPI's analysis and commentary site",
@@ -784,6 +800,36 @@
       ],
       "horizon": "now",
       "id": "gn-bull-t-firmus-faces-backlash-over-tasmanian-data-centres-afr"
+    },
+    {
+      "title": "Why Australia's energy transition depends on modern digital foundations - itbrief.com.au",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOV3Zkc2FZQ01iTUhEVWJYNVNPaU5xaEY0TTF1YTQteEF5NnJ1SzlSeDNoZnNsLW5OeU5mbnZhckpDaDZHQUM3WkUxdGxUemlVMFRZRjI3QnJZa0FMWWw0WTVOWHlVNVE0UlV2Ym55SE1NNkRKOF93T29LcFlZZDlXbC1Xb0g5aF9PZlZFY3BNdE9DWHp3a1k0Tkt5VHFzV0NQcXc?oc=5",
+      "source": "itbrief.com.au",
+      "date": "2026-10-02",
+      "summary": "Why Australia's energy transition depends on modern digital foundations &nbsp;&nbsp; itbrief.com.au",
+      "categories": [
+        "current"
+      ],
+      "geography": [
+        "National"
+      ],
+      "horizon": "now",
+      "id": "gn-why-australia-s-energy-transition-depends-on-modern-digital-foundations-itbrief"
+    },
+    {
+      "title": "Australia data centre jobs surge in east coast states - itbrief.com.au",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPSlJwOUI1bVJqbjRxV3NWUGZnby15SUxzSWJtZW41RVVyMVBuLWtGOFRfMTRudEh5NTFGWjZIVk9iLTQzRTlxUEktVHRGWXlBOGlpdXdKNFZPWXZLUGxhQ3UzZEwxVjJLQzdObmdTVjBna2FRV3BtYnlCNTczTG5WY3F3V2dZdS1NMUE?oc=5",
+      "source": "itbrief.com.au",
+      "date": "2026-10-02",
+      "summary": "Australia data centre jobs surge in east coast states &nbsp;&nbsp; itbrief.com.au",
+      "categories": [
+        "buildouts"
+      ],
+      "geography": [
+        "National"
+      ],
+      "horizon": "now",
+      "id": "gn-australia-data-centre-jobs-surge-in-east-coast-states-itbrief-com-au"
     },
     {
       "title": "Former judge selected as nation-first AI probe boots up - Yahoo News Australia",
@@ -3724,51 +3770,6 @@
       ],
       "horizon": "now",
       "id": "gn-shepparton-news-shepparton-news"
-    },
-    {
-      "title": "TCS backs seven charities with pro bono tech support - IT Brief Australia",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPclNrMjZGWlpuT1BLUkNNckt4Ujl6VlFMMGM4M0RxbFNiamVJcVozVWdOX01pMWdUTnlnNEUzRTZiUTNGOFhaVkZHVmMtWEJvMnpwNm0wdTZNSll0My1XU3IwMWpicVUwUDdUY2UxUm96THFIcVdtMmZ1Uk5fYktHcks3S3VIUXV4U2IySTRkQWtyNk10elI5aURCcFdWckhoZ1N0VmlfUVpNZHRuQmNPVE9VeVVNZHVlWXc?oc=5",
-      "source": "IT Brief Australia",
-      "date": "2026-09-28",
-      "summary": "TCS backs seven charities with pro bono tech support &nbsp;&nbsp; IT Brief Australia",
-      "categories": [
-        "current"
-      ],
-      "geography": [
-        "National"
-      ],
-      "horizon": "now",
-      "id": "gn-tcs-backs-seven-charities-with-pro-bono-tech-support-it-brief-australia"
-    },
-    {
-      "title": "How could COSOL (ASX:COS) stand out in Australia’s AI race? - Kalkine Media",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOSzF0WkFOUHdva3plYmNsY3NOdmcyNDdBZ2thT2RhTlRNcW54QVNCNHNzQ3lpcTljemZGcU5GWmRwMFNCVnV6Y1pibHdsVDNVQ2NoclhRbmxWOW1aSllCT3RMTzc4R3hVZ0VIbkJ0aENrUDBkeDdkUlI2QzQwTnI0eGZxV3RZOW5WMHB6YlNxNHFfMjhLUnpjaDV1SmhjTHVjRVpEaWplV2lmemhMLUU5ZUUzaw?oc=5",
-      "source": "Kalkine Media",
-      "date": "2026-09-28",
-      "summary": "How could COSOL (ASX:COS) stand out in Australia’s AI race? &nbsp;&nbsp; Kalkine Media",
-      "categories": [
-        "markets"
-      ],
-      "geography": [
-        "National"
-      ],
-      "horizon": "now",
-      "id": "gn-how-could-cosol-asx-cos-stand-out-in-australia-s-ai-race-kalkine-media"
-    },
-    {
-      "title": "OpenAI, Anthropic CEOs called to Australian Senate inquiry after government hack - MLex",
-      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPYms0VlZRUGFKWVRkelRSVGVQWVRDVS1XSlotQjQ3cnQyRWFSNUV3TldYbHVNaDYtNE5XT3BfUkNGbFh5alhJenBERnAtZ3B6NHExdzBBRnQwQ3ZQS3haMnVqODBEX3E3dmt5T1c2a3RRVElSWFdLaWo1b2EyTDJzcnJCbU1WNmd4OHpzOTdsVW14RlIwbE5LZmlGa2x0TnJhX2ZkUV9QU2J6bkZ6Z2ZPMGdQRGxfM3lPRUVwWEdITHVSXzJabmt4UnZZUkk4bkw1UmFCaUpmUDg1a2xJdzJV0gFaQVVfeXFMTzYybkVLOHJRRDJJZDl2aEljMHNfNWgydUtEV1p6dGRZUFI2U1N5WVp2dUJyd21XajNuY1BSUTFJMDBTQnBWalVvTWpuMW1hY2FZQkNZdGdEWDVB?oc=5",
-      "source": "MLex",
-      "date": "2026-09-28",
-      "summary": "OpenAI, Anthropic CEOs called to Australian Senate inquiry after government hack &nbsp;&nbsp; MLex",
-      "categories": [
-        "policy"
-      ],
-      "geography": [
-        "National"
-      ],
-      "horizon": "now",
-      "id": "gn-openai-anthropic-ceos-called-to-australian-senate-inquiry-after-government-hack"
     },
     {
       "id": "seed-nsw-pipeline",
