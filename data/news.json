@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-03T15:17:23+00:00",
+  "updated": "2026-10-03T20:15:51+00:00",
   "items": [
     {
       "title": "AI threatens to destroy so much of our culture. Our greatest loss might be our ability to listen | Shirleene Robinson - The Guardian",
@@ -61,6 +61,36 @@
       ],
       "horizon": "now",
       "id": "gn-what-does-nextdc-s-large-convertible-notes-raise-mean-for-its-ai-data-centre-bui"
+    },
+    {
+      "title": "Your AI Therapist Will See You Now - Psychology Today",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQYjhQWnpOU2diczUxcHUtLVVDanI4UFp4WlRuS3hpdlpzS3NYMUVlX2RoeEtqbWZsQ2ZEUVdibHdQaEZDRVJWX3MyR1lUdy1jMEFQTHlqTDlSbDRNdjlxTFBLbWs5cVZnTF9ES0dGT091V29WbDhMTXNUelBDUnFSTTkzUGw2c1M1aloxNDVZeDMtZGY3Wkd1andVbkdLUnQtZ0xNWi1tQVVGb3otUzZfRGZ2U2JWWDFxZmpZ?oc=5",
+      "source": "Psychology Today",
+      "date": "2026-10-03",
+      "summary": "Your AI Therapist Will See You Now &nbsp;&nbsp; Psychology Today",
+      "categories": [
+        "current"
+      ],
+      "geography": [
+        "National"
+      ],
+      "horizon": "future",
+      "id": "gn-your-ai-therapist-will-see-you-now-psychology-today"
+    },
+    {
+      "title": "Eliza review – an ambitious, unsettling play about the birth of AI - theguardian.com",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPNWxMSlBkQU5lQzVRYl9FdFI0X1BzSnAzT2o0NUVIR2lQT3NiSE1vci1QRVhWcmxqODNzaWtqUTc0M1ZHQ1lSVVIwNHNFZGI4MFd3Y2FUX3l0eFV0clFnVWYxOE5TX0JUM3FxaVFfQ0hpTnc1bURvbTZKUjd2SW0wQU95NmJkV1hLdFZaYjFZM3VQbERHczE5ejZJVkU?oc=5",
+      "source": "theguardian.com",
+      "date": "2026-10-03",
+      "summary": "Eliza review – an ambitious, unsettling play about the birth of AI &nbsp;&nbsp; theguardian.com",
+      "categories": [
+        "current"
+      ],
+      "geography": [
+        "National"
+      ],
+      "horizon": "now",
+      "id": "gn-eliza-review-an-ambitious-unsettling-play-about-the-birth-of-ai-theguardian-com"
     },
     {
       "title": "AI could worsen radicalisation of young Australians. Help parliament understand - The Strategist | ASPI's analysis and commentary site",
@@ -832,6 +862,96 @@
       "id": "gn-australia-data-centre-jobs-surge-in-east-coast-states-itbrief-com-au"
     },
     {
+      "title": "Age of AI warfare favours attackers, but Australia’s still asleep - theaustralian.com.au",
+      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQLUFYbmFrVGp2bm5yVk5fX3JlTkpORFoyM3ZvMjNzZ29DXzZrdDRkVlRucXhqQWlmYnJxY2lFczlPN1BkRUVEdldzalRDbTE4NFhtVHRiODZ0enQyTXh4ME1SeVZ5ZHUyR0JlR0dFVGVHMXNJZ0ZMZE45dmdDMU1Eck5ITzFyTWJkSGQtQUR1TFEyeWhmS21TSk1lRXltajR0VmZCR2tWYnZ0NnhGZnhmYmpfdkMzR2FoTnlvNThDX3Y2SnZrWmJzLTk4N1dnVDNsQjVvcFhoREw1OXdnb1NuNGs0VQ?oc=5",
+      "source": "theaustralian.com.au",
+      "date": "2026-10-02",
+      "summary": "Age of AI warfare favours attackers, but Australia’s still asleep &nbsp;&nbsp; theaustralian.com.au",
+      "categories": [
+        "current"
+      ],
+      "geography": [
+        "National"
+      ],
+      "horizon": "now",
+      "id": "gn-age-of-ai-warfare-favours-attackers-but-australia-s-still-asleep-theaustralian-c"
+    },
+    {
+      "title": "OpenAI disclose another hack on government department in Australia - theguardian.com",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNTWszNzZRNHE2MTNpMzYxNFJaeWNYUER0cGY5dGNsUjZicUxqUWEzNF8zZUgwaHJseC1scFhFWVplQnZqbjNhVWVrWDhnQnBiRnk0QmEzRzRpX3ZJdUNuZXJQX2pDN1VnR1BndXYwVFM2RFRYaWtkMjVBeWd1eEpBT1VRNUliX2FUWjNFMm1VQ3ZlckY0akxVRjlZREtRcXNQSlhLRlFyWURiYVdMTGpDZ3Z3aHVfc2c1?oc=5",
+      "source": "theguardian.com",
+      "date": "2026-10-02",
+      "summary": "OpenAI disclose another hack on government department in Australia &nbsp;&nbsp; theguardian.com",
+      "categories": [
+        "current"
+      ],
+      "geography": [
+        "National"
+      ],
+      "horizon": "now",
+      "id": "gn-openai-disclose-another-hack-on-government-department-in-australia-theguardian-c"
+    },
+    {
+      "title": "Meta bot leaks seller’s home address and accepts low-ball offer - theaustralian.com.au",
+      "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxPTnBqVGQ5NGhpRTFDZFBFVVFnMHhPLTctaTByQmUwdVJYTVJkQjJYSHBzcUcybThiWDkxUnRXcFhHRFNZaGtUODRkT283RjVXVkc0aE12MllIclUzN1d4aFI1aVlZRVRTUjl5WkhFUTJHcFNsRTRwOWpJT2ZjNWtDaUZFbWdWS1JkUmk0cmNaeFFLZUtxV1lsUGZWWXdJY3N4MGU3VmVwN0pBUFlVdmw3bUR3dlpIclFvM2hjWHhEUU5FUnJvWmwyTXhZZmRMQUJINXJxdFZmRDVRaUlfVzY3UmhYZGpXODU0Q0N3ampGWUotZTBkVmN2ZV8wRGExTEktMjJZTjBKQUk?oc=5",
+      "source": "theaustralian.com.au",
+      "date": "2026-10-02",
+      "summary": "Meta bot leaks seller’s home address and accepts low-ball offer &nbsp;&nbsp; theaustralian.com.au",
+      "categories": [
+        "current"
+      ],
+      "geography": [
+        "National"
+      ],
+      "horizon": "now",
+      "id": "gn-meta-bot-leaks-seller-s-home-address-and-accepts-low-ball-offer-theaustralian-co"
+    },
+    {
+      "title": "Wildfire scandal as OpenAI hacks into another government agency - theaustralian.com.au",
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQY3pGRDRLajIwSndmMXhjbU9VODBCTkIwdlk2ZHc3Y1J6UkUxbTRGRWtILUZsUF9jV2Z4d2hDREVqVm45MWpNdUtvRWJBZk1ZNWNEWHB1SjVyWWJJN1BCSFQ3d3ZzTXVCTUpSNXhUOVRKXzRQTWN5bTVRQ1ozT1hjWGZhQ1B4WkVZMTRyRS1NOVd2Z0pEQzlrcmtoZkoxaEFsdzJWMVBoeG9Xa0RhdHhlWkZNYXFqcDFXbkg5ZTJ2VWFfNnVfTEZEOWlpOFlxTmJKQ0VkVFZOb2R6eHZXcVV3Uw?oc=5",
+      "source": "theaustralian.com.au",
+      "date": "2026-10-02",
+      "summary": "Wildfire scandal as OpenAI hacks into another government agency &nbsp;&nbsp; theaustralian.com.au",
+      "categories": [
+        "current"
+      ],
+      "geography": [
+        "National"
+      ],
+      "horizon": "now",
+      "id": "gn-wildfire-scandal-as-openai-hacks-into-another-government-agency-theaustralian-co"
+    },
+    {
+      "title": "Yes, regulations must protect us – but not stop progress - theaustralian.com.au",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQQkRSclZRNXFYTzhfN3hweEZnc1FYTk1semg5dDB5RHhvaENyQzl4MHFsdTRjNXNSVExxemdiYXJOaFRHaGxpVl9HMlpHSWhZaXo4RnZtZEVMZFl5U2pIdTNZYjJKWlhtSU9nalFNU0ViUzVqTkk0c2hBUTJnUExUdHF0dkhCSlVGNDdqZllIMlFCN085TU1MTFZFb09KeENURzY1YThqNUpwSU10dFhDUG16YktKT3RrRzkzUHdWSFhjWndibFRaeXhnU2h0OFBzSzgxRGhnVzA?oc=5",
+      "source": "theaustralian.com.au",
+      "date": "2026-10-02",
+      "summary": "Yes, regulations must protect us – but not stop progress &nbsp;&nbsp; theaustralian.com.au",
+      "categories": [
+        "policy"
+      ],
+      "geography": [
+        "National"
+      ],
+      "horizon": "now",
+      "id": "gn-yes-regulations-must-protect-us-but-not-stop-progress-theaustralian-com-au"
+    },
+    {
+      "title": "Another OpenAI hack: AI agent took non-public gov data in Australia - yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPMTV6Y25LQUwtcVZOX1BUNkkwckNNZ0ZuelRTekQwd1FGdmttNUFoSERVNkVZekNsVVgxbWZva0JnSHBzQ0E4Y0NmSWh0a0EtRzNHT2htRVpWOEdIcWVIYjB4TjdDcXBsLTF6azhpNkJyeDRXYnIySFUxZU00YWd2WHQwdHk2Uzh0UDVNMFZ3?oc=5",
+      "source": "yahoo.com",
+      "date": "2026-10-02",
+      "summary": "Another OpenAI hack: AI agent took non-public gov data in Australia &nbsp;&nbsp; yahoo.com",
+      "categories": [
+        "current"
+      ],
+      "geography": [
+        "National"
+      ],
+      "horizon": "now",
+      "id": "gn-another-openai-hack-ai-agent-took-non-public-gov-data-in-australia-yahoo-com"
+    },
+    {
       "title": "Former judge selected as nation-first AI probe boots up - Yahoo News Australia",
       "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNdUlBY0M2LU83eHk5MVVFWWlVOXNmLXROZFZhMkk5cFpJN01SOFRxQlp4ZS1VaWY2YWEzTFg2ZTVrMjU4UDhtbEVvaWptR0pJcko1clB1LU1LMEZ2bUR1OGFGX3pkSkVpQ05oVUd5WXlJcXg0blhYdGJzMkxhWEc1ag?oc=5",
       "source": "Yahoo News Australia",
@@ -1597,6 +1717,21 @@
       "id": "gn-what-ireland-s-cautionary-tale-on-data-centres-can-teach-australia-crikey-com-au"
     },
     {
+      "title": "Breach an argument for control of our AI - theaustralian.com.au",
+      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOR3NVQlgwUTQ5OUU3Z29jV0VrekhHdXBwUWdHQmJMTEdsczU3MXFOZWFmYkk0ZDFENzRLVjhGdlJTbG55Wlh2Y1ZUN0U3eERHNHZwSDRfTFVvd0FHM1RwM0R6N2RtWUx4V2lES1lTM0p4WlIxX3lBU193V3c3Z0pCSy01TS1qMUU4cTVkaWZQazFtTXlBME5xOXd1UEgtRkRyd1ZHVEcyZ2VVTGg3VTZRb2NJYjgxRWNTeFRvZ2thMDhZcG16ck03cER0TnBaMjdGbFpHNXJmZ3JPZlJFbmxUMmp2U1JfdjA?oc=5",
+      "source": "theaustralian.com.au",
+      "date": "2026-10-01",
+      "summary": "Breach an argument for control of our AI &nbsp;&nbsp; theaustralian.com.au",
+      "categories": [
+        "current"
+      ],
+      "geography": [
+        "National"
+      ],
+      "horizon": "now",
+      "id": "gn-breach-an-argument-for-control-of-our-ai-theaustralian-com-au"
+    },
+    {
       "title": "AI breach prompts leaders to hit refresh on old tech - InDaily South Australia",
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPeWhrZXlIb3pIcVZYd3c5S2JlOHFWOGFOSXg5WlVFZ0lZMl9UcHM1MzJDaV9UYXJlck1RVENJTVA1NERiTXRKX2dCWVlXcFJMZVhPMTcxYnctVmhqcmRRUHFlVVJRT0ptbVlKYVY4all0Ui1jUzFoNkQxSjdrTXV5WDJJZkI1dkFIV01Jdw?oc=5",
       "source": "InDaily South Australia",
@@ -2302,6 +2437,51 @@
       ],
       "horizon": "now",
       "id": "gn-artificial-intelligence-backlash-is-largely-misplaced-the-australian"
+    },
+    {
+      "title": "Artificial intelligence backlash is ‘largely misplaced’ - theaustralian.com.au",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQSTVSR1l2SFBnUzRQLXBZTWU2R0dfUEZFV2tGY25CMjRNQy1rOXNTTnYtd1ZpTUtVWEJ4VWFuSVZFTXNESHhBdElFQ0RFUjl0SXY0dVlZSGFaUW44S0w0eXJfQ2pFdUthaVR3TFhPMTM1RDRYSVFtUllrd2hEWllZQ1hPZlpjS0lqdm9mZ3E4S2lVX0VnVUtRVnRoWm11STZUd1NuMWNfMVdUM3BPN1ppRnM2X3RHd1RqVDhIbkVTZnVlVGV4T1AtSHd3aWdldTg?oc=5",
+      "source": "theaustralian.com.au",
+      "date": "2026-09-30",
+      "summary": "Artificial intelligence backlash is ‘largely misplaced’ &nbsp;&nbsp; theaustralian.com.au",
+      "categories": [
+        "current"
+      ],
+      "geography": [
+        "National"
+      ],
+      "horizon": "now",
+      "id": "gn-artificial-intelligence-backlash-is-largely-misplaced-theaustralian-com-au"
+    },
+    {
+      "title": "Government ‘sock puppet’ AI bots hidden in digital duty of care bill - theaustralian.com.au",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNclp3aHNBWnR1RnJaVXJMT2E5Zy1PX3d4eGk1dmIxNEI5QmFuY01EMm9IY3hzUU12ckdmZDlPRjlNSnJqZ0FGdTRYYlpYYVlDbGxBRGVfeGthRER3X2lGNk1ZSmFGR1pOMWJKaTlfQlZGeUVHNDQtVW52Z0dwWFNCRElVVEh0dFlmWC1LR3hHbVdPWV82VGVNY2k3OTlMVnp5VHc4Ymk2UU9RWjhYR25hNE9uNzB4aTZqX2U0U1luV2tlTU5CVFJmVDJDWXZVQVJUUU95RXpB?oc=5",
+      "source": "theaustralian.com.au",
+      "date": "2026-09-30",
+      "summary": "Government ‘sock puppet’ AI bots hidden in digital duty of care bill &nbsp;&nbsp; theaustralian.com.au",
+      "categories": [
+        "current"
+      ],
+      "geography": [
+        "National"
+      ],
+      "horizon": "now",
+      "id": "gn-government-sock-puppet-ai-bots-hidden-in-digital-duty-of-care-bill-theaustralian"
+    },
+    {
+      "title": "Trump, tech bosses sign voluntary pact pledging ‘robust’ AI safeguards - aljazeera.com",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNbmkxaXdpblpjU0EzRG9nUUJTWGt2VE9EYzlWd2Nlak5SQ0xfMmRfVnBQTG8zTy1oRTByUHZxSXFSNzFVMFF6b3BtU3BGUy04bkxDcVh6YUQtNTdINk1rRnk0QzZMWlpvVFpLbGs5dEdpNk91YnpqTFphQkRTV0NwZlMwUnVjT2JlZUJYUVBsazM0bHBWY19Cd1FkVlVuQ2RFdGhqdG9B0gGrAUFVX3lxTE11LV9UV3QxeF9VMU9YZS1JUmotR24zNGc2UVVHUWxRMU53NnQ0eVl1clpaOWdSWlRuaVBhS1RPQVM0Wlk4ZU1xQkxvTjBGWFIweEd1Uzl4bEk0Q2ozVG95bXhOUWtzUFBVTHFpNzRUYmFZVE1kYl9iRDQ4bENCUm9sUkttcm5rR1BmT2I4aHZqZVBPYmpGOFYtZnZ2SXo4bnFPYU53X1J1WWpmRQ?oc=5",
+      "source": "aljazeera.com",
+      "date": "2026-09-30",
+      "summary": "Trump, tech bosses sign voluntary pact pledging ‘robust’ AI safeguards &nbsp;&nbsp; aljazeera.com",
+      "categories": [
+        "policy"
+      ],
+      "geography": [
+        "National"
+      ],
+      "horizon": "now",
+      "id": "gn-trump-tech-bosses-sign-voluntary-pact-pledging-robust-ai-safeguards-aljazeera-co"
     },
     {
       "title": "OpenAI ‘sorry and working to do better’ after hack of Medicare and other Australian government websites - The Guardian",
@@ -3587,189 +3767,6 @@
       ],
       "horizon": "now",
       "id": "gn-ai-needs-trust-and-australia-can-provide-the-verification-lowy-institute"
-    },
-    {
-      "title": "Anthropic will not appear at Senate inquiry into AI and datacentres amid fallout from OpenAI hack - The Guardian",
-      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPbGtET0VEaFJwOUpXOWgyS2RtMkJXLXBmcXpYQkZuWkUzWnQtSGUtVFp3Nko5M3BhR3h4c0FIYTI3Z3hlX3p5MkhVaVczT1d2VWNkYnlxV2tuS2k4c2Z0YWozNkVWdzlnQmIzYkxLRlg3THZoUmFaaHpoVTRzRnJETmsyS0padEJpX0YzQUZfeEJYX3ZxNzEzZkZsb3lKSTJUS2J3UFZtNFlKUGF4R2FVUGxYZW1qYXpZVzh1WGN5SVFpQjJGUkNfcGZsVmdDSUpFc2tpN2dQUV84VWdUWWV1cVY2VmNDTUgzLVQ4YnJfTC0?oc=5",
-      "source": "The Guardian",
-      "date": "2026-09-28",
-      "summary": "Anthropic will not appear at Senate inquiry into AI and datacentres amid fallout from OpenAI hack &nbsp;&nbsp; The Guardian",
-      "categories": [
-        "buildouts",
-        "policy"
-      ],
-      "geography": [
-        "National"
-      ],
-      "horizon": "future",
-      "id": "gn-anthropic-will-not-appear-at-senate-inquiry-into-ai-and-datacentres-amid-fallout"
-    },
-    {
-      "title": "Australia’s legacy systems were already a cyber risk. AI agents are raising the stakes - theconversation.com",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNMWlyWjN3MzhINEQyRDlLZmhEV2x0Q2FHcnNlci1udjJVZi1EV3MzLWJSbzV3LUQyXzd2ckt1dEdXMmtRRVNuOWJSa3cwMzAwLVhwcTdYTXB5NVFJVDd0V2lfU2kwZmFKcWI0Q3NwQ0g2SzI4XzZrMnprMFR6dTFyRTBTTlhucEpkT2JyRnZKZHJEQ1JDcUFsNEdxcGYtRG92bkExQkpQZ2FOX19CRmxXZlRSWEZSbG12OFBN?oc=5",
-      "source": "theconversation.com",
-      "date": "2026-09-28",
-      "summary": "Australia’s legacy systems were already a cyber risk. AI agents are raising the stakes &nbsp;&nbsp; theconversation.com",
-      "categories": [
-        "investments"
-      ],
-      "geography": [
-        "National"
-      ],
-      "horizon": "now",
-      "id": "gn-australia-s-legacy-systems-were-already-a-cyber-risk-ai-agents-are-raising-the-s"
-    },
-    {
-      "title": "Data centre body warns Australia risks losing AI investment - Stockhead",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPWFJKdWJrbC1fb0pCdEJZTEhnY2RNWnlwa1VWbERZY1oyV29yaFhyYVgzUmowb2lybUVDZWFxRUFpaU9DRWxKZURJYmJZbmNhSXItb0JaZmNhRUhJdE1zcnJfaGhkX09peE5pNkc4bEhIcmpLYmVFQzVrZVNEN0U3MXdQN1pLR2h3dlViMHJXV3VYang1?oc=5",
-      "source": "Stockhead",
-      "date": "2026-09-28",
-      "summary": "Data centre body warns Australia risks losing AI investment &nbsp;&nbsp; Stockhead",
-      "categories": [
-        "buildouts",
-        "investments",
-        "markets"
-      ],
-      "geography": [
-        "National"
-      ],
-      "horizon": "now",
-      "id": "gn-data-centre-body-warns-australia-risks-losing-ai-investment-stockhead"
-    },
-    {
-      "title": "iGarden releases K70 artificial intelligence pool cleaner in Australia - Vietnam Investment Review - VIR",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOMkhBSmlKNU55Y2Q0d1ZlVnVhQXFCUzdhYUZZXzBuUTE1TDRza3M2VnpHa0c2eS1CYl8xYkZKR3FTS3pzVy1kTGFZdWdwRVlxZUlXWE1SR01sR0x5bWkwZHJSY2huaXU5NXlCOFBuUkNMQW4xR3JsM1lfcWZxcU5UWXQzRDlrM3RjQ0NKbWJlZ2FVR19nd24zVUpnNXNnT051eGxj?oc=5",
-      "source": "Vietnam Investment Review - VIR",
-      "date": "2026-09-28",
-      "summary": "iGarden releases K70 artificial intelligence pool cleaner in Australia &nbsp;&nbsp; Vietnam Investment Review - VIR",
-      "categories": [
-        "investments"
-      ],
-      "geography": [
-        "National"
-      ],
-      "horizon": "now",
-      "id": "gn-igarden-releases-k70-artificial-intelligence-pool-cleaner-in-australia-vietnam-i"
-    },
-    {
-      "title": "Australian Open tennis signs up Chinese-made ball robot - The Australian",
-      "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxQV0pmeHBhMDQ5NlYtTklLbDR5WWNuNnM3dHRncUJZWDgyMEh2QXNSRzNOZE5tQkVUR20xMzFLLTJjQ1lHb1A4aXFaLVhyNTdySGpXb1dJU09ERlVTZ3h3ZXZHVTBNUkdFRmtPcXpNazBwUWpLZTRYeG9BcTdURXR2bUtJckxtNUNxaTRseHl2aTRmYzZWaVAycDA2OVFTTndEdFZUQkpwcjFkc1JMV2lCeC1SY0tSQ0UzcUx0R2VTbUNuTDVFaVlqSEFidHVIX09RNGtRd1NaMkZuX2NjcVRIb01SM0tDcTRSaUQ2WmZOaUgzbGtxcnVQSXRYY1BvN2FicXRPWjdOWXI?oc=5",
-      "source": "The Australian",
-      "date": "2026-09-28",
-      "summary": "Australian Open tennis signs up Chinese-made ball robot &nbsp;&nbsp; The Australian",
-      "categories": [
-        "current"
-      ],
-      "geography": [
-        "National"
-      ],
-      "horizon": "now",
-      "id": "gn-australian-open-tennis-signs-up-chinese-made-ball-robot-the-australian"
-    },
-    {
-      "title": "Employers warned over risks of AI-generated workplace policies - hcamag.com",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOUzhWdG10VGt6ZUpjTV9xMEtpQlM4bUE1eU1BOXBuZ19XajFSN0VGNi1HWnF4RGFhWHdKbFIxT1F1T25TZi13emNLVnl3SUlVRldwTWwwUEtscGtZM3ZsVFE2dDhfY3lLZWl6Q0o0RE5aSk5zWUFUay1nNmxNemcyM1FRU3V0Y3ZxRVNDRzd2cVNCTTUwSUZHYnpfSEl0TFVXdG1qUEcwNGVMeVZ6cW01eThMQXQtY1J5OGhzM0xsdlg2Slk?oc=5",
-      "source": "hcamag.com",
-      "date": "2026-09-28",
-      "summary": "Employers warned over risks of AI-generated workplace policies &nbsp;&nbsp; hcamag.com",
-      "categories": [
-        "current"
-      ],
-      "geography": [
-        "National"
-      ],
-      "horizon": "now",
-      "id": "gn-employers-warned-over-risks-of-ai-generated-workplace-policies-hcamag-com"
-    },
-    {
-      "title": "Anthropic boss to skip Senate grilling into rogue AI agents - SMH.com.au",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOQm9zSnVjc0wwVllYUEI4SlJpeWE4R3Jqd3VqWm9rQU5kSXYwT2c4S1cyaWI2ejlsSmQxcXRXSE8wZFhHTWNCMExlSHFEeVlVLTBoSDcxZ3Jyd1N3UVJCa1RWMy16RUthQ1BnQ3V0MUZvY05hZVpXaXlQMDJEQWQ0WWFwS2ZVeFR5TEVZeEVORGJKOXU3cG04Sl85RUlUcTVzSUdKMnpkWWh4c2ZvdnJMQ2N6UHo?oc=5",
-      "source": "SMH.com.au",
-      "date": "2026-09-28",
-      "summary": "Anthropic boss to skip Senate grilling into rogue AI agents &nbsp;&nbsp; SMH.com.au",
-      "categories": [
-        "current"
-      ],
-      "geography": [
-        "National"
-      ],
-      "horizon": "now",
-      "id": "gn-anthropic-boss-to-skip-senate-grilling-into-rogue-ai-agents-smh-com-au"
-    },
-    {
-      "title": "Australian shoppers warm to AI for holiday shopping - ecommercenews.com.au",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNZWt6cUY3QlczYl9kYl80ZmdUXzhUYWMwSGVBZVluMmdzM3hfckQ2ZHBrN1NqUzdfMU0weG16V0NSekNMVURDb0NBMkVJWE1qenp2dXVRalhIZWZPaktadVk1bUh0NU1EeUJkNHZTRDRVaDVqeTBnMHRvYXdqaDQ3Z0ZPX2NHX1N5MktMZE1IWQ?oc=5",
-      "source": "ecommercenews.com.au",
-      "date": "2026-09-28",
-      "summary": "Australian shoppers warm to AI for holiday shopping &nbsp;&nbsp; ecommercenews.com.au",
-      "categories": [
-        "current"
-      ],
-      "geography": [
-        "National"
-      ],
-      "horizon": "now",
-      "id": "gn-australian-shoppers-warm-to-ai-for-holiday-shopping-ecommercenews-com-au"
-    },
-    {
-      "title": "| Corowa Free Press - Corowa Free Press",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPa1hVNldVOTJhR1R5MXFNbTV6a0Z0cU5hMm5nZzZOcVVvTHlJeUZsNnhLaDMwWGdoNkdGRWlCR3E5RnRHQW9sLUpGVDRhU2tMNWNvRDVmWTF5S1ZrWXBWUDluTUpwUU9lVmp6UVc1VjZ1eUMtZTBBbkRoaDZoR2FETWhvU3RRZUpXa1lIRUJXaGFRNHN6WHYtLW9ZeVo?oc=5",
-      "source": "Corowa Free Press",
-      "date": "2026-09-28",
-      "summary": "| Corowa Free Press &nbsp;&nbsp; Corowa Free Press",
-      "categories": [
-        "current"
-      ],
-      "geography": [
-        "National"
-      ],
-      "horizon": "now",
-      "id": "gn-corowa-free-press-corowa-free-press"
-    },
-    {
-      "title": "xAmplify buys Accelerate IT in Western Australia push - IT Brief Australia",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQeEdiRlF2NGxhalQ2a09YemZ4NkdaalNMUDRhQ2Npemc1OG42VjgydDcxZUdYX1ROalhuYmdVeGxuandUcUxHVnc1NW5HSjB1MnFLS014dXhXWUl1cGNBcTl2UEtHanNQYTVTWm9XTkhTV3JkRjk3aUFwRk9zaFhVUDU5djczZHZkcWc?oc=5",
-      "source": "IT Brief Australia",
-      "date": "2026-09-28",
-      "summary": "xAmplify buys Accelerate IT in Western Australia push &nbsp;&nbsp; IT Brief Australia",
-      "categories": [
-        "current"
-      ],
-      "geography": [
-        "WA"
-      ],
-      "horizon": "now",
-      "id": "gn-xamplify-buys-accelerate-it-in-western-australia-push-it-brief-australia"
-    },
-    {
-      "title": "Hysata launches AI-optimised manufacturing platform at Port Kembla - Australian Manufacturing",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQcFdCR0Y3QnJyWk1QaUEwbnZZWHhaRE9QekJqc2ZFQU1kbkE0dnBQektrOUFRYlJuRDIxellWT0tSUUVhLWp3aVVQRk5MV0xWV3pPUk8yNkNJNXpKRlpoNEVpbjMtTnlFLVNYUGJ1emdobUV6YW1qcE5WUi1GNmhTbjZ2T2UwdmlCYWZTdlVCY1Y3UVp4Y3dGTEpON0duZnh5TjI3LXlGeGdIZjZWM0o4?oc=5",
-      "source": "Australian Manufacturing",
-      "date": "2026-09-28",
-      "summary": "Hysata launches AI-optimised manufacturing platform at Port Kembla &nbsp;&nbsp; Australian Manufacturing",
-      "categories": [
-        "current"
-      ],
-      "geography": [
-        "National"
-      ],
-      "horizon": "now",
-      "id": "gn-hysata-launches-ai-optimised-manufacturing-platform-at-port-kembla-australian-ma"
-    },
-    {
-      "title": "| Shepparton News - Shepparton News",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPaVRhM1R3X1FtT3hybUpPc3p2M09VMnFqYmJXSjN5V1N0cHB1VjA3cERHNE9LT05SMUlMOGEzS2tYV3kyN1BJMnJXVThuNEJkZ3dMNGM5M3psU29fTUxFaDhyVjBtQTN5T3FSN1dpYTFkU0pwSXU0RUNuV0szYnFLZlFSMEc4YUI2LXpNbUtpaFZzMW5Q?oc=5",
-      "source": "Shepparton News",
-      "date": "2026-09-28",
-      "summary": "| Shepparton News &nbsp;&nbsp; Shepparton News",
-      "categories": [
-        "current"
-      ],
-      "geography": [
-        "National"
-      ],
-      "horizon": "now",
-      "id": "gn-shepparton-news-shepparton-news"
     },
     {
       "id": "seed-nsw-pipeline",
